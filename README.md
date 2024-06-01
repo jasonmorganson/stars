@@ -583,7 +583,7 @@
 - [pl4nty/cloudflare-kubernetes-gateway](https://github.com/pl4nty/cloudflare-kubernetes-gateway) - Manage Kubernetes traffic with Cloudflare Tunnels
 - [otterize/intents-operator](https://github.com/otterize/intents-operator) - Manage network policies, AWS, GCP & Azure IAM policies, Istio Authorization Policies, and Kafka ACLs in a Kubernetes cluster with ease.
 - [otterize/credentials-operator](https://github.com/otterize/credentials-operator) - Automatically register and generate AWS, GCP & Azure IAM roles, X.509 certificates and username/password pairs for Kubernetes pods using cert-manager, CNCF SPIRE or Otterize Cloud
-- [kaytu-io/kaytu](https://github.com/kaytu-io/kaytu) - The Kaytu CLI improves the efficiency of cloud workloads by analyzing historical usage and providing tailored recommendations, such as changing instance sizes. This ensures you only pay for the resour
+- [kaytu-io/kaytu](https://github.com/kaytu-io/kaytu) - Kaytu's AI platform boosts cloud efficiency by analyzing historical usage and delivering intelligent recommendations—such as optimizing instance sizes—that maintain reliability. Pay for what you need,
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
 - [shoenig/ssh-key-sync](https://github.com/shoenig/ssh-key-sync) - A tool for synchronizing your GitHub SSH keys onto servers authorized_keys files
 - [samber/sync-ssh-keys](https://github.com/samber/sync-ssh-keys) - 🔐  Sync public ssh keys to ~/.ssh/authorized_keys, based on Github/Gitlab organization membership.
@@ -801,7 +801,7 @@
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO)
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
-- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
+- [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -1683,7 +1683,7 @@
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
 - [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, LLM and vector store agnostic.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 - [ihucos/counter.dev](https://github.com/ihucos/counter.dev) - Web Analytics made simple
@@ -1777,6 +1777,7 @@
 - [thedumbterminal/jsonschema-bigquery](https://github.com/thedumbterminal/jsonschema-bigquery) - Convert JSON schema to Google BigQuery schema
 - [sindresorhus/run-jxa](https://github.com/sindresorhus/run-jxa) - Run JXA code and get the result
 - [darekkay/todoist-export](https://github.com/darekkay/todoist-export) - Backup tool for Todoist
+- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions
@@ -2956,7 +2957,7 @@
 - [sylvainpolletvillard/ObjectModel](https://github.com/sylvainpolletvillard/ObjectModel) - Strong Dynamically Typed Object Modeling for JavaScript
 - [sindresorhus/known](https://github.com/sindresorhus/known) - Allow only access to known object properties using ES2015 Proxy
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
-- [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+- [matype/stylefmt](https://github.com/matype/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 - [postcss/sugarss](https://github.com/postcss/sugarss) - Indent-based CSS syntax for PostCSS
 - [WebReflection/length-1](https://github.com/WebReflection/length-1) - First negative index through Array
 - [marcusradell/reserve](https://github.com/marcusradell/reserve) - A websocket server built around RxJS.
@@ -3986,6 +3987,7 @@
 
 ## Others 
 
+- [formaat-design/reshaped](https://github.com/formaat-design/reshaped) - Community repository for storing examples, reporting issues and tracking roadmap
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask) - Simple and handy overview of applications shortcuts
 - [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started
@@ -4276,6 +4278,7 @@
 
 ## Python 
 
+- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine.
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
 - [ethanweber/toon3d](https://github.com/ethanweber/toon3d) - Code for Toon3D https://toon3d.studio/
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
@@ -4368,7 +4371,7 @@
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [justvanrossum/fontgoggles](https://github.com/justvanrossum/fontgoggles) - FontGoggles: Visual OTL Preview and QA
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
 - [yasyf/compress-gpt](https://github.com/yasyf/compress-gpt) - Self-extracting GPT prompts for ~70% token savings
@@ -4736,7 +4739,7 @@
 
 ## Ruby 
 
-- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Alternative to Hightouch, Census, and RudderStack.
+- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Alternative to Hightouch, Census, and RudderStack - Reverse ETL & Customer Data Platform (CDP)
 - [threeplanetssoftware/apple_cloud_notes_parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser) - Parser for Apple Notes data stored on the Cloud as seen on Apple handsets
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [eradman/ephemeralpg](https://github.com/eradman/ephemeralpg) - Quickly spin up a temporary PostgreSQL test databases
@@ -5100,7 +5103,7 @@
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
 - [losfair/IceCore](https://github.com/losfair/IceCore) - Application container built for WebAssembly
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
@@ -5723,7 +5726,7 @@
 - [harshithmullapudi/airbyte-sdk](https://github.com/harshithmullapudi/airbyte-sdk) - airbyte-sdk is a package to manage Airbyte configurations through your code
 - [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
 - [turt2live/matrix-bot-sdk](https://github.com/turt2live/matrix-bot-sdk) - TypeScript/JavaScript SDK for Matrix bots
-- [cq2-co/cq2](https://github.com/cq2-co/cq2) - The best way to have complex discussions
+- [cq2-co/cq2](https://github.com/cq2-co/cq2) - A better way to discuss
 - [energizeai/actions](https://github.com/energizeai/actions) - Actions is the world's best open source registry of LLM tools. Develop your own with ADE!
 - [lorefnon/ts-sql-codegen](https://github.com/lorefnon/ts-sql-codegen) - Database driven code generation for ts-sql-query
 - [launchcodedev/app-config](https://github.com/launchcodedev/app-config) - Easy Configuration Loader with Strict Validation
@@ -6164,7 +6167,6 @@
 - [tanepiper/svelte-formula](https://github.com/tanepiper/svelte-formula) - Zero-Configuration Reactive forms for Svelte
 - [c4spar/deno-cliffy](https://github.com/c4spar/deno-cliffy) - Command line framework for deno 🦕 Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
-- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [remusao/tldts](https://github.com/remusao/tldts) - JavaScript Library to extract domains, subdomains and public suffixes from complex URIs.
