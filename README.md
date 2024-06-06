@@ -1142,7 +1142,7 @@
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [Agilicus/kustomize-sops](https://github.com/Agilicus/kustomize-sops) - This is a *very* simple wrapper to allow use of [sops](https://github.com/mozilla/sops) encoded secrets within [kustomize](https://github.com/kubernetes-sigs/kustomize).
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
-- [giantswarm/chart-operator](https://github.com/giantswarm/chart-operator) - Deploys Helm charts in Kubernetes workload clusters
+- [giantswarm/chart-operator](https://github.com/giantswarm/chart-operator) - Deploys Helm charts in Kubernetes workload clusters (deprecated)
 - [jkcfg/jk](https://github.com/jkcfg/jk) - Configuration as Code with ECMAScript
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [mumoshu/variant](https://github.com/mumoshu/variant) - Wrap up your bash scripts into a modern CLI today. Graduate to a full-blown golang app tomorrow.
@@ -3986,6 +3986,7 @@
 
 ## Others 
 
+- [dwarvesf/VimMotionApp](https://github.com/dwarvesf/VimMotionApp) - Access macOS UI elements with your fingers stay on keyboard. Inspired by vim-easymotion & avy-mode.
 - [formaat-design/reshaped](https://github.com/formaat-design/reshaped) - Community repository for storing examples, reporting issues and tracking roadmap
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask) - Simple and handy overview of applications shortcuts
@@ -5635,6 +5636,8 @@
 
 ## Swift 
 
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [r-thomson/Nightfall](https://github.com/r-thomson/Nightfall) - A macOS menu bar utility for quickly toggling dark mode, written in Swift.
 - [Ocasio-J/SidecarLauncher](https://github.com/Ocasio-J/SidecarLauncher) - CLI to connect to a Sidecar device.
 - [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
