@@ -1056,7 +1056,7 @@
 - [mgartner/pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres EXPLAIN ANALYZE output.
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [WICG/webpackage](https://github.com/WICG/webpackage) - Web packaging format
-- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & Versatile interactive shell
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [skeema/skeema](https://github.com/skeema/skeema) - Declarative pure-SQL schema management for MySQL and MariaDB
 - [jetstack/jetstack-secure](https://github.com/jetstack/jetstack-secure) - Open source components of Jetstack Secure
@@ -1639,7 +1639,6 @@
 - [thepassle/swtl](https://github.com/thepassle/swtl) - A Service Worker Templating Language (swtl) for component-like templating in service workers. Streams templates to the browser as they're being parsed, and handles rendering iterables/Responses in tem
 - [lamplightdev/ooo](https://github.com/lamplightdev/ooo) - Out of order streaming without JavaScript
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client
 - [architect/architect](https://github.com/architect/architect) - The simplest, most powerful way to build a functional web app (fwa)
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
@@ -2364,7 +2363,7 @@
 - [akamai/boomerang](https://github.com/akamai/boomerang) - End user oriented web performance testing and beaconing
 - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [vadimdemedes/pronto](https://github.com/vadimdemedes/pronto) - ⚡ The now.sh experience for databases
-- [TarikHuber/react-most-wanted](https://github.com/TarikHuber/react-most-wanted) - React starter kit with "Most Wanted" application features
+- [ecronix/react-most-wanted](https://github.com/ecronix/react-most-wanted) - React starter kit with "Most Wanted" application features
 - [expo/pomodoroexp](https://github.com/expo/pomodoroexp) - https://expo.io/@community/pomodoro
 - [ritz078/starring](https://github.com/ritz078/starring) - ⭐️ Automatically star the npm-packages that you are using on GitHub.
 - [djadmin/medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - :computer: A CLI for Medium Stories.
@@ -2429,6 +2428,7 @@
 - [stratos-vetsos/react-selectrix](https://github.com/stratos-vetsos/react-selectrix) - A beautiful, materialized and flexible React Select control
 - [xtuc/webassemblyjs](https://github.com/xtuc/webassemblyjs) - Toolchain for WebAssembly
 - [sindresorhus/generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module
+- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [drcmda/react-animated-tree](https://github.com/drcmda/react-animated-tree) - 🌲Simple to use, configurable tree view with full support for drop-in animations
 - [denisraslov/snappify](https://github.com/denisraslov/snappify) - A generator of Jest snapshot-based tests for React components written with TypeScript 📸
 - [vutran/zel](https://github.com/vutran/zel) - :computer: zel is a small, and simple command-line tool that helps kickstart new projects.
@@ -3886,7 +3886,7 @@
 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+- [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
 ## Meson 
 
@@ -4279,7 +4279,7 @@
 
 ## Python 
 
-- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine.
+- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
 - [ethanweber/toon3d](https://github.com/ethanweber/toon3d) - Code for Toon3D https://toon3d.studio/
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
@@ -5715,6 +5715,7 @@
 
 ## TypeScript 
 
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [versecafe/TinyTriangle](https://github.com/versecafe/TinyTriangle) - A macOS menu bar app for those who spend too much time with Vercel
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [gajus/turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.js.
@@ -5724,7 +5725,7 @@
 - [PejmanNik/puppeteer-report](https://github.com/PejmanNik/puppeteer-report) - Convert HTML to PDF by Puppeteer with support of adding a custom header, footer, and page number
 - [mayank99/ecsstatic](https://github.com/mayank99/ecsstatic) - the predefinite CSS-in-JS library for vite
 - [dsherret/code-block-writer](https://github.com/dsherret/code-block-writer) - Code writer for JavaScript and TypeScript code.
-- [codemod-com/codemod](https://github.com/codemod-com/codemod) - The complete platform for creating, sharing, and running codemods. Automate code migrations, cleanups, and refactors for yourself, colleagues, and the community.
+- [codemod-com/codemod](https://github.com/codemod-com/codemod) - The e2e platform for creating, sharing, and running codemods, built on top of your favorite codemod engine. Automate code migrations, cleanups, and refactors for yourself, colleagues, and the communit
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
 - [faros-ai/airbyte-connectors](https://github.com/faros-ai/airbyte-connectors) - Airbyte connectors (sources & destinations) + Airbyte CDK for JavaScript/TypeScript
@@ -5786,14 +5787,14 @@
 - [deco-cx/prefetch](https://github.com/deco-cx/prefetch) - A Fresh plugin for prefetching pages
 - [deco-cx/deco](https://github.com/deco-cx/deco) - Git-based Visual CMS for Deno, &lt;/&gt; htmx and Tailwind apps. Deploy on any Deno-compatible host.
 - [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source user authentication & management
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Firebase-auth alternative. Developer friendly user auth & management
 - [akash-joshi/rocketrpc](https://github.com/akash-joshi/rocketrpc) - A typesafe framework to destroy client-server barriers.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [craigmichaelmartin/pure-orm](https://github.com/craigmichaelmartin/pure-orm) - A pure ORM for writing native SQL queries yielding pure business objects
 - [howerest/sdkzer](https://github.com/howerest/sdkzer) - Build a Javascript SDK for your REST api as if it was an ORM
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines alternative. Automate security workflows at scale with code and no-code.
 - [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites for best user experience and best Core Web Vitals scores.
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [rtfpessoa/diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty diff to html javascript cli (diff2html-cli)
@@ -5823,6 +5824,7 @@
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - 🌟 Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
 - [3rd/tsdiagram](https://github.com/3rd/tsdiagram) - Create diagrams and plan your code with TypeScript.
 - [mui/mui-toolpad](https://github.com/mui/mui-toolpad) - Toolpad Studio: Low-code admin builder. Open-source and powered by MUI.
+- [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [BemiHQ/bemi](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [sqlc-dev/sqlc-gen-typescript](https://github.com/sqlc-dev/sqlc-gen-typescript) - 
@@ -5990,9 +5992,9 @@
 - [phero-hq/phero](https://github.com/phero-hq/phero) - Full-stack type-safety with pure TypeScript
 - [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a platform to ship collaborative features like comments, notifications, text editors in minutes instead of months.
+- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is the platform for adding collaborative editing, comments, and notifications into your application.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
@@ -6675,7 +6677,6 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [davetemplin/web-request](https://github.com/davetemplin/web-request) - Simplifies making web requests with TypeScript async/await
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
-- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
 - [saadq/lynt](https://github.com/saadq/lynt) - ✨ A zero config JavaScript linter with support for Typescript, Flow, and React.
 - [GoogleCloudPlatform/require-so-slow](https://github.com/GoogleCloudPlatform/require-so-slow) - `require`s taking too much time? Profile 'em.
