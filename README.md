@@ -1419,6 +1419,7 @@
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [tmcw/systemfontstack](https://github.com/tmcw/systemfontstack) - 
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [re-data/re-data](https://github.com/re-data/re-data) - re_data - fix data issues before your users & CEO would discover them 😊
 - [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
 - [alshdavid/BorrowScript](https://github.com/alshdavid/BorrowScript) - TypeScript with a Borrow Checker. Multi-threaded, Tiny binaries. No GC. Easy to write.
@@ -1753,7 +1754,6 @@
 - [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) - Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
 - [signalfx/swagger-cli-client](https://github.com/signalfx/swagger-cli-client) - Generates a command-line interface for any Swagger Specification
 - [wooorm/xdm](https://github.com/wooorm/xdm) - Just a *really* good MDX compiler. No runtime. With esbuild, Rollup, and webpack plugins
-- [frictionlessdata/specs](https://github.com/frictionlessdata/specs) - Technical specifications and guidelines for implementing Frictionless Data.
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [AmraniCh/github-code-font-changer](https://github.com/AmraniCh/github-code-font-changer) - :art: Change and customize the boring GitHub code viewer font.
 - [tiaanduplessis/kill-port](https://github.com/tiaanduplessis/kill-port) - ❌ Kill the process running on given port
@@ -3085,7 +3085,6 @@
 - [peerigon/updtr](https://github.com/peerigon/updtr) - Update outdated npm modules with zero pain™
 - [trueadm/t7](https://github.com/trueadm/t7) - Lightweight virtual DOM templating library
 - [paulvanbladel/aurelia-auth](https://github.com/paulvanbladel/aurelia-auth) - :key: Authentication plugin for aurelia
-- [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [matjaz/aurelia-property-injection](https://github.com/matjaz/aurelia-property-injection) - Automatically inject properties
 - [Strider-CD/strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
 - [andrewdavey/immutable-devtools](https://github.com/andrewdavey/immutable-devtools) - Chrome Dev Tools custom formatter for Immutable-js values
@@ -3111,6 +3110,7 @@
 - [patrickarlt/custom-element-decorators](https://github.com/patrickarlt/custom-element-decorators) - ES 7 decorators to reduce boilerplate when creating custom HTML elements.
 - [athaeryn/farfetched](https://github.com/athaeryn/farfetched) - Response mocking for window.fetch
 - [observing/pre-commit](https://github.com/observing/pre-commit) - Automatically installs a git pre-commit script in your git repository which runs your `npm test` on pre-commit
+- [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [unexpectedjs/unexpected-moment](https://github.com/unexpectedjs/unexpected-moment) - Support for testing Moment.js instances with Unexpected
 - [FremyCompany/css-grid-polyfill](https://github.com/FremyCompany/css-grid-polyfill) - A working implementation of css grids for current browsers.
@@ -3869,6 +3869,7 @@
 - [permitio/docs](https://github.com/permitio/docs) - Our docs site: https://docs.permit.io
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
+- [frictionlessdata/datapackage](https://github.com/frictionlessdata/datapackage) - Data Package is a standard consisting of a set of simple yet extensible specifications to describe datasets, data files and tabular data. It is a data definition language (DDL) and data API that facil
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 
@@ -4164,7 +4165,6 @@
 - [NativeScript/sample-ng-todomvc](https://github.com/NativeScript/sample-ng-todomvc) - Angular2 + NativeScript TodoMVC example
 - [microsoft/TACO](https://github.com/microsoft/TACO) - Tools for Apache Cordova
 - [g-div/nodeplate](https://github.com/g-div/nodeplate) - A boilerplate for your rock-solid node.js projects. Includes static code analysis, development and building tools.
-- [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
 - [wallabyjs/public](https://github.com/wallabyjs/public) - Repository for Wallaby.js questions and issues
 - [ahmetsulek/flat-terminal](https://github.com/ahmetsulek/flat-terminal) - Flat design colours applied to terminal. Terminal is now sweeter than ever!
 - [gocardless/angularjs-style-guide](https://github.com/gocardless/angularjs-style-guide) - AngularJS style guide used at GoCardless
@@ -4814,6 +4814,8 @@
 
 ## Rust 
 
+- [lennart-k/rustical](https://github.com/lennart-k/rustical) - A calendar server written in Rust
+- [JulienMalka/Linkal](https://github.com/JulienMalka/Linkal) - A public-calendar aggregator server
 - [dsully/macos-defaults](https://github.com/dsully/macos-defaults) - A tool for managing macOS defaults declaratively via YAML files.
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
 - [cfallin/weval](https://github.com/cfallin/weval) - 
@@ -5632,7 +5634,6 @@
 - [PostOwl/postowl](https://github.com/PostOwl/postowl) - Create a personal website for your blog, journal and sending letters to friends.
 - [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and 
 - [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.
 - [GoogleChromeLabs/perf-track](https://github.com/GoogleChromeLabs/perf-track) - Tracking framework performance and usage at scale
@@ -5956,7 +5957,7 @@
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
 - [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital) - 💵 Bigcapital is financial accounting with intelligent reporting for faster decision-making, an open-source alternative to Quickbooks, Xero, etc.
 - [FriendlyCaptcha/friendly-challenge](https://github.com/FriendlyCaptcha/friendly-challenge) - The widget and docs for the proof of work challenge used in Friendly Captcha. Protect your websites and online services from spam and abuse with Friendly Captcha, a privacy-first anti-bot solution.
-- [bitwarden/passwordless-client-js](https://github.com/bitwarden/passwordless-client-js) - 
+- [bitwarden/passwordless-client-js](https://github.com/bitwarden/passwordless-client-js) - Bitwarden Passwordless.dev JavaScript SDK.
 - [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 - [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
@@ -6908,6 +6909,7 @@
 - [ademilter/bricklayer](https://github.com/ademilter/bricklayer) - Lightweight and independent Pinterest-like cascading grid layout library
 - [rhysd/neovim-component](https://github.com/rhysd/neovim-component) - &lt;neovim-editor&gt; WebComponent to embed Neovim to your app with great ease
 - [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
+- [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
 - [blakeembrey/free-style](https://github.com/blakeembrey/free-style) - Make CSS easier and more maintainable by using JavaScript
 - [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
