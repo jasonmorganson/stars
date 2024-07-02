@@ -1645,7 +1645,6 @@
 - [kinde-oss/kinde-auth-nextjs](https://github.com/kinde-oss/kinde-auth-nextjs) - Kinde NextJS SDK - authentication for server rendered apps
 - [EasyFrontendHQ/react-tailwindcss-components](https://github.com/EasyFrontendHQ/react-tailwindcss-components) - Free Tailwind UI React JS Components - built to create landing pages and websites. Easyfrontend UI components are free and open-source. show your support and love, don't forget to give us a star 🌟
 - [stack-auth/pgmock](https://github.com/stack-auth/pgmock) - In-memory Postgres for unit/E2E tests
-- [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
 - [Adawg4/openapi-autospec](https://github.com/Adawg4/openapi-autospec) - Proxy server that generates API specs for any app or website on localhost.
 - [denorg/qrcode](https://github.com/denorg/qrcode) - 📇 Generate QR code images in Deno
 - [thepassle/swtl](https://github.com/thepassle/swtl) - A Service Worker Templating Language (swtl) for component-like templating in service workers. Streams templates to the browser as they're being parsed, and handles rendering iterables/Responses in tem
@@ -4867,7 +4866,7 @@
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [tomgroenwoldt/helix-editor-playground](https://github.com/tomgroenwoldt/helix-editor-playground) - Online playground for the helix editor.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
-- [tembo-io/pg_vectorize](https://github.com/tembo-io/pg_vectorize) - The simplest way to orchestrate vector search on Postgres
+- [tembo-io/pg_vectorize](https://github.com/tembo-io/pg_vectorize) - The simplest way to build AI workloads on Postgres
 - [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [explodingcamera/tinywasm](https://github.com/explodingcamera/tinywasm) - A tiny, interpreted WebAssembly Runtime written in Rust
 - [avencera/rustywind](https://github.com/avencera/rustywind) - CLI for organizing Tailwind CSS classes
@@ -5810,6 +5809,7 @@
 - [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative
 - [akash-joshi/rocketrpc](https://github.com/akash-joshi/rocketrpc) - A typesafe framework to destroy client-server barriers.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
+- [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [craigmichaelmartin/pure-orm](https://github.com/craigmichaelmartin/pure-orm) - A pure ORM for writing native SQL queries yielding pure business objects
 - [howerest/sdkzer](https://github.com/howerest/sdkzer) - Build a Javascript SDK for your REST api as if it was an ORM
@@ -5902,7 +5902,7 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic platform  🏓
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software qua
 - [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
 - [evoluhq/evolu](https://github.com/evoluhq/evolu) - A local-first platform designed for privacy, ease of use, and no vendor lock-in
