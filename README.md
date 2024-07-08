@@ -1068,7 +1068,7 @@
 - [jetstack/jetstack-secure](https://github.com/jetstack/jetstack-secure) - Open source components of Jetstack Secure
 - [brendandburns/configula](https://github.com/brendandburns/configula) - Experimental configuration generator inspired by JSX
 - [cloud66-oss/trackman](https://github.com/cloud66-oss/trackman) - Execute commands as a workflow.
-- [micro/micro](https://github.com/micro/micro) - A Go service development platform
+- [micro/micro](https://github.com/micro/micro) - An API first development platform
 - [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party container images
 - [cybertec-postgresql/pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) - pg_timetable: Advanced scheduling for PostgreSQL
 - [apache/airflow-on-k8s-operator](https://github.com/apache/airflow-on-k8s-operator) - Airflow on Kubernetes Operator
@@ -1692,7 +1692,7 @@
 - [ColinEberhardt/langchain-mini](https://github.com/ColinEberhardt/langchain-mini) - 🦜️🔗 This is a very simple re-implementation of LangChain, in ~100 lines of code
 - [Exifly/ApiVault](https://github.com/Exifly/ApiVault) - Your gateway to a world of public APIs.
 - [WebReflection/sqlite-worker](https://github.com/WebReflection/sqlite-worker) - A simple, and persistent, SQLite database for Web and Workers.
-- [ColonelParrot/jscanify](https://github.com/ColonelParrot/jscanify) - Open-source Javascript mobile document scanner.
+- [puffinsoft/jscanify](https://github.com/puffinsoft/jscanify) - Open-source Javascript mobile document scanner.
 - [holepunchto/hypershell](https://github.com/holepunchto/hypershell) - Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted
 - [enhance-dev/enhance.dev](https://github.com/enhance-dev/enhance.dev) - Docs website for Enhance!
 - [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator) - Simple tool to generate HIDUTIL key remapping configurations for MacOS
@@ -4837,7 +4837,7 @@
 - [lennart-k/rustical](https://github.com/lennart-k/rustical) - A calendar server written in Rust
 - [JulienMalka/Linkal](https://github.com/JulienMalka/Linkal) - A public-calendar aggregator server
 - [dsully/macos-defaults](https://github.com/dsully/macos-defaults) - A tool for managing macOS defaults declaratively via YAML files.
-- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
 - [cfallin/weval](https://github.com/cfallin/weval) - 
 - [nomyfan/alias-rs](https://github.com/nomyfan/alias-rs) - A utility to manage aliases across shells. 跨shell的命令别名管理工具。
 - [max-heller/rags](https://github.com/max-heller/rags) - Rust Alias Generator for Shells
