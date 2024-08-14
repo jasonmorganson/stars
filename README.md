@@ -582,6 +582,7 @@
 
 ## Go 
 
+- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [GitJournal/git-auto-sync](https://github.com/GitJournal/git-auto-sync) - Automatically Sync Git Repos
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images from APK packages directly without Dockerfile
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
@@ -1366,7 +1367,7 @@
 - [attic-labs/noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 - [whyrusleeping/gx](https://github.com/whyrusleeping/gx) - A package management tool
 - [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [JonahBraun/wago](https://github.com/JonahBraun/wago) - Automate the actions you do after saving code.
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
 - [TritonDataCenter/containerpilot](https://github.com/TritonDataCenter/containerpilot) - A service for autodiscovery and configuration of applications running in containers
@@ -1602,7 +1603,7 @@
 - [michalchudziak/react-native-geolocation](https://github.com/michalchudziak/react-native-geolocation) - Geolocation APIs for React Native
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
 - [camunda/camunda](https://github.com/camunda/camunda) - Process Orchestration Framework
-- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: the polymorphic database powered by types
+- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: one giant leap for databases
 - [vikeri/react-native-background-job](https://github.com/vikeri/react-native-background-job) - Schedule background jobs in React Native that run your JavaScript when your app is in the background/killed.
 - [jamesisaac/react-native-background-task](https://github.com/jamesisaac/react-native-background-task) - Periodic background tasks for React Native apps, cross-platform (iOS and Android), which run even when the app is closed.
 - [ocetnik/react-native-background-timer](https://github.com/ocetnik/react-native-background-timer) - Emit event periodically (even when app is in the background)
@@ -1707,7 +1708,7 @@
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
 - [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 - [ihucos/counter.dev](https://github.com/ihucos/counter.dev) - Web Analytics made simple
@@ -3774,7 +3775,7 @@
 - [caolan/forms](https://github.com/caolan/forms) - An easy way to create, parse and validate forms in node.js
 - [Marak/translate.js](https://github.com/Marak/translate.js) - translate text from one language to another on node.js and the browser. 30+ languages supported, simple as cake.
 - [Marak/say.js](https://github.com/Marak/say.js) - TTS (text to speech) for node.js. send text from node.js to your speakers.
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
+- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is a middleware layer for Node.js
 - [leeoniya/handlebar.js](https://github.com/leeoniya/handlebar.js) - JS implementation of an expanded & modified (clearer?) syntax of the Mustache templating framework
 - [cloudhead/resourcer](https://github.com/cloudhead/resourcer) - a resource-oriented object-relational mapper for document databases
@@ -4255,7 +4256,7 @@
 ## PLpgSQL 
 
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
 - [launchql/pgsql-parser](https://github.com/launchql/pgsql-parser) - PostgreSQL Query Parser for Node.js
 - [supabase/dbdev](https://github.com/supabase/dbdev) - Database Package Registry for Postgres
 - [sander-io/hasura-jwt-auth](https://github.com/sander-io/hasura-jwt-auth) - Hasura JWT auth using PostgreSQL
@@ -4296,6 +4297,7 @@
 
 ## Python 
 
+- [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
@@ -4488,7 +4490,7 @@
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [bugout-dev/locust](https://github.com/bugout-dev/locust) - "git diff" over abstract syntax trees
 - [DevDungeon/issh](https://github.com/DevDungeon/issh) - Improved SSH: Curses TUI to select SSH connection from ~/.ssh/config file
-- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [osandov/drgn](https://github.com/osandov/drgn) - Programmable debugger
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [Dashlane/dbt-invoke](https://github.com/Dashlane/dbt-invoke) - A CLI for creating, updating, and deleting dbt property files
@@ -4835,6 +4837,8 @@
 
 ## Rust 
 
+- [supabase/pg_replicate](https://github.com/supabase/pg_replicate) - 
+- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly.
 - [narumatt/sqlitefs](https://github.com/narumatt/sqlitefs) - sqlite as a filesystem
@@ -4995,7 +4999,7 @@
 - [zero-sh/apply-user-defaults](https://github.com/zero-sh/apply-user-defaults) - A small utility to set macOS user defaults declaratively from a YAML file.
 - [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Implementation of the Cedar Policy Language
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL query engine for event streams. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. Pos
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Continuous SQL for event streams, database CDC, and time series. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified stream
 - [vmware-labs/wasm-workers-server](https://github.com/vmware-labs/wasm-workers-server) - 🚀 Develop and run serverless applications on WebAssembly
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
@@ -5053,7 +5057,7 @@
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 - [happenslol/qwer](https://github.com/happenslol/qwer) - 
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
 - [jamsocket/plane](https://github.com/jamsocket/plane) - A distributed system for running WebSocket services at scale.
 - [AmineZouitine/rmt.rs](https://github.com/AmineZouitine/rmt.rs) - Rmt is similar to the rm command but saves the deleted elements in the trash and restores them. Rmt is written in Rust 🦀
@@ -5766,6 +5770,8 @@
 
 ## TypeScript 
 
+- [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow for Next.js powered by framer motion
+- [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
@@ -6046,7 +6052,7 @@
 - [Airsequel/SQLiteGPT](https://github.com/Airsequel/SQLiteGPT) - SQL function for SQLite to directly query OpenAI's ChatGPT
 - [RafalWilinski/telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) - Interact with OpenAI's ChatGPT via Telegram and Voice.
 - [bulwarkid/bulwark-passkey](https://github.com/bulwarkid/bulwark-passkey) - BulwarkID FIDO Passkey
-- [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
+- [finic-ai/psychic](https://github.com/finic-ai/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
@@ -6054,7 +6060,7 @@
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 - [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
-- [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 LLM-Observability for Developers. The open-source platform for logging, monitoring, and debugging.
+- [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. Supports OpenAI SDK, Vercel AI SDK, Ant
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 - [watermelontools/watermelon-vscode](https://github.com/watermelontools/watermelon-vscode) - 🍉  VS Code Extension to enrich files of code with code context
 - [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
