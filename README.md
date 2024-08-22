@@ -109,6 +109,7 @@
 
 ## Astro 
 
+- [fairsource/fair.io](https://github.com/fairsource/fair.io) - Software sharing for modern businesses. Engage the developer community with your core products.
 - [JimmyCamus/luna-landing](https://github.com/JimmyCamus/luna-landing) - Template of a business landing page to be configured by json file
 - [Porter-smith/does-it-scale](https://github.com/Porter-smith/does-it-scale) - Build what you want without the unknowns!
 
@@ -4243,6 +4244,7 @@
 
 ## PHP 
 
+- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native lan
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
@@ -4302,6 +4304,7 @@
 
 ## Python 
 
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
@@ -4332,7 +4335,7 @@
 - [NumbersStationAI/DuckDB-NSQL](https://github.com/NumbersStationAI/DuckDB-NSQL) - DuckDB NSQL Model
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
 - [snarfed/bridgy](https://github.com/snarfed/bridgy) - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...
 - [tconbeer/sqlfmt](https://github.com/tconbeer/sqlfmt) - sqlfmt formats your dbt SQL files so you don't have to
 - [airbytehq/open-data-stack](https://github.com/airbytehq/open-data-stack) - Open Data Stack Projects: Examples of End to End Data Engineering Projects
@@ -5029,7 +5032,7 @@
 - [0x6b/libgsqlite](https://github.com/0x6b/libgsqlite) - A SQLite extension which loads a Google Sheet as a virtual table.
 - [ashpil/rush](https://github.com/ashpil/rush) - Basic rust POSIX shell
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [huytd/helix-ui](https://github.com/huytd/helix-ui) - 
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [David-OConnor/pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python
@@ -5684,6 +5687,8 @@
 
 ## Swift 
 
+- [devin-liu/glanceables](https://github.com/devin-liu/glanceables) - Glanceables is a handy macOS desktop app that turns parts of websites into easy-to-view widgets. This app makes it simpler to keep tabs on the important stuff from websites without having to dig aroun
+- [andersrex/notesollama](https://github.com/andersrex/notesollama) - Use Ollama to talk to local LLMs in Apple Notes
 - [ChimeHQ/SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter) - Swift API for the tree-sitter incremental parsing system
 - [daspoon/tree-sitter-kit](https://github.com/daspoon/tree-sitter-kit) - Tree-sitter integration for Swift.
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
@@ -5781,6 +5786,11 @@
 
 ## TypeScript 
 
+- [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
+- [soufianeelc/nextjs-waitlist-page](https://github.com/soufianeelc/nextjs-waitlist-page) - An open-source next.js waitlist landing page with EmailOctopus API 📩
+- [berat/waitlist-landing-page](https://github.com/berat/waitlist-landing-page) - simple and effective waitlist page
+- [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon.
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript notebook for rapid prototyping
 - [Open-Tech-Foundation/js-std](https://github.com/Open-Tech-Foundation/js-std) - An Extensive  JavaScript Standard Library.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
@@ -5823,7 +5833,7 @@
 - [PejmanNik/puppeteer-report](https://github.com/PejmanNik/puppeteer-report) - Convert HTML to PDF by Puppeteer with support of adding a custom header, footer, and page number
 - [mayank99/ecsstatic](https://github.com/mayank99/ecsstatic) - the predefinite CSS-in-JS library for vite
 - [dsherret/code-block-writer](https://github.com/dsherret/code-block-writer) - Code writer for JavaScript and TypeScript code.
-- [codemod-com/codemod](https://github.com/codemod-com/codemod) - The e2e platform for creating, sharing, and running codemods, built on top of your favorite codemod engine. Automate code migrations, cleanups, and refactors for yourself, colleagues, and the communit
+- [codemod-com/codemod](https://github.com/codemod-com/codemod) - The end-to-end platform for creating, sharing, and running codemods with engines like jscodeshift, ast-grep, ts-morph, and more. Automate code migrations, cleanups, and refactors for you, your team, a
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
 - [faros-ai/airbyte-connectors](https://github.com/faros-ai/airbyte-connectors) - Airbyte connectors (sources & destinations) + Airbyte CDK for JavaScript/TypeScript
