@@ -119,7 +119,7 @@
 - [amtoine/dotfiles](https://github.com/amtoine/dotfiles) - My personal archlinux config files.
 - [gyf304/dotenv](https://github.com/gyf304/dotenv) - Standalone, language agnostic dotenv
 - [LingDong-/wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀
-- [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - Transforming a Raspberry Pico into a FIDO key
+- [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - Transforming a Raspberry Pico into a FIDO Passkey
 - [flonatel/pipexec](https://github.com/flonatel/pipexec) - Handling pipe of commands like a single command
 - [moretension/duti](https://github.com/moretension/duti) - A command-line tool to select default applications for document types and URL schemes on Mac OS X
 - [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software
@@ -208,7 +208,6 @@
 - [wasmerio/kernel-wasm](https://github.com/wasmerio/kernel-wasm) - Sandboxed kernel mode WebAssembly runtime.
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [postgrespro/aqo](https://github.com/postgrespro/aqo) - Adaptive query optimization for PostgreSQL
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
@@ -589,6 +588,7 @@
 
 ## Go 
 
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [naftalibeder/porte](https://github.com/naftalibeder/porte) - A tool for fixing and organizing a Google Takeout photos export.
 - [coder/aicommit](https://github.com/coder/aicommit) - become the world's laziest committer
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
@@ -1109,6 +1109,7 @@
 - [carvel-dev/kbld](https://github.com/carvel-dev/kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows
 - [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes
 - [heroku/terrier](https://github.com/heroku/terrier) - Terrier is a Image and Container analysis tool that can be used to scan Images and Containers to identify and verify the presence of specific files according to their hashes.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for multi-instance multi-tenancy
 - [segmentio/ctlstore](https://github.com/segmentio/ctlstore) - Control Data Store
 - [gravitational/teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
@@ -4995,6 +4996,7 @@
 - [Yethal/nu_plugin_hcl](https://github.com/Yethal/nu_plugin_hcl) - A Hashicorp Configuration Language plugin for nushell
 - [sophiajt/nu_app](https://github.com/sophiajt/nu_app) - 
 - [Metaswitch/floki](https://github.com/Metaswitch/floki) - Launch containers to help build your software
+- [metatypedev/metatype](https://github.com/metatypedev/metatype) - Declarative API development platform. Build backend components with WASM, Typescript and Python, no matter where and how your (legacy) systems are.
 - [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow) - An implementation of differential dataflow using timely dataflow on Rust.
 - [fmeringdal/covert](https://github.com/fmeringdal/covert) - 
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
@@ -5815,6 +5817,7 @@
 
 ## TypeScript 
 
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [brandonmcconnell/tailwindcss-signals](https://github.com/brandonmcconnell/tailwindcss-signals) - Signals for Tailwind CSS simplifies styling based on ancestor state via style queries. Its declarative API for signaling states eliminates complex selectors, resulting in cleaner, more maintainable co
 - [cloud-agnost/agnost-gitops](https://github.com/cloud-agnost/agnost-gitops) - Open source GitOps platform running on Kubernetes clusters
 - [benyap/resolve-tspaths](https://github.com/benyap/resolve-tspaths) - Transform path mappings in your compiled Typescript code
@@ -5831,7 +5834,7 @@
 - [amannn/next-intl](https://github.com/amannn/next-intl) - 🌐 Internationalization (i18n) for Next.js
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku / Netlify / Vercel alternative for Kubernetes
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS for Kubernetes
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [fullcalendar/temporal-polyfill](https://github.com/fullcalendar/temporal-polyfill) - A lightweight polyfill for Temporal, successor to the JavaScript Date object
@@ -6068,7 +6071,6 @@
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
 - [Tameyer41/liftoff](https://github.com/Tameyer41/liftoff) - Mock Interview Simulator with AI-Powered Feedback
-- [metatypedev/metatype](https://github.com/metatypedev/metatype) - Declarative API development platform. Build backend components with WASM, Typescript and Python, no matter where and how your (legacy) systems are.
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [stefanbielmeier/doculite](https://github.com/stefanbielmeier/doculite) - Use SQLite as a Document Database
 - [mark-when/mw](https://github.com/mark-when/mw) - Markwhen CLI
@@ -6210,7 +6212,7 @@
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
-- [pluralsh/plural](https://github.com/pluralsh/plural) - Deploy open source software on Kubernetes in record time. 🚀
+- [pluralsh/plural](https://github.com/pluralsh/plural) - Enterprise Kubernetes management, accelerated. 🚀
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
