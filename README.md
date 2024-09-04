@@ -697,6 +697,7 @@
 - [gabe565/gh-profile](https://github.com/gabe565/gh-profile) - :octocat: Use multiple GitHub accounts with the gh cli.
 - [jesseduffield/lazynpm](https://github.com/jesseduffield/lazynpm) - terminal UI for npm
 - [pushbits/server](https://github.com/pushbits/server) - A simple server for push notifications via Matrix (and a minimalistic alternative to Pushover and Gotify) 🚀📯
+- [inngest/inngest](https://github.com/inngest/inngest) - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) - Core components in the OCM project. Report here if you found any issues in OCM.
 - [dispatchrun/timecraft](https://github.com/dispatchrun/timecraft) - The WebAssembly Time Machine
@@ -1585,6 +1586,7 @@
 
 ## Java 
 
+- [syncliteio/SyncLite](https://github.com/syncliteio/SyncLite) - SyncLite : Build Anything Sync Anywhere
 - [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable dire
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
@@ -1657,6 +1659,8 @@
 
 ## JavaScript 
 
+- [shyjal/visual-try-on](https://github.com/shyjal/visual-try-on) - A chrome extension to easily do visual trials of clothing from any e-commerce store
+- [extractus/feed-extractor](https://github.com/extractus/feed-extractor) - Simplest way to read & normalize RSS/ATOM/JSON feed data
 - [blocksmd/blocksmd](https://github.com/blocksmd/blocksmd) - Markdown to amazing forms and web pages
 - [NopeCHALLC/nopecha-nodejs](https://github.com/NopeCHALLC/nopecha-nodejs) - Automated CAPTCHA solver for Node.js.
 - [goshops-com/clipshare](https://github.com/goshops-com/clipshare) - An incredibly simple, open-source alternative to Loom that only requires S3-compatible storage—no servers needed
@@ -3904,7 +3908,6 @@
 ## MDX 
 
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
-- [sst/ion](https://github.com/sst/ion) - SST v3
 - [thiggle/api](https://github.com/thiggle/api) - Structured LLM APIs
 - [permitio/docs](https://github.com/permitio/docs) - Our docs site: https://docs.permit.io
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
@@ -4029,6 +4032,7 @@
 
 ## Others 
 
+- [vizdom-dev/vizdom](https://github.com/vizdom-dev/vizdom) - A TypeScript library for Vizdom
 - [soatok/mastodon-e2ee-specification](https://github.com/soatok/mastodon-e2ee-specification) - Soatok's Proposal for End-to-End Encryption in Mastodon
 - [kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) - 💰 Billing & Payments knowledge for cloud platforms
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
@@ -4325,6 +4329,7 @@
 
 ## Python 
 
+- [buremba/universql](https://github.com/buremba/universql) - Query Snowflake tables locally with DuckDB, without any need for a running warehouse
 - [googleapis/python-bigquery-dataframes](https://github.com/googleapis/python-bigquery-dataframes) - BigQuery DataFrames
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -4347,6 +4352,7 @@
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90+ languages
 - [Filimoa/open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
 - [huggingface/parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [emcf/thepipe](https://github.com/emcf/thepipe) - Extract markdown and images from PDFs, URLs, docs, slides, and more, ready for multimodal LLMs. ⚡
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [aedocw/epub2tts](https://github.com/aedocw/epub2tts) - Turn an epub or text file into an audiobook
@@ -4796,6 +4802,7 @@
 
 ## Ruby 
 
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline)
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Alternative to Hightouch, Census, and RudderStack - Reverse ETL & Customer Data Platform (CDP)
 - [threeplanetssoftware/apple_cloud_notes_parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser) - Parser for Apple Notes data stored on the Cloud as seen on Apple handsets
@@ -4868,6 +4875,7 @@
 
 ## Rust 
 
+- [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [dh1011/llm-term](https://github.com/dh1011/llm-term) - A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models.
 - [jhspetersson/git-task](https://github.com/jhspetersson/git-task) - Local-first task manager/bug tracker within your git repository which can import issues from GitHub.
 - [tmahmood/taskwarrior-web](https://github.com/tmahmood/taskwarrior-web) - Minimalistic web UI for Task warrior
@@ -5817,6 +5825,10 @@
 
 ## TypeScript 
 
+- [karthikmudunuri/saas-landing-page-template](https://github.com/karthikmudunuri/saas-landing-page-template) - Template for saas landing page with dark theme using Next.js 14, React, TailwindCSS, Framer motion
+- [edspencer/stream-multi](https://github.com/edspencer/stream-multi) - 
+- [unstubbable/mfng](https://github.com/unstubbable/mfng) - A Minimal React Server Components Bundler & Library
+- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [brandonmcconnell/tailwindcss-signals](https://github.com/brandonmcconnell/tailwindcss-signals) - Signals for Tailwind CSS simplifies styling based on ancestor state via style queries. Its declarative API for signaling states eliminates complex selectors, resulting in cleaner, more maintainable co
 - [cloud-agnost/agnost-gitops](https://github.com/cloud-agnost/agnost-gitops) - Open source GitOps platform running on Kubernetes clusters
@@ -5948,7 +5960,6 @@
 - [deco-cx/partytown](https://github.com/deco-cx/partytown) - A Partytown plugin for Fresh
 - [deco-cx/prefetch](https://github.com/deco-cx/prefetch) - A Fresh plugin for prefetching pages
 - [deco-cx/deco](https://github.com/deco-cx/deco) - Git-based Visual CMS for Deno, &lt;/&gt; htmx and Tailwind apps. Deploy on any Deno-compatible host.
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative
 - [akash-joshi/rocketrpc](https://github.com/akash-joshi/rocketrpc) - A typesafe framework to destroy client-server barriers.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
@@ -5993,6 +6004,7 @@
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
 - [joone/loz](https://github.com/joone/loz) - Loz is a command-line tool that enables your preferred LLM to execute system commands and utilize Unix pipes, integrating AI capabilities with other Unix tools.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
+- [sst/ion](https://github.com/sst/ion) - SST v3
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Fullstack TypeScript toolkit that enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
 - [oxidecomputer/console](https://github.com/oxidecomputer/console) - Oxide Web Console
 - [lucgagan/auto-playwright](https://github.com/lucgagan/auto-playwright) - Automating Playwright steps using ChatGPT.
@@ -6078,7 +6090,6 @@
 - [InderdeepBajwa/gitid](https://github.com/InderdeepBajwa/gitid) - Management of multiple Git SSH keys made easy
 - [paralleldrive/sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM Support for VSCode
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
-- [inngest/inngest](https://github.com/inngest/inngest) - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
@@ -6718,7 +6729,7 @@
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
 - [transitive-bullshit/functional-typescript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
 - [browserslist/browserslist-useragent](https://github.com/browserslist/browserslist-useragent) - 🦔A utility to match a browserslist query with user agent strings
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
@@ -6884,7 +6895,7 @@
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [Flipkart/recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
 - [mockdeep/typewiz](https://github.com/mockdeep/typewiz) - Automatically discover and add missing types in your TypeScript code
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [pact-foundation/pact-js](https://github.com/pact-foundation/pact-js) - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
