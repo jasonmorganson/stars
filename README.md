@@ -289,7 +289,7 @@
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
-- [janhq/cortex](https://github.com/janhq/cortex) - Drop-in, local AI alternative to the OpenAI stack. Multi-engine (llama.cpp, TensorRT-LLM, ONNX). Powers 👋 Jan
+- [janhq/cortex.cpp](https://github.com/janhq/cortex.cpp) - Run LLMs locally. Multi-engine support (llama.cpp, TensorRT-LLM and ONNX)
 - [hmenyus/node-calls-python](https://github.com/hmenyus/node-calls-python) - Call Python from NodeJS directly in-process without spawning processes
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -588,6 +588,7 @@
 
 ## Go 
 
+- [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [naftalibeder/porte](https://github.com/naftalibeder/porte) - A tool for fixing and organizing a Google Takeout photos export.
 - [coder/aicommit](https://github.com/coder/aicommit) - become the world's laziest committer
@@ -1659,7 +1660,7 @@
 
 ## JavaScript 
 
-- [shyjal/visual-try-on](https://github.com/shyjal/visual-try-on) - A chrome extension to easily do visual trials of clothing from any e-commerce store
+- [shyjal/visual-try-on](https://github.com/shyjal/visual-try-on) - A chrome extension to easily do visual trials of clothing from any e-commerce store. Fill the form below to get notified about release of the simple non-tech version of the extension 👇
 - [extractus/feed-extractor](https://github.com/extractus/feed-extractor) - Simplest way to read & normalize RSS/ATOM/JSON feed data
 - [blocksmd/blocksmd](https://github.com/blocksmd/blocksmd) - Markdown to amazing forms and web pages
 - [NopeCHALLC/nopecha-nodejs](https://github.com/NopeCHALLC/nopecha-nodejs) - Automated CAPTCHA solver for Node.js.
