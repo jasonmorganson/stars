@@ -285,6 +285,8 @@
 
 ## ai 
 
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+- [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
@@ -335,7 +337,7 @@
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
@@ -689,6 +691,7 @@
 
 ## automation 
 
+- [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [nottelabs/notte](https://github.com/nottelabs/notte) - The full stack agentic internet
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
@@ -896,6 +899,7 @@
 
 ## azure 
 
+- [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
 - [Azure/Bridge-To-Kubernetes](https://github.com/Azure/Bridge-To-Kubernetes) - Bridge To Kubernetes (B2K) is development tool to debug microservices, pods which redirects traffic to your local development machine and vice versa.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
@@ -1648,6 +1652,7 @@
 
 ## code 
 
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [jozu-ai/kitops](https://github.com/jozu-ai/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
@@ -2257,7 +2262,7 @@
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is an experimental language for describing data relationships and transformations.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules. Written in Rust.
-- [gridaco/grida](https://github.com/gridaco/grida) - Build anything with ⚡️ Supabase
+- [gridaco/grida](https://github.com/gridaco/grida) - Build anything with ⚡️ Supabase + Shadcn UI
 - [rap2hpoutre/pg-anonymizer](https://github.com/rap2hpoutre/pg-anonymizer) - Dump anonymized PostgreSQL database with a NodeJS CLI
 - [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [dosyago/sirdb](https://github.com/dosyago/sirdb) - :man: a simple, git diffable JSON database on yer filesystem. By the power of NodeJS
@@ -3361,7 +3366,7 @@
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [rbong/vim-flog](https://github.com/rbong/vim-flog) - A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [r2d4/docker-merge](https://github.com/r2d4/docker-merge) - Docker images as git repositories, so you can merge them.
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
@@ -3432,6 +3437,7 @@
 
 ## github 
 
+- [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [chshersh/github-tui](https://github.com/chshersh/github-tui) - 🌒 A TUI for GitHub
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
 - [dolmen/github-keygen](https://github.com/dolmen/github-keygen) - Easy creation of secure SSH configuration for your GitHub account(s)
@@ -5183,7 +5189,7 @@
 - [helios1138/graphql-typed-client](https://github.com/helios1138/graphql-typed-client) - A tool that generates a strongly typed client library for any GraphQL endpoint. The client allows writing GraphQL queries as plain JS objects (with type safety, awesome code completion experience, cus
 - [khaosdoctor/gotql](https://github.com/khaosdoctor/gotql) - GraphQL query utility for serverside apps
 - [yahoo/serialize-javascript](https://github.com/yahoo/serialize-javascript) - Serialize JavaScript to a superset of JSON that includes regular expressions and functions.
-- [ghosh/Micromodal](https://github.com/ghosh/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
+- [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
 - [KFlash/seafox](https://github.com/KFlash/seafox) - A blazing fast 100% spec compliant, self-hosted javascript parser written in Typescript
 - [meriyah/meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
 - [eavichay/microfronts](https://github.com/eavichay/microfronts) - Polyglot Front-End Solution for running multiple frameworks as one
@@ -6443,7 +6449,7 @@
 - [jasonjmcghee/plock](https://github.com/jasonjmcghee/plock) - From anywhere you can type, query and stream the output of an LLM or any other script
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
@@ -6491,6 +6497,7 @@
 
 ## login 
 
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
@@ -7989,6 +7996,7 @@
 
 ## openai 
 
+- [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [nottelabs/notte](https://github.com/nottelabs/notte) - The full stack agentic internet
@@ -8517,7 +8525,7 @@
 - [getampt/docs](https://github.com/getampt/docs) - 
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [GoogleChromeLabs/third-party-capital](https://github.com/GoogleChromeLabs/third-party-capital) - A library that provides best practices for loading popular third-parties
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
 - [newhouseb/clownfish](https://github.com/newhouseb/clownfish) - Constrained Decoding for LLMs against JSON Schema
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
@@ -11355,7 +11363,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
-- [gridaco/grida](https://github.com/gridaco/grida) - Build anything with ⚡️ Supabase
+- [gridaco/grida](https://github.com/gridaco/grida) - Build anything with ⚡️ Supabase + Shadcn UI
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [rap2hpoutre/pg-anonymizer](https://github.com/rap2hpoutre/pg-anonymizer) - Dump anonymized PostgreSQL database with a NodeJS CLI
 - [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
