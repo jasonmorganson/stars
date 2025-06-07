@@ -843,7 +843,7 @@
 
 ## aws 
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow
+- [awslabs/mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
 - [unstubbable/mfng](https://github.com/unstubbable/mfng) - A Minimal React Server Components Bundler & Library
 - [opennextjs/opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) - Open-source Next.js adapter for AWS
 - [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
@@ -2313,7 +2313,7 @@
 - [cybertec-postgresql/pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) - pg_timetable: Advanced scheduling for PostgreSQL
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [segmentio/ctlstore](https://github.com/segmentio/ctlstore) - Control Data Store
-- [kurrent-io/KurrentDB](https://github.com/kurrent-io/KurrentDB) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
+- [kurrent-io/KurrentDB](https://github.com/kurrent-io/KurrentDB) - KurrentDB is a database that's engineered for modern software applications and event-driven architectures. Its event-native design simplifies data modeling and preserves data integrity while the integ
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
@@ -2952,7 +2952,7 @@
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Decentralized private messenger with chat-shared tools and games for Desktop
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [sosuisen/git-documentdb](https://github.com/sosuisen/git-documentdb) - Offline-first Database that Syncs with Git
-- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
@@ -5012,7 +5012,7 @@
 
 ## javascript 
 
-- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡️ Open-source AI-powered CLI for web & mobile localization. Bring your own LLM or use Lingo.dev localization engine. Join discord: https://lingo.dev/go/discord
+- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev engine. Join discord: https://lingo.dev/go/discord
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 - [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Internationalisation solution for JS application focusing on scalability. Make your JavaScript / TypeScript application multilingue.
@@ -8196,6 +8196,7 @@
 
 ## others 
 
+- [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - Remote MCP Servers
 - [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs15 and shadcn ui
 - [adaptive-scale/superclass](https://github.com/adaptive-scale/superclass) - Superclass is a GPT driven Classification engine
@@ -8260,7 +8261,7 @@
 - [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
-- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [Tggl/pg-capture](https://github.com/Tggl/pg-capture) - 
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [paulboguta/alternativeoss](https://github.com/paulboguta/alternativeoss) - 
@@ -8483,7 +8484,7 @@
 - [IHIutch/draft-ui](https://github.com/IHIutch/draft-ui) - A collection of simply designed React components focused on making web accessibility as easy as copy & paste.
 - [eclipse-biscuit/biscuit](https://github.com/eclipse-biscuit/biscuit) - delegated, decentralized, capabilities based authorization token
 - [SilinMeng0510/imgcatr](https://github.com/SilinMeng0510/imgcatr) - cat for images, by RUST 🦀️
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
+- [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [Filimoa/open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
 - [huggingface/parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
 - [google/git-sync-changes](https://github.com/google/git-sync-changes) - Collaborative editing for git repositories
@@ -8713,7 +8714,7 @@
 - [newhouseb/clownfish](https://github.com/newhouseb/clownfish) - Constrained Decoding for LLMs against JSON Schema
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Implementation of the Cedar Policy Language
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
 - [lucydsl/liblucy](https://github.com/lucydsl/liblucy) - Core Lucy compiler
 - [charliermarsh/trellis](https://github.com/charliermarsh/trellis) - Write Dockerfiles and CI pipelines in TypeScript.
 - [cptn-io/el-cptn](https://github.com/cptn-io/el-cptn) - cptn.io is an open-source platform that helps develop and deploy integrations and data pipelines quickly and easily.
@@ -11452,7 +11453,7 @@
 
 ## postgresql 
 
-- [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
+- [dbos-inc/dbos-transact-python](https://github.com/dbos-inc/dbos-transact-python) - Lightweight Durable Python Workflows
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
@@ -11750,7 +11751,7 @@
 
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
+- [dbos-inc/dbos-transact-python](https://github.com/dbos-inc/dbos-transact-python) - Lightweight Durable Python Workflows
 - [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
 - [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Python SDK to Interact with Intelligent Code Generation Agents
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
@@ -12085,7 +12086,7 @@
 
 ## react 
 
-- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡️ Open-source AI-powered CLI for web & mobile localization. Bring your own LLM or use Lingo.dev localization engine. Join discord: https://lingo.dev/go/discord
+- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev engine. Join discord: https://lingo.dev/go/discord
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - The ultimate toolkit for working with APIs.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [CarlosNZ/json-edit-react](https://github.com/CarlosNZ/json-edit-react) - React component for editing/viewing JSON/object data
@@ -12588,7 +12589,7 @@
 
 ## react-native 
 
-- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡️ Open-source AI-powered CLI for web & mobile localization. Bring your own LLM or use Lingo.dev localization engine. Join discord: https://lingo.dev/go/discord
+- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev engine. Join discord: https://lingo.dev/go/discord
 - [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Internationalisation solution for JS application focusing on scalability. Make your JavaScript / TypeScript application multilingue.
 - [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes) - 📱 A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -13468,7 +13469,7 @@
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
-- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
@@ -14498,7 +14499,7 @@
 
 ## typescript 
 
-- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡️ Open-source AI-powered CLI for web & mobile localization. Bring your own LLM or use Lingo.dev localization engine. Join discord: https://lingo.dev/go/discord
+- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev engine. Join discord: https://lingo.dev/go/discord
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - The ultimate toolkit for working with APIs.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
