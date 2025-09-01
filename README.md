@@ -616,6 +616,7 @@
 
 ## Go 
 
+- [VincenzoManto/Datacmd](https://github.com/VincenzoManto/Datacmd) - Datacmd is the fastest, coolest way to turn raw data into stunning terminal dashboards. No setup, no fluff — just run a command and boom, your CSV or API becomes a live data experience. ⚡ CLI dashboar
 - [hyprmcp/mcp-gateway](https://github.com/hyprmcp/mcp-gateway) - Hypr MCP Gateway featuring 1-click plug-in OAuth authorization incl. dynamic client registration and MCP prompt analytics for streamable HTTP MCP server.
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [joohoi/acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.
@@ -1622,7 +1623,6 @@
 - [whatwg/streams](https://github.com/whatwg/streams) - Streams Standard
 - [devinhunt/typebase.css](https://github.com/devinhunt/typebase.css) - A starting point for good typography on the web.
 - [w3c/ServiceWorker](https://github.com/w3c/ServiceWorker) - Service Workers
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [tysonmatanich/viewportSize](https://github.com/tysonmatanich/viewportSize) - Get the size of the CSS viewport using JavaScript.
 - [topcoat/topcoat](https://github.com/topcoat/topcoat) - CSS for clean and fast web apps
 - [ryankee/concrete](https://github.com/ryankee/concrete) - Simple continuous integration server written with NodeJS and CoffeeScript
@@ -1863,7 +1863,7 @@
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [akahuku/wasavi](https://github.com/akahuku/wasavi) - wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.
 - [programmerhat/vim-online-editor](https://github.com/programmerhat/vim-online-editor) - Vim Editor. In the Browser
-- [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance.
+- [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - The most secure, collision-resistant ids optimized for horizontal scaling and performance.
 - [KanHarI/gpt-commit-summarizer](https://github.com/KanHarI/gpt-commit-summarizer) - 
 - [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
 - [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
@@ -2394,7 +2394,7 @@
 - [zemirco/json2csv](https://github.com/zemirco/json2csv) - Convert json to csv with column titles
 - [jarnojellesma/graphql-to-json-converter](https://github.com/jarnojellesma/graphql-to-json-converter) - Converts a graphql schema to JSON
 - [exogen/graphql-markdown](https://github.com/exogen/graphql-markdown) - The easiest way to document your GraphQL schema.
-- [paralleldrive/riteway](https://github.com/paralleldrive/riteway) - Simple, readable, helpful unit tests.
+- [paralleldrive/riteway](https://github.com/paralleldrive/riteway) - Simple, readable, helpful unit tests. Optimized for AI Driven Development.
 - [getify/TNG-Hooks](https://github.com/getify/TNG-Hooks) - Provides React-inspired 'hooks' like useState(..) for stand-alone functions
 - [preactjs/preact-cli](https://github.com/preactjs/preact-cli) - 😺 Your next Preact PWA starts in 30 seconds.
 - [developit/htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
@@ -3183,7 +3183,7 @@
 - [tjmehta/coworkers](https://github.com/tjmehta/coworkers) - A RabbitMQ Microservice Framework in Node.js
 - [ohanhi/hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers) - Terse syntax for hyperscript.
 - [Experience-Monks/devtool](https://github.com/Experience-Monks/devtool) - [OBSOLETE] runs Node.js programs through Chromium DevTools
-- [paralleldrive/cuid](https://github.com/paralleldrive/cuid) - Collision-resistant ids optimized for horizontal scaling and performance.
+- [paralleldrive/cuid](https://github.com/paralleldrive/cuid) - Deprecated collision-resistant id spec. Insecure because it leaks timestamps. Use cuid2 instead.
 - [ericelliott/rfx](https://github.com/ericelliott/rfx) - Self documenting runtime interfaces.
 - [ericelliott/rtype](https://github.com/ericelliott/rtype) - Intuitive structural type notation for JavaScript.
 - [vjeux/jsxdom](https://github.com/vjeux/jsxdom) - DOM backend for JSX
@@ -4502,7 +4502,7 @@
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from
 - [stackless-dev/stackless](https://github.com/stackless-dev/stackless) - The Stackless Python programming language
 - [Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist) - Easily take an entire YouTube playlist and turn it into high quality transcripts using Whisper.
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
@@ -5696,6 +5696,7 @@
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [PumpkinDB/PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) - Immutable Ordered Key-Value Database Engine
 - [qltysh/qlty](https://github.com/qltysh/qlty) - 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 
 ## SCSS 
 
@@ -5732,6 +5733,7 @@
 
 ## Shell 
 
+- [jasonmorganson/dotfiles](https://github.com/jasonmorganson/dotfiles) - Dotfiles, managed with chezmoi
 - [cdown/sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you ssh
 - [lsferreira42/timeout.sh](https://github.com/lsferreira42/timeout.sh) - 
 - [release-lab/install](https://github.com/release-lab/install) - install script for any command line tools
@@ -5790,7 +5792,6 @@
 - [zimfw/git](https://github.com/zimfw/git) - Provides nice git aliases and functions.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [emcrisostomo/jwt-cli](https://github.com/emcrisostomo/jwt-cli) - A shell library to decode JWT tokens
-- [jasonmorganson/dotfiles](https://github.com/jasonmorganson/dotfiles) - Dotfiles, managed with chezmoi
 - [falzm/burl](https://github.com/falzm/burl) - Pure Bash HTTP client
 - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
@@ -6154,6 +6155,7 @@
 
 ## TypeScript 
 
+- [LukeGus/Termix](https://github.com/LukeGus/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [MCPCat/mcpcat-typescript-sdk](https://github.com/MCPCat/mcpcat-typescript-sdk) - MCPcat is an analytics platform for MCP server owners 🐱.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
