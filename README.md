@@ -616,6 +616,8 @@
 
 ## Go 
 
+- [skorokithakis/dox](https://github.com/skorokithakis/dox) - A runner that runs commands in Docker containers.
+- [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [VincenzoManto/Datacmd](https://github.com/VincenzoManto/Datacmd) - Datacmd is the fastest, coolest way to turn raw data into stunning terminal dashboards. No setup, no fluff — just run a command and boom, your CSV or API becomes a live data experience. ⚡ CLI dashboar
 - [hyprmcp/mcp-gateway](https://github.com/hyprmcp/mcp-gateway) - Hypr MCP Gateway featuring 1-click plug-in OAuth authorization incl. dynamic client registration and MCP prompt analytics for streamable HTTP MCP server.
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
@@ -873,7 +875,7 @@
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [openziti/runzmd](https://github.com/openziti/runzmd) - Runnable Markdown for Tutorials and Demos
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern Authentication—On Your Terms. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first authentication and user management for B2C and B2B. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [superedge/superedge](https://github.com/superedge/superedge) - An edge-native container management system for edge computing
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
@@ -934,7 +936,7 @@
 - [kubernetes-sigs/secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
-- [GoogleContainerTools/kpt-config-sync](https://github.com/GoogleContainerTools/kpt-config-sync) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
+- [GoogleContainerTools/config-sync](https://github.com/GoogleContainerTools/config-sync) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
@@ -1097,6 +1099,7 @@
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
+- [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [cruise-automation/rbacsync](https://github.com/cruise-automation/rbacsync) - Automatically sync groups into Kubernetes RBAC
 - [miguelmota/streamhut](https://github.com/miguelmota/streamhut) - Stream your terminal to web without installing anything 🌐 by @miguelmota
 - [git-hooks/git-hooks](https://github.com/git-hooks/git-hooks) - git hooks manager
@@ -1758,6 +1761,7 @@
 
 ## JavaScript 
 
+- [llmspec/llms-spec](https://github.com/llmspec/llms-spec) - LLMS.md: A proposed open standard for guiding Large Language Models in code repositories — the README.md for AI agents.
 - [openfiletax/openfile](https://github.com/openfiletax/openfile) - A free tax tool based on IRS Direct File
 - [MightyDillah/apple-doc-mcp](https://github.com/MightyDillah/apple-doc-mcp) - "MCP server providing seamless access to Apple Developer Documentation with smart search and wildcard support
 - [tiagozip/cap](https://github.com/tiagozip/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
@@ -1885,7 +1889,7 @@
 - [second-state/wasmedge-quickjs](https://github.com/second-state/wasmedge-quickjs) - A high-performance, secure, extensible, and OCI-complaint JavaScript runtime for WasmEdge.
 - [bytenode/bytenode](https://github.com/bytenode/bytenode) - A minimalist bytecode compiler for Node.js
 - [joejag/tcr](https://github.com/joejag/tcr) - Get going with 'test && commit || revert' in seconds
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [jimniels/readlists](https://github.com/jimniels/readlists) - A readlist is a mixtape, but for online content.
 - [riok/Kreya](https://github.com/riok/Kreya) - Kreya is a GUI client for gRPC and REST APIs with innovative features for environments, authorizations and more.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
@@ -2047,7 +2051,7 @@
 - [snipsnapdev/snipsnap](https://github.com/snipsnapdev/snipsnap) - Speed up your development with a powerful set of tools
 - [vvo/tzdb](https://github.com/vvo/tzdb) - 🕰 Simplified, grouped and always up to date list of time zones, with major cities
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
-- [remorses/fumabase](https://github.com/remorses/fumabase) - Docs websites for the agents era. Publish docs websites without maintaining any code. Built on top of Fumadocs
+- [remorses/holocron](https://github.com/remorses/holocron) - Lovable for docs websites
 - [endojs/endo](https://github.com/endojs/endo) - Endo is a distributed secure JavaScript sandbox, based on SES
 - [apple/password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
 - [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
@@ -2552,7 +2556,6 @@
 - [ecrmnn/collect.js](https://github.com/ecrmnn/collect.js) - 💎  Convenient and dependency free wrapper for working with arrays and objects
 - [plibither8/licensed](https://github.com/plibither8/licensed) - ⚖️ ✔️ licensed is an interactive command line tool to help you choose and add licenses to your projects
 - [jhen0409/react-native-debugger](https://github.com/jhen0409/react-native-debugger) - The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools
-- [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [hectahertz/react-native-typography](https://github.com/hectahertz/react-native-typography) - Pixel–perfect, native–looking typographic styles for React Native ✒️
 - [bartgryszko/react-native-circular-progress](https://github.com/bartgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
 - [halilb/react-native-textinput-effects](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and android. Built with react native and inspired by Codrops.
@@ -3394,7 +3397,7 @@
 - [dominictarr/mynosql](https://github.com/dominictarr/mynosql) - 
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [web-animations/web-animations-js](https://github.com/web-animations/web-animations-js) - JavaScript implementation of the Web Animations API
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - "Unmask Your Traffic" - UAParser.js: The Essential Web Development Tool for User-Agent Detection
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - The most comprehensive, compact, and up-to-date JavaScript library to detect user's browser, OS, CPU, and device type/model. Also detect bots, apps, and more. Runs seamlessly in the browser (client-si
 - [ebidel/idb.filesystem.js](https://github.com/ebidel/idb.filesystem.js) - HTML5 Filesystem API polyfill using IndexedDB
 - [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
 - [Schepp/CSS-Filters-Polyfill](https://github.com/Schepp/CSS-Filters-Polyfill) - This polyfill takes the official CSS filters syntax and translates it to the different equivalent techniques that the browsers know for those effects
@@ -4014,6 +4017,7 @@
 ## Makefile 
 
 - [wamp-proto/wamp-proto](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol
+- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, superpowered Siri/Alexa for time, storage, meetings, email, tasks, finance, notes, search, shopify, marketing, design, web app and research
 - [OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO)
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) - Working Draft of the RISC-V J Extension Specification
 - [dbt-labs/dbt-utils](https://github.com/dbt-labs/dbt-utils) - Utility functions for dbt projects.
@@ -4522,7 +4526,7 @@
 - [emcf/thepipe](https://github.com/emcf/thepipe) - Get clean data from tricky documents, powered by vision-language models ⚡
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [aedocw/epub2tts](https://github.com/aedocw/epub2tts) - Turn an epub or text file into an audiobook
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one automation platform (workflows, tables, cases) for security and IT teams. Open source Splunk SOAR / Tines alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one automation platform (workflows, tables, cases) for security and IT teams. Open source Splunk SOAR / PAN XSOAR / Tines alternative.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [skyffel/airbyte-connector-generator-poc](https://github.com/skyffel/airbyte-connector-generator-poc) - proof of concept to generate Airbyte low-code YAML connectors from API documentation
 - [vocodedev/vocode-core](https://github.com/vocodedev/vocode-core) - 🤖 Build voice-based LLM agents. Modular + open source.
@@ -5046,6 +5050,9 @@
 
 ## Rust 
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+- [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - 
+- [Tortured-Metaphor/LightCycle](https://github.com/Tortured-Metaphor/LightCycle) - A Rust LightCycle Game
 - [whit3rabbit/bubbletea-rs](https://github.com/whit3rabbit/bubbletea-rs) - A rust implementation of Bubbletea https://github.com/charmbracelet/bubbletea
 - [zed-industries/agent-client-protocol](https://github.com/zed-industries/agent-client-protocol) - A protocol for connecting any editor to any agent
 - [ekropotin/quickmark](https://github.com/ekropotin/quickmark) - Quickmark is a Markdown linter written in Rust with first-class LSP support, giving you fast, seamless feedback in any editor.
@@ -6155,9 +6162,11 @@
 
 ## TypeScript 
 
+- [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp) - Use Claude Code from any ACP client such as Zed!
+- [NSHipster/sosumi.ai](https://github.com/NSHipster/sosumi.ai) - Making Apple docs AI-readable
 - [LukeGus/Termix](https://github.com/LukeGus/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [MCPCat/mcpcat-typescript-sdk](https://github.com/MCPCat/mcpcat-typescript-sdk) - MCPcat is an analytics platform for MCP server owners 🐱.
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery.
 - [instavm/coderunner-ui](https://github.com/instavm/coderunner-ui) - Chat UI for Coderunner
@@ -6181,19 +6190,19 @@
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) - A Node.js package and GitHub Action for evaluating MCP (Model Context Protocol) tool implementations using LLM-based scoring. This helps ensure your MCP server's tools are working correctly and perfor
 - [mapbox/mcp-server](https://github.com/mapbox/mcp-server) - Mapbox Model Context Protocol (MCP) server
 - [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @oracle
-- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev engine. Join discord: https://lingo.dev/go/discord
+- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Translation Engine. Join discord:
 - [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs 15 and Shadcn ui
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - The ultimate toolkit for working with APIs.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Internationalisation solution for JS application focusing on scalability. Make your JavaScript / TypeScript application multilingue.
 - [useautumn/autumn](https://github.com/useautumn/autumn) - Autumn is an open-source pricing & billing platform
 - [lightfeed/extractor](https://github.com/lightfeed/extractor) - Using LLMs and AI Browser Automation to Robustly Extract Web Data
 - [vanska/typed-string-interpolation](https://github.com/vanska/typed-string-interpolation) - String interpolation with correct return type based on passed variable substitutions
 - [Hrdtr/guantr](https://github.com/Hrdtr/guantr) - Flexible, type-safe JavaScript library for efficient authorization and permission checking
 - [enszrlu/NextStep](https://github.com/enszrlu/NextStep) - Lightweight onboarding library for Next.js
-- [macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) - Robust and fast parser and generator for RSS, Atom, JSON Feed, and RDF feeds, with support for Podcast, iTunes, Dublin Core, and OPML files.
+- [macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) - Fast, all-in-one parser and generator for RSS, Atom, JSON Feed, and RDF feeds, with support for Podcast, iTunes, Dublin Core, and OPML files.
 - [metatool-ai/mcp-server-metamcp](https://github.com/metatool-ai/mcp-server-metamcp) - MCP Server MetaMCP manages all your other MCPs in one MCP.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework
 - [permitio/permit-prisma](https://github.com/permitio/permit-prisma) - Fine-Grained Authorization Client Extension for Prisma ORM
@@ -6708,7 +6717,6 @@
 - [jamsocket/driftdb](https://github.com/jamsocket/driftdb) - A real-time data backend for browser-based applications.
 - [Mokshit06/typewind](https://github.com/Mokshit06/typewind) - The safety of Typescript with the magic of Tailwind.
 - [pashword/pashword](https://github.com/pashword/pashword) - 🔒 Pashword - Never forget passwords ever again! Free and Open Source Hashed Password Generator
-- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, superpowered Siri/Alexa for time, storage, meetings, email, tasks, finance, notes, search, shopify, marketing, design, web app and research
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
@@ -6785,7 +6793,7 @@
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [scale8/scale8-tag-manager-and-analytics](https://github.com/scale8/scale8-tag-manager-and-analytics) - Website analytics, JavaScript error tracking + analytics, tag manager, data ingest endpoint creation (tracking pixels). GDPR + CCPA compliant.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
-- [marcj/untitled-code](https://github.com/marcj/untitled-code) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -7362,6 +7370,7 @@
 - [dominictobias/react-image-crop](https://github.com/dominictobias/react-image-crop) - A responsive image cropping tool for React
 - [gaoryrt/number-flip](https://github.com/gaoryrt/number-flip) - 🎰 Increase your number with flipping animation
 - [salsita/node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management for PostgreSQL
+- [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [patternplate/patternplate](https://github.com/patternplate/patternplate) - 📘 patternplate connects design and engineering to establish a single source of truth for your team.
 - [meetalva/alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
