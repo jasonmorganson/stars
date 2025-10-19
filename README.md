@@ -139,7 +139,6 @@
 - [moretension/duti](https://github.com/moretension/duti) - A command-line tool to select default applications for document types and URL schemes on Mac OS X
 - [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
-- [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
 - [moonlight-stream/moonlight-ios](https://github.com/moonlight-stream/moonlight-ios) - GameStream client for iOS/tvOS
 - [powersync-ja/powersync-sqlite-core](https://github.com/powersync-ja/powersync-sqlite-core) - PowerSync SQLite Extension
 - [deadbeefsociety/sshfs](https://github.com/deadbeefsociety/sshfs) - A network filesystem client to connect to SSH servers
@@ -281,6 +280,7 @@
 
 - [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments.
 - [Puchaczov/Musoq](https://github.com/Puchaczov/Musoq) - SQL Syntax without any database
+- [drasi-project/drasi-platform](https://github.com/drasi-project/drasi-platform) - The Data Change Processing platform
 - [microsoft/CDM](https://github.com/microsoft/CDM) - The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to fa
 - [IBM/tree-sitter-codeviews](https://github.com/IBM/tree-sitter-codeviews) - Extract and combine multiple source code views using tree-sitter
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
@@ -303,6 +303,7 @@
 
 ## C++ 
 
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to Perplexity Comet, Arc, Dia
 - [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - An exabyte-scale, multi-region distributed file system
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -314,6 +315,7 @@
 - [menloresearch/cortex.cpp](https://github.com/menloresearch/cortex.cpp) - Local AI API Platform
 - [hmenyus/node-calls-python](https://github.com/hmenyus/node-calls-python) - Call Python from NodeJS directly in-process without spawning processes
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
+- [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
@@ -628,7 +630,7 @@
 - [quicdb/quic](https://github.com/quicdb/quic) - quic helps you self-manage branches for your PostgreSQL database
 - [mxpv/podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 - [pluqqy/pluqqy-terminal](https://github.com/pluqqy/pluqqy-terminal) - Terminal-based context management for AI driven development
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal REST client for .http/.rest files with HTTP, GraphQL and gRPC support.
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal client for .http/.rest files with HTTP, GraphQL and gRPC support, workflows, profiling and response diffs.
 - [TimoKats/emmer](https://github.com/TimoKats/emmer) - Self-hosted API for creating and querying JSON data
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language.
 - [pgschema/pgschema](https://github.com/pgschema/pgschema) - Terraform-style, declarative schema migration for Postgres
@@ -901,7 +903,7 @@
 - [kubernetes-sigs/kubebuilder-declarative-pattern](https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern) - A toolkit for building declarative operators with kubebuilder
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy.
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
-- [nikitavoloboev/gitupdate](https://github.com/nikitavoloboev/gitupdate) - Commit and push updated files with file names as commit message
+- [nikivdev/gitupdate](https://github.com/nikivdev/gitupdate) - Commit and push updated files with file names as commit message
 - [bots-garden/capsule](https://github.com/bots-garden/capsule) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and
 - [immortal/immortal](https://github.com/immortal/immortal) - ⭕  A *nix cross-platform (OS agnostic) supervisor
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -1202,7 +1204,6 @@
 - [jetstack/jetstack-secure](https://github.com/jetstack/jetstack-secure) - Open-source components of Jetstack Secure.
 - [brendandburns/configula](https://github.com/brendandburns/configula) - Experimental configuration generator inspired by JSX
 - [cloud66-oss/trackman](https://github.com/cloud66-oss/trackman) - Execute commands as a workflow.
-- [micro/micro](https://github.com/micro/micro) - A microservices toolkit
 - [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party container images
 - [cybertec-postgresql/pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) - pg_timetable: Advanced scheduling for PostgreSQL
 - [apache/airflow-on-k8s-operator](https://github.com/apache/airflow-on-k8s-operator) - Airflow on Kubernetes Operator
@@ -1782,6 +1783,8 @@
 
 ## JavaScript 
 
+- [jasonjmcghee/WebMCP](https://github.com/jasonjmcghee/WebMCP) - 
+- [amironi/contextguard](https://github.com/amironi/contextguard) - 
 - [irony/aspipes](https://github.com/irony/aspipes) - 
 - [ProfessorManhattan/rss-worker](https://github.com/ProfessorManhattan/rss-worker) - Instantly generate RSS feeds from any website using CSS selectors. Built with Cloudflare Workers. Just pass a URL and CSS selectors to get a fully-formed RSS 2.0 feed — no backend required.
 - [llmspec/llms-spec](https://github.com/llmspec/llms-spec) - LLMS.md: A proposed open standard for guiding Large Language Models in code repositories — the README.md for AI agents.
@@ -1802,7 +1805,6 @@
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) - otel-desktop-viewer is a CLI tool for receiving OpenTelemetry traces while working on your local machine.
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
-- [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git
 - [shyjal/visual-try-on](https://github.com/shyjal/visual-try-on) - A chrome extension to easily do visual trials of clothing from any e-commerce store. Here is the easy to use install option 👇
 - [extractus/feed-extractor](https://github.com/extractus/feed-extractor) - Simplest way to read & normalize RSS/ATOM/JSON feed data
 - [formsmd/formsmd](https://github.com/formsmd/formsmd) - Developer-first, open source Typeform alternative (formerly known as Blocks.md)
@@ -1857,7 +1859,7 @@
 - [ElyaConrad/iCloud-API](https://github.com/ElyaConrad/iCloud-API) - Node API for Apple's iCloud services
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [noflo/noflo](https://github.com/noflo/noflo) - Flow-based programming for JavaScript
-- [futureofcoding/futureofcoding.org](https://github.com/futureofcoding/futureofcoding.org) - The old Future of Coding website
+- [futureofcoding/futureofcoding.org](https://github.com/futureofcoding/futureofcoding.org) - An archive of Steve Krouse's Future of Coding research notes
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [Jinntec/Fore](https://github.com/Jinntec/Fore) - Fore - declarative user interfaces in plain HTML
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
@@ -3864,7 +3866,7 @@
 - [keithclark/selectivizr](https://github.com/keithclark/selectivizr) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
 - [developmentseed/stash](https://github.com/developmentseed/stash) - A simple in-process key / document store for node.js. Ideal for less than 1000 records.
-- [brunch/brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
+- [brunch/brunch](https://github.com/brunch/brunch) - 🍴 Web applications made easy. Since 2011.
 - [browserstate/history.js](https://github.com/browserstate/history.js) - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [socketstream/socketstream](https://github.com/socketstream/socketstream) - A framework for Realtime Web Apps
@@ -4154,6 +4156,7 @@
 
 ## Others 
 
+- [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - 🤖 WebMCP 🧪
 - [chrisurf/infragents](https://github.com/chrisurf/infragents) - Community-driven platform for discovering, sharing, and advancing Infrastructure Agents—autonomous, intelligent systems that evolve Infrastructure as Code into self-optimizing, agentic infrastructure.
 - [OtherVibes/mcp-publish-action](https://github.com/OtherVibes/mcp-publish-action) - GitHub Action for publishing your MCP server to MCP Registry
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
@@ -4418,7 +4421,6 @@
 - [apioo/typeapi](https://github.com/apioo/typeapi) - TypeAPI is an OpenAPI alternative to describe REST APIs for type-safe code generation.
 - [apioo/typeschema](https://github.com/apioo/typeschema) - TypeSchema is a JSON format to describe data models in a language neutral format
 - [fedi-e2ee/public-key-directory-specification](https://github.com/fedi-e2ee/public-key-directory-specification) - Specification for a Fediverse Directory Server for Public Keys
-- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, count
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
@@ -4480,6 +4482,7 @@
 
 ## Python 
 
+- [Tryboy869/nexus-backpressure](https://github.com/Tryboy869/nexus-backpressure) - Universal Backpressure Protocol for Distributed Systems
 - [StanfordBDHG/OpenTSLM](https://github.com/StanfordBDHG/OpenTSLM) - OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data
 - [lukehinds/deepfabric](https://github.com/lukehinds/deepfabric) - Create large-scale synthetic training data for model distillation and evaluation
 - [google-agentic-commerce/a2a-x402](https://github.com/google-agentic-commerce/a2a-x402) - The A2A x402 Extension brings cryptocurrency payments to the Agent-to-Agent (A2A) protocol, enabling agents to monetize their services through on-chain payments. This extension revives the spirit of H
@@ -4488,7 +4491,6 @@
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [inxm-ai/enterprise-mcp-bridge](https://github.com/inxm-ai/enterprise-mcp-bridge) - 
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API end
-- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [instavm/coderunner](https://github.com/instavm/coderunner) - A secure local sandbox to run LLM-generated code using Apple containers
 - [legacy-use/legacy-use](https://github.com/legacy-use/legacy-use) - Turn any legacy application into a modern REST API, powered by AI
 - [simedw/spegel](https://github.com/simedw/spegel) - Spegel - Reflect the web through AI
@@ -4534,14 +4536,15 @@
 - [googleapis/python-bigquery-dataframes](https://github.com/googleapis/python-bigquery-dataframes) - BigQuery DataFrames (also known as BigFrames)
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, count
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [stackless-dev/stackless](https://github.com/stackless-dev/stackless) - The Stackless Python programming language
 - [Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist) - Easily take an entire YouTube playlist and turn it into high quality transcripts using Whisper.
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [ethanweber/toon3d](https://github.com/ethanweber/toon3d) - Code for Toon3D https://toon3d.studio/
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
 - [TobikoData/sqlmesh](https://github.com/TobikoData/sqlmesh) - Scalable and efficient data transformation framework - backwards compatible with dbt.
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
 - [epam/OSCI](https://github.com/epam/OSCI) - Open Source Contributor Index
@@ -4629,7 +4632,7 @@
 - [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [newhouseb/clownfish](https://github.com/newhouseb/clownfish) - Constrained Decoding for LLMs against JSON Schema
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [justvanrossum/fontgoggles](https://github.com/justvanrossum/fontgoggles) - FontGoggles: Visual OTL Preview and QA
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
@@ -4745,7 +4748,6 @@
 - [run-x/opta](https://github.com/run-x/opta) - The next generation of Infrastructure-as-Code. Work with high-level constructs instead of getting lost in low-level cloud configuration.
 - [marcin-kolda/gcp-iam-collector](https://github.com/marcin-kolda/gcp-iam-collector) - Python script for collecting and visualising Google Cloud Platform IAM permissions
 - [bxparks/bigquery-schema-generator](https://github.com/bxparks/bigquery-schema-generator) - Generates the BigQuery schema from newline-delimited JSON or CSV data records.
-- [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
 - [anelendata/tap-bigquery](https://github.com/anelendata/tap-bigquery) - Singer.io tap for extracting data from BigQuery tables
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach.
@@ -4966,7 +4968,7 @@
 - [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
 - [aquach/vim-http-client](https://github.com/aquach/vim-http-client) - Forget your curl today! Make HTTP requests from Vim without wrestling the command line!
 - [willfarrell/Browsers](https://github.com/willfarrell/Browsers) - Collection of Browsers and Virtual Machines for web development on the Mac.
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 - [ghostdance/git-review](https://github.com/ghostdance/git-review) - Git extension for attaching code review flags and notes to commits.
 - [Pythonity/font-awesome-to-png](https://github.com/Pythonity/font-awesome-to-png) - Exports Font Awesome icons as PNG images
 - [progrium/keychain.io](https://github.com/progrium/keychain.io) - 
@@ -5079,6 +5081,7 @@
 
 ## Rust 
 
+- [42futures/firm](https://github.com/42futures/firm) - A text-based work management system for technologists.
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [ksdme/ut](https://github.com/ksdme/ut) - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech
 - [hunterunger/imessage_exporter_app](https://github.com/hunterunger/imessage_exporter_app) - Export Apple Messages data to json
@@ -5087,7 +5090,7 @@
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [markmarkoh/lt](https://github.com/markmarkoh/lt) - An unofficial TUI application to view & interact with Linear.app issues
-- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp) - Build MCP servers on the WebAssembly Component Model
+- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp) - Build MCP servers with composable WebAssembly components
 - [MaxBondABE/attempt](https://github.com/MaxBondABE/attempt) - CLI for retrying fallible commands
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3.
 - [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS runtime lolz
@@ -5101,6 +5104,7 @@
 - [ekropotin/quickmark](https://github.com/ekropotin/quickmark) - Quickmark is a Markdown linter written in Rust with first-class LSP support, giving you fast, seamless feedback in any editor.
 - [kagehq/port-kill](https://github.com/kagehq/port-kill) - Port Kill helps you find and free ports and caches blocking your dev work.
 - [mmastrac/stylus](https://github.com/mmastrac/stylus) - Lightweight status page for home infrastructure
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
 - [cortesi/agentsmd](https://github.com/cortesi/agentsmd) - Render per-project AGENTS.md and CLAUDE.md files from a common source
 - [Ramilito/kubesess](https://github.com/Ramilito/kubesess) - Kubectl plugin managing sessions
 - [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
@@ -5194,7 +5198,6 @@
 - [KMahoney/GitLasso](https://github.com/KMahoney/GitLasso) - 
 - [resola-ai/rust-aws-tui](https://github.com/resola-ai/rust-aws-tui) - 
 - [PierreBeucher/novops](https://github.com/PierreBeucher/novops) - Cross-platform secret & config manager for development and CI environments
-- [drasi-project/drasi-platform](https://github.com/drasi-project/drasi-platform) - The Data Change Processing platform
 - [MilesCranmer/rip2](https://github.com/MilesCranmer/rip2) - A safe and ergonomic alternative to rm
 - [cbiffle/drupes](https://github.com/cbiffle/drupes) - Finds, and optionally removes, duplicate files.
 - [untitaker/quickenv](https://github.com/untitaker/quickenv) - MOVED TO CODEBERG
@@ -5712,7 +5715,7 @@
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [darklang/jwt-cli](https://github.com/darklang/jwt-cli) - A super fast CLI tool to decode and encode JWTs built in Rust
 - [wasmerio/wasmer-js](https://github.com/wasmerio/wasmer-js) - Monorepo for Javascript WebAssembly packages by Wasmer
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
@@ -6070,6 +6073,7 @@
 - [palacms/palacms](https://github.com/palacms/palacms) - Pala (formerly Primo) is a modern monolithic CMS that gives devs the control they need and content editors the simplicity they've always wanted.
 - [GoogleChromeLabs/perf-track](https://github.com/GoogleChromeLabs/perf-track) - Tracking framework performance and usage at scale
 - [ftonato/svelte-debugger](https://github.com/ftonato/svelte-debugger) - A JSON &lt;Debugger&gt; component for Svelte apps
+- [huggingface/Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB
 
 ## Swift 
 
@@ -6173,6 +6177,7 @@
 - [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
 - [d7laungani/DLLocalNotifications](https://github.com/d7laungani/DLLocalNotifications) - :speech_balloon: Easily create Local Notifications in swift - Wrapper of UserNotifications Framework
 - [NikolaKirev/OnboardKit](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app
+- [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
 - [kcrawford/dockutil](https://github.com/kcrawford/dockutil) - command line tool for managing dock items
 - [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 - [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
@@ -6207,6 +6212,7 @@
 
 ## TypeScript 
 
+- [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [pgflow-dev/pgflow](https://github.com/pgflow-dev/pgflow) - Postgres-centric workflow engine with deep integration with Supabase
@@ -6225,7 +6231,7 @@
 - [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
 - [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped) - Professionally crafted React & Figma components for building beautiful products or starting your own design system
 - [googleapis/gcloud-mcp](https://github.com/googleapis/gcloud-mcp) - gcloud MCP server
-- [speakeasy-api/gram](https://github.com/speakeasy-api/gram) - Platform to create, curate and host MCP servers ⚒️
+- [speakeasy-api/gram](https://github.com/speakeasy-api/gram) - Platform to create, curate and host MCP servers ⚒️ Build production quality agentic tools
 - [clerk/mcp-tools](https://github.com/clerk/mcp-tools) - Tools for building modern & secure MCP integrations across the client and server side
 - [electric-sql/d2ts](https://github.com/electric-sql/d2ts) - Differential Dataflow in TypeScript
 - [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp) - Use Claude Code from any ACP client such as Zed!
@@ -6233,7 +6239,7 @@
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [MCPCat/mcpcat-typescript-sdk](https://github.com/MCPCat/mcpcat-typescript-sdk) - MCPcat is an analytics platform for MCP server owners 🐱.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
-- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [instavm/coderunner-ui](https://github.com/instavm/coderunner-ui) - Chat UI for Coderunner
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
@@ -6271,7 +6277,7 @@
 - [enszrlu/NextStep](https://github.com/enszrlu/NextStep) - Lightweight onboarding library for Next.js
 - [macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) - Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JSON Feed, with support for popular namespaces and OPML files.
 - [metatool-ai/mcp-server-metamcp](https://github.com/metatool-ai/mcp-server-metamcp) - MCP Server MetaMCP manages all your other MCPs in one MCP.
-- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework
+- [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework with built-in LLM Observability
 - [permitio/permit-prisma](https://github.com/permitio/permit-prisma) - Fine-Grained Authorization Client Extension for Prisma ORM
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
 - [pkgxdev/mcp](https://github.com/pkgxdev/mcp) - can your ai run anything? yes it can
@@ -6313,7 +6319,7 @@
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
 - [Tggl/pg-capture](https://github.com/Tggl/pg-capture) - 
 - [analytiq-hub/doc-router](https://github.com/analytiq-hub/doc-router) - 
-- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue integrates & orchestrates APIs from natural language. Agents use it to build deterministic workflows across apps, APIs and databases. Humans use it to generate insights, build automations an
+- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [frabonomi/sober-ringtones](https://github.com/frabonomi/sober-ringtones) - Minimal ringtones for people who hate ringtones
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
@@ -6413,6 +6419,7 @@
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Your Next Store: Modern Commerce with Next.js and Stripe as the backend.
+- [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git
 - [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry) - A container registry backed by Workers and R2.
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Create data flywheel for your AI app. Traces, Evals, Datasets, Labels. YC S24.
@@ -7209,7 +7216,7 @@
 - [wix-incubator/vscode-glean](https://github.com/wix-incubator/vscode-glean) - The extension provides refactoring tools for your React codebase
 - [kamilkisiela/loona](https://github.com/kamilkisiela/loona) - 🌕 Application State Management done with GraphQL
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - A Runtime Type System for JavaScript
+- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
 - [sinclairzx81/zero](https://github.com/sinclairzx81/zero) - A 3D renderer written in JavaScript and rendered to the terminal.
 - [useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations) - React-useanimations is a collection of free animated open source icons for React.js.
 - [Unibeautify/unibeautify](https://github.com/Unibeautify/unibeautify) - One Beautifier to rule them all, One Beautifier to clean them, One Beautifier to bring them all and in the darkness sheen them
@@ -7298,7 +7305,6 @@
 - [wsmd/use-clipboard-copy](https://github.com/wsmd/use-clipboard-copy) - 📋 Lightweight copy to clipboard hook for React
 - [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
 - [JasonEtco/actions-toolkit](https://github.com/JasonEtco/actions-toolkit) - 🛠 A toolkit for building GitHub Actions in Node.js
-- [huggingface/Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB
 - [APIs-guru/graphql-lodash](https://github.com/APIs-guru/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [birkir/react-native-carplay](https://github.com/birkir/react-native-carplay) - CarPlay with React Native
@@ -7649,7 +7655,6 @@
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
-- [convoyinc/ts2gql](https://github.com/convoyinc/ts2gql) - 
 - [Treacherous/treacherous](https://github.com/Treacherous/treacherous) - A javascript library for async model based validation in server, client or anywhere else.
 - [northbrookjs/northbrook](https://github.com/northbrookjs/northbrook) - Reproducible tooling and configuration
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate 
