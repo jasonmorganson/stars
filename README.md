@@ -4042,7 +4042,6 @@
 
 - [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
 - [wamp-proto/wamp-proto](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol
-- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, superpowered Siri/Alexa for time, storage, meetings, email, tasks, finance, notes, search, shopify, marketing, design, web app and research
 - [OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO)
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) - Working Draft of the RISC-V J Extension Specification
 - [dbt-labs/dbt-utils](https://github.com/dbt-labs/dbt-utils) - Utility functions for dbt projects.
@@ -4441,6 +4440,7 @@
 
 ## PLpgSQL 
 
+- [launchql/launchql](https://github.com/launchql/launchql) - Launch Backends Fast. Scale Even Faster.
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [pgpkg/pgpkg](https://github.com/pgpkg/pgpkg) - pgpkg is a small, fast CLI tool and Go library that enables seamless integration of PostgreSQL functions into native code workflows. It integrates pl/pgsql code management, transactional migrations, S
@@ -4675,6 +4675,7 @@
 - [dschil138/Fulcrum](https://github.com/dschil138/Fulcrum) - The Fulcrum Keyboard is an ergo-mechanical split keyboard with extra thumb functionality. It has 20 keys, two rotary encoders, and two 5-way switches.
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
+- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, superpowered Siri/Alexa for time, storage, meetings, email, tasks, finance, notes, search, shopify, marketing, design, web app and research
 - [Nixellion/TodoistToTxt](https://github.com/Nixellion/TodoistToTxt) - Exports todoist tasks to todo.txt spec file
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [InfuseAI/piperider](https://github.com/InfuseAI/piperider) - Code review for data in dbt
@@ -5082,6 +5083,7 @@
 
 ## Rust 
 
+- [charlotte-os/Catten](https://github.com/charlotte-os/Catten) - The Kernel of CharlotteOS, An Experimental Modern Operating System
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [durableprogramming/durable-project-catalog](https://github.com/durableprogramming/durable-project-catalog) - durable-project-catalog
 - [sgb-io/fta](https://github.com/sgb-io/fta) - Rust-based static analysis for TypeScript projects
@@ -5109,7 +5111,7 @@
 - [whit3rabbit/bubbletea-rs](https://github.com/whit3rabbit/bubbletea-rs) - A rust implementation of Bubbletea https://github.com/charmbracelet/bubbletea
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
 - [ekropotin/quickmark](https://github.com/ekropotin/quickmark) - Quickmark is a Markdown linter written in Rust with first-class LSP support, giving you fast, seamless feedback in any editor.
-- [kagehq/port-kill](https://github.com/kagehq/port-kill) - Port Kill helps you find and free ports and caches blocking your dev work.
+- [treadiehq/port-kill](https://github.com/treadiehq/port-kill) - Port Kill helps you find and free ports and caches blocking your dev work.
 - [mmastrac/stylus](https://github.com/mmastrac/stylus) - Lightweight status page for home infrastructure
 - [cortesi/agentsmd](https://github.com/cortesi/agentsmd) - Render per-project AGENTS.md and CLAUDE.md files from a common source
 - [Ramilito/kubesess](https://github.com/Ramilito/kubesess) - Kubectl plugin managing sessions
@@ -6076,7 +6078,7 @@
 - [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and 
-- [palacms/palacms](https://github.com/palacms/palacms) - Pala (formerly Primo) is a component-based, visual CMS built for dev↔editor collaboration.
+- [palacms/palacms](https://github.com/palacms/palacms) - Pala is a component-based CMS built for realtime dev↔editor collaboration.
 - [GoogleChromeLabs/perf-track](https://github.com/GoogleChromeLabs/perf-track) - Tracking framework performance and usage at scale
 - [ftonato/svelte-debugger](https://github.com/ftonato/svelte-debugger) - A JSON &lt;Debugger&gt; component for Svelte apps
 - [huggingface/Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB
@@ -6218,6 +6220,7 @@
 
 ## TypeScript 
 
+- [fabfog/use-less-react](https://github.com/fabfog/use-less-react) - 
 - [excalidraw/mermaid-to-excalidraw](https://github.com/excalidraw/mermaid-to-excalidraw) - Generate Excalidraw diagrams from Mermaid
 - [linagora/twake-drive](https://github.com/linagora/twake-drive) - The open-source alternative to Google Drive.
 - [photon-hq/imessage-kit](https://github.com/photon-hq/imessage-kit) - A type-safe, elegant iMessage SDK for macOS with zero dependencies
@@ -6299,7 +6302,7 @@
 - [sagekit/magnitude](https://github.com/sagekit/magnitude) - Open-source, vision-first browser agent
 - [bloomberg/stricli](https://github.com/bloomberg/stricli) - Build complex CLIs with type safety and no dependencies
 - [trycompai/comp](https://github.com/trycompai/comp) - The open source compliance platform - Drata & Vanta Alternative
-- [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App
+- [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
 - [codespin-ai/codebox](https://github.com/codespin-ai/codebox) - Codebox in JS
 - [MCP-Club/mcpm](https://github.com/MCP-Club/mcpm) - A command-line tool for managing MCP servers in Claude App. Also can run a MCP Server to help you manage all your MCP Servers
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
@@ -6371,7 +6374,7 @@
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [uiwjs/react-heat-map](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
 - [termui-sh/the-directory](https://github.com/termui-sh/the-directory) - The Terminal Directory
-- [loglayer/loglayer](https://github.com/loglayer/loglayer) - A modern logging library for Javascript / Typescript that routes logs to various logging libraries, cloud providers, files, and OpenTelemetry while providing a fluent API for specifying log messages, 
+- [loglayer/loglayer](https://github.com/loglayer/loglayer) - A modern logging library for Javascript / Typescript that routes logs to various logging libraries, cloud providers, files, StatsD, and OpenTelemetry while providing a fluent API for specifying log me
 - [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - The missing middleware for your configuration and secrets.
 - [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
@@ -6645,7 +6648,7 @@
 - [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [try-reason/reason](https://github.com/try-reason/reason) - RΞASON is a minimalistic Typescript framework for building great LLM apps
-- [suites-dev/suites](https://github.com/suites-dev/suites) - Unit testing framework for dependency injection that automates mocking and simplifies test setup, reducing boilerplate code and enabling developers to build comprehensive and reliable test suites with
+- [suites-dev/suites](https://github.com/suites-dev/suites) - A unit-testing framework for TypeScript backend systems working with dependency injection
 - [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [jasonwilliams/vscode-helix](https://github.com/jasonwilliams/vscode-helix) - 
 - [vlcn-io/materialite](https://github.com/vlcn-io/materialite) - Differential Dataflow & Incremental View Maintenance for JavaScript
@@ -6752,7 +6755,7 @@
 - [6over3/tempo](https://github.com/6over3/tempo) - 🥁 Don't miss a beat. Real-time, end-to-end typesafe APIs.
 - [charliermarsh/trellis](https://github.com/charliermarsh/trellis) - Write Dockerfiles and CI pipelines in TypeScript.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma
-- [commitspark/graphql-api](https://github.com/commitspark/graphql-api) - Library to manage structured data in a Git repository through a GraphQL API
+- [commitspark/graphql-api](https://github.com/commitspark/graphql-api) - GraphQL API to manage structured data in a Git repository
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
