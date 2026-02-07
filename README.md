@@ -633,7 +633,7 @@
 
 ## Go 
 
-- [chojs23/ec](https://github.com/chojs23/ec) - Easy TUI native 3-way Git mergetool with
+- [chojs23/ec](https://github.com/chojs23/ec) - Easy TUI native 3-way Git mergetool
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
 - [roborev-dev/roborev](https://github.com/roborev-dev/roborev) - Continuous, non-invasive background code review for agents, to work better and faster. With TUI and CLI support
@@ -1607,7 +1607,6 @@
 - [olibre/GreatTips](https://github.com/olibre/GreatTips) - Curated Great Tips, Mindsets and Practices for Coders 😎
 - [GavinRay97/graphql-bench](https://github.com/GavinRay97/graphql-bench) - 
 - [Kimeiga/bahunya](https://github.com/Kimeiga/bahunya) - 10KB classless CSS framework with a navbar and dark styling
-- [netlify/netlify-identity-widget](https://github.com/netlify/netlify-identity-widget) - A zero config, framework free Netlify Identity widget
 - [ColdGrub1384/servediter.app](https://github.com/ColdGrub1384/servediter.app) - Web page for Codater (previously, VSApp)
 - [brownhci/WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
@@ -2065,6 +2064,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [hasura/gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) - Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
 - [reflexjs/reflexjs](https://github.com/reflexjs/reflexjs) - A library for rapid UI development with style props, color modes, themes and variants + starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.
+- [netlify/netlify-identity-widget](https://github.com/netlify/netlify-identity-widget) - A zero config, framework free Netlify Identity widget
 - [getify/moduloze](https://github.com/getify/moduloze) - Convert CommonJS (CJS) modules to UMD and ESM formats
 - [nlaz/matchstick](https://github.com/nlaz/matchstick) - 🎈  Matchstick - Visually compare your code and design.
 - [creativetimofficial/material-kit-react](https://github.com/creativetimofficial/material-kit-react) - Material Kit React free and open source by Creative Tim
@@ -3111,7 +3111,6 @@
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [HipsterBrown/espresso](https://github.com/HipsterBrown/espresso) - This is a command line tool for converting CoffeeScript files into their ES6 equivalents*
 - [Hacker0x01/coffee-to-es2015-codemod](https://github.com/Hacker0x01/coffee-to-es2015-codemod) - A set of JSCodeshift transforms that will help you transform your CoffeeScript codebase to ES2015
-- [cpojer/js-codemod](https://github.com/cpojer/js-codemod) - Codemod scripts to transform code to next generation JS
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca
 - [mbasso/refraction](https://github.com/mbasso/refraction) - A guard that represents a central point of control in your application
 - [ngryman/badge-size](https://github.com/ngryman/badge-size) - :beers: Displays the size of a given file in your repository.
@@ -3220,7 +3219,7 @@
 - [alexisvincent/systemjs-hot-reloader](https://github.com/alexisvincent/systemjs-hot-reloader) - reloads your modules as needed so that you can have satisfyingly fast feedback loop when developing your app
 - [ekosz/redux-falcor](https://github.com/ekosz/redux-falcor) - Connect your redux front-end to your falcor back-end
 - [WebReflection/url-search-params](https://github.com/WebReflection/url-search-params) - Simple polyfill for URLSearchParams standard
-- [RoyalIcing/flambeau](https://github.com/RoyalIcing/flambeau) - Opinionated Redux additions: declarative, pleasant action creators, reducer encapsulation, async support
+- [royalicing/flambeau](https://github.com/royalicing/flambeau) - Opinionated Redux additions: declarative, pleasant action creators, reducer encapsulation, async support
 - [samccone/The-cost-of-transpiling-es2015-in-2016](https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016) - Investigating the overhead cost of compiled es2015
 - [SpoonX/aurelia-orm](https://github.com/SpoonX/aurelia-orm) - Makes working with entities and calling your Rest API simple.
 - [Idnan/furnish-js](https://github.com/Idnan/furnish-js) - Let the classes on DOM elements generate the CSS for you.
@@ -4538,7 +4537,7 @@
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [analytiq-hub/doc-router](https://github.com/analytiq-hub/doc-router) - 
-- [landing-ai/vision-agent](https://github.com/landing-ai/vision-agent) - Vision agent
+- [landing-ai/vision-agent](https://github.com/landing-ai/vision-agent) - This tool has been deprecated. Use Agentic Document Extraction instead.
 - [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Python wrapper for the Codegen API - run code agents at scale
@@ -5108,6 +5107,7 @@
 
 ## Rust 
 
+- [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) - Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative with 40+ package formats, security scanning, WASM plugins, and edge replication.
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
