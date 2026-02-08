@@ -307,6 +307,7 @@
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - An exabyte-scale, multi-region distributed file system
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps & analytics.
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
@@ -633,7 +634,7 @@
 
 ## Go 
 
-- [chojs23/ec](https://github.com/chojs23/ec) - Easy TUI native 3-way Git mergetool
+- [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git conflict resolver vim-like workflow
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
 - [roborev-dev/roborev](https://github.com/roborev-dev/roborev) - Continuous, non-invasive background code review for agents, to work better and faster. With TUI and CLI support
@@ -684,7 +685,7 @@
 - [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
 - [tbxark/mcp-proxy](https://github.com/tbxark/mcp-proxy) - An MCP proxy server that aggregates and serves multiple MCP resource servers through a single HTTP server.
-- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run on your desktop or in your cluster.
+- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.
 - [kamilsk/godownloader](https://github.com/kamilsk/godownloader) - 🔧 The version with Homebrew.
 - [kernel/kernel-images](https://github.com/kernel/kernel-images) - Browsers-as-a-service for automations and web agents
 - [sanspareilsmyn/kforward](https://github.com/sanspareilsmyn/kforward) - Lightweight proxy for seamless local development against Kubernetes services
@@ -4049,6 +4050,7 @@
 - [opensourcemaintenancefee/web](https://github.com/opensourcemaintenancefee/web) - https://opensourcemaintenancefee.org
 - [logto-io/auth-wiki](https://github.com/logto-io/auth-wiki) - A comprehensive collection of articles, tutorials, and resources about authentication, authorization, and identity management.
 - [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - PostgreSQL reengineered for multi-tenant apps
+- [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Open-Source Next.js commerce. Stripe-native, ultra fast page loads, typed APIs. Built for AI development (Claude, Codex,   Cursor).
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [thiggle/api](https://github.com/thiggle/api) - Structured LLM APIs
@@ -5153,7 +5155,7 @@
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [ksdme/ut](https://github.com/ksdme/ut) - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech
 - [hunterunger/imessage_exporter_app](https://github.com/hunterunger/imessage_exporter_app) - Export Apple Messages data to json
-- [jfernandez/mdserve](https://github.com/jfernandez/mdserve) - Fast markdown preview server with live reload and theme support.
+- [jfernandez/mdserve](https://github.com/jfernandez/mdserve) - Markdown preview server for AI coding agents.
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
 - [IABTechLab/trusted-server](https://github.com/IABTechLab/trusted-server) - 
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
@@ -6490,7 +6492,6 @@
 - [michaellatman/mcp-get](https://github.com/michaellatman/mcp-get) - 
 - [joneslloyd/bluniversal-comments](https://github.com/joneslloyd/bluniversal-comments) - Start a conversation next to any web page using your Bluesky account
 - [TylerFisher/sill](https://github.com/TylerFisher/sill) - Find the most popular links from your Mastodon/Bluesky networks
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [cardo-podcast/cardo](https://github.com/cardo-podcast/cardo) - Podcast client
 - [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
@@ -6532,7 +6533,6 @@
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
-- [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Open-Source Next.js commerce. Stripe-native, ultra fast page loads, typed APIs. Built for AI development (Claude, Codex,   Cursor).
 - [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git
 - [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry) - A container registry backed by Workers and R2.
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
