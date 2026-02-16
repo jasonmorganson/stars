@@ -9,6 +9,7 @@
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Bikeshed](#bikeshed)
+- [Bru](#bru)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -124,6 +125,10 @@
 
 - [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - 🤖 WebMCP
 - [w3c/ServiceWorker](https://github.com/w3c/ServiceWorker) - Service Workers
+
+## Bru 
+
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## C 
 
@@ -634,7 +639,9 @@
 
 ## Go 
 
-- [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git conflict resolver vim-like workflow
+- [trzsz/tsshd](https://github.com/trzsz/tsshd) - tsshd: the trzsz-ssh(tssh) udp server that supports connection migration for roaming, keeping ssh sesseion alive even if the network is disconnected for a long time.
+- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
+- [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git mergetool vim-like workflow
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
 - [roborev-dev/roborev](https://github.com/roborev-dev/roborev) - Continuous, non-invasive background code review for agents, to work better and faster. With TUI and CLI support
@@ -642,7 +649,7 @@
 - [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
 - [rwx-cloud/cli](https://github.com/rwx-cloud/cli) - The CLI for RWX
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
-- [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal. 🩺 ☁️
+- [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - Powerful open-source CLI to audit security, costs, and best practices in AWS. 🩺 ☁️
 - [cleanexit0/darwin-photos](https://github.com/cleanexit0/darwin-photos) - Back up iCloud Photos to external storage — without bloating your Mac. Much faster.
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
 - [Max-Levitskiy/DockBridge](https://github.com/Max-Levitskiy/DockBridge) - DockBridge is a Go-based client-server system that provisions Hetzner Cloud servers for Docker containers, with laptop lock detection and keep-alive features. It enables seamless Docker workflows by p
@@ -785,7 +792,7 @@
 - [chasinglogic/projector](https://github.com/chasinglogic/projector) - A small CLI for managing git repos and projects.
 - [open-feature/flagd](https://github.com/open-feature/flagd) - A feature flag daemon with a Unix philosophy
 - [open-feature/open-feature-operator](https://github.com/open-feature/open-feature-operator) - A Kubernetes feature flag operator
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
 - [pgxman/pgxman](https://github.com/pgxman/pgxman) - Developer-friendly package manager and registry for PostgreSQL extensions
 - [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) - Container to WASM converter
@@ -1895,7 +1902,7 @@
 - [handshake-org/handshake-org.github.io](https://github.com/handshake-org/handshake-org.github.io) - Handshake developer documentation site
 - [ColinEberhardt/langchain-mini](https://github.com/ColinEberhardt/langchain-mini) - 🦜️🔗 This is a very simple re-implementation of LangChain, in ~100 lines of code
 - [exa-studio/ApiVault](https://github.com/exa-studio/ApiVault) - Your gateway to a world of public APIs.
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Build APIs your users love ❤️ with Speakeasy. ✨ Polished and type-safe SDKs. 🌐 Terraform providers and Contract Tests for your API. OpenAPI native.
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Build APIs your users love ❤️ with Speakeasy. ✨ Polished and type-safe SDKs. 🌐 Terraform providers, MCP servers, CLIs and Contract Tests for your API. OpenAPI native.
 - [WebReflection/sqlite-worker](https://github.com/WebReflection/sqlite-worker) - A simple, and persistent, SQLite database for Web and Workers.
 - [puffinsoft/jscanify](https://github.com/puffinsoft/jscanify) - The Javascript document scanning library.
 - [holepunchto/hypershell](https://github.com/holepunchto/hypershell) - Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted
@@ -2042,7 +2049,7 @@
 - [GoogleChromeLabs/browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) - File System Access API with legacy fallback in the browser
 - [terminal-junkies/npmx](https://github.com/terminal-junkies/npmx) - Advanced CLI for npm
 - [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
-- [bdeitte/hot-shots](https://github.com/bdeitte/hot-shots) - Node.js client for statsd, DogStatsD, and Telegraf
+- [bdeitte/hot-shots](https://github.com/bdeitte/hot-shots) - A Node.js client for Datadog's DogStatsD server, InfluxDB's Telegraf StatsD server, the OpenTelemetry Collector StatsD receiver, and Etsy's StatsD server.
 - [sivy/node-statsd](https://github.com/sivy/node-statsd) - node.js client for Etsy'd StatsD server
 - [yamalight/graffiti](https://github.com/yamalight/graffiti) - Minimalistic GraphQL framework
 - [jhnns/rewire](https://github.com/jhnns/rewire) - Easy monkey-patching for node.js unit tests
@@ -4055,7 +4062,7 @@
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [thiggle/api](https://github.com/thiggle/api) - Structured LLM APIs
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [frictionlessdata/datapackage](https://github.com/frictionlessdata/datapackage) - Data Package is a standard consisting of a set of simple yet extensible specifications to describe datasets, data files and tabular data. It is a data definition language (DDL) and data API that facil
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
@@ -4181,6 +4188,7 @@
 
 ## Others 
 
+- [kitknox/rootshell](https://github.com/kitknox/rootshell) - Rootshell - The terminal, reimagined for Apple platforms
 - [Buildstash/buildstash](https://github.com/Buildstash/buildstash) - Software binary and release management platform
 - [chrisurf/infragents](https://github.com/chrisurf/infragents) - Community-driven platform for discovering, sharing, and advancing Infrastructure Agents—autonomous, intelligent systems that evolve Infrastructure as Code into self-optimizing, agentic infrastructure.
 - [OtherVibes/mcp-publish-action](https://github.com/OtherVibes/mcp-publish-action) - GitHub Action for publishing your MCP server to MCP Registry
@@ -4531,7 +4539,7 @@
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - Main reference implementation for NLWeb, implemented in Python.
 - [dipampaul17/KVSplit](https://github.com/dipampaul17/KVSplit) - Run larger LLMs with longer contexts on Apple Silicon by using differentiated precision for KV cache quantization. KVSplit enables 8-bit keys & 4-bit values, reducing memory by 59% with &lt;1% quality
-- [awslabs/mcp](https://github.com/awslabs/mcp) - Official AWS MCP Servers
+- [awslabs/mcp](https://github.com/awslabs/mcp) - Official MCP Servers for AWS
 - [dapr/dapr-agents](https://github.com/dapr/dapr-agents) - Build autonomous, resilient and observable AI agents with built-in workflow orchestration, security, statefulness and telemetry.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
@@ -5109,18 +5117,21 @@
 
 ## Rust 
 
+- [joshka/tui-markdown](https://github.com/joshka/tui-markdown) - 
+- [taf2/mdvi](https://github.com/taf2/mdvi) - cli based Markdown viewer
+- [ZStud/reef](https://github.com/ZStud/reef) - Paste bash into fish. It just works.
 - [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) - Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative with 40+ package formats, security scanning, WASM plugins, and edge replication.
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
 - [mavdol/capsule](https://github.com/mavdol/capsule) - A secure, durable runtime for AI agents. Run untrusted code in isolated WebAssembly sandboxes.
-- [quaintops/starship-aws-monitor](https://github.com/quaintops/starship-aws-monitor) - A lightweight service that monitors AWS authentication status for display in your shell prompt via Starship
+- [llmodelcitizen/starship-aws-monitor](https://github.com/llmodelcitizen/starship-aws-monitor) - A lightweight service that monitors AWS authentication status for display in your shell prompt via Starship
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
 - [wlswo/xray](https://github.com/wlswo/xray) - A simple, intuitive, and light universal UI capture and inspection tool for macOS
 - [cori-do/cori-kernel](https://github.com/cori-do/cori-kernel) - Cori Kernel — the safe way for AI agents to do real things
-- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [mroboff/vm-curator](https://github.com/mroboff/vm-curator) - vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines for desktop use with working 3D acceleration (para-virtualized and pass-through.)
 - [frankwiles/gg](https://github.com/frankwiles/gg) - gg - Go Github is a small Rust CLI helper and TUI for more quickly getting to a repo's Github page, Issues, Milestones, Actions, or PRs.
@@ -5214,7 +5225,7 @@
 - [eqtylab/mcp-guardian](https://github.com/eqtylab/mcp-guardian) - Manage / Proxy / Secure your MCP Servers
 - [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Durable & Deterministic Workflow Engine
 - [akavel/clawtype](https://github.com/akavel/clawtype) - A custom wearable chorded keyboard & mouse.
-- [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
+- [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [hyper-mcp-rs/hyper-mcp](https://github.com/hyper-mcp-rs/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [ats1999/dakia](https://github.com/ats1999/dakia) - A high-performance API gateway built with Rust, designed for low-latency request processing. Dakia supports dynamic configuration updates, allowing seamless changes to routing rules, authentication se
@@ -5244,7 +5255,7 @@
 - [bodo-run/stop-nagging](https://github.com/bodo-run/stop-nagging) - a Rust-based CLI tool that silences or disables upgrade/advertising nags and other unnecessary warnings from various CLI tools and development tools.
 - [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [simonask/werk](https://github.com/simonask/werk) - Simplistic command runner and build system
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [datafusion-contrib/datafusion-dft](https://github.com/datafusion-contrib/datafusion-dft) - Batteries included CLI, TUI, and server implementations for DataFusion.
@@ -6148,6 +6159,10 @@
 
 ## Swift 
 
+- [richardwu/openwhisper](https://github.com/richardwu/openwhisper) - 
+- [Starmel/OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - macOS whisper dictation app
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
+- [Aayush9029/NativeYoutube](https://github.com/Aayush9029/NativeYoutube) - Personal App that turned into "alpha released app" v3
 - [ShaftUI/Shaft](https://github.com/ShaftUI/Shaft) - A cross-platform GUI framework for Swift, built for demanding workloads and developer ergonomics
 - [xcode-actions/swift-sh](https://github.com/xcode-actions/swift-sh) - Easily script with third-party Swift dependencies.
 - [makalin/CornerFix](https://github.com/makalin/CornerFix) - CornerFix is a lightweight macOS menu bar app that restores sharp display edges by overlaying customizable “caps” on the screen corners. Safe, SIP-friendly, and easy to use, it lets you toggle, resize
@@ -6293,22 +6308,27 @@
 
 ## TypeScript 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
+- [DecispherHQ/decision-guardian](https://github.com/DecispherHQ/decision-guardian) - Prevent institutional amnesia by surfacing past architectural decisions directly on Pull Requests.
+- [pretzelai/stripe-no-webhooks](https://github.com/pretzelai/stripe-no-webhooks) - 
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents) - An open-source background agents coding system
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [thenativeweb/eventsourcingdb-client-javascript](https://github.com/thenativeweb/eventsourcingdb-client-javascript) - The official JavaScript client SDK for EventSourcingDB.
 - [gustavodiasdev/mcpx-cli](https://github.com/gustavodiasdev/mcpx-cli) - Interactive CLI to configure MCP servers for multiple AI providers
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
-- [knowns-dev/knowns](https://github.com/knowns-dev/knowns) - AI-first CLI for task management and documentation. Link docs in tasks, AI reads context automatically. Stop repeating patterns every session. Built-in time tracking, MCP Server, Web UI. Know what you
+- [knowns-dev/knowns](https://github.com/knowns-dev/knowns) - The memory layer for AI-native development — giving AI persistent understanding of your software projects.
 - [KrystianJonca/lnai](https://github.com/KrystianJonca/lnai) - Unified AI configuration management CLI
 - [egeominotti/bunqueue](https://github.com/egeominotti/bunqueue) - ⚡ High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, S3 backups.
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [nkuntz1934/matrix-workers](https://github.com/nkuntz1934/matrix-workers) - 
 - [almonk/bonsplit](https://github.com/almonk/bonsplit) - Bonsplit is a custom tab bar and layout split library for macOS apps. Out of the box 120fps animations, drag-and-drop reordering, SwiftUI support & keyboard navigation.
-- [ocrbase-hq/ocrbase](https://github.com/ocrbase-hq/ocrbase) - Easy to use state of the art VLM(ocr+llm) via SDK & API. (📄 PDF -&gt;.MD/.JSON). Self-hostable.
+- [ocrbase-hq/ocrbase](https://github.com/ocrbase-hq/ocrbase) - 📄 PDF -&gt;.MD/.JSON API & SDK for PaddleOCR-VL with structured data extraction. Self-hostable.
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SV
 - [dannote/figma-use](https://github.com/dannote/figma-use) - Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands.
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The framework for User-Generated Interfaces
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
@@ -6341,7 +6361,7 @@
 - [modelcontextprotocol/use-mcp](https://github.com/modelcontextprotocol/use-mcp) - 
 - [ReSMS-dev/resms-node](https://github.com/ReSMS-dev/resms-node) - ReSMS SDK for Node.js apps
 - [supermemoryai/apple-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple-native tools for the model context protocol.
-- [archestra-ai/archestra](https://github.com/archestra-ai/archestra) - ClawdBot/MoldBot/OpenClaw for Enterprise. Agentic Security, MCP, A2A, LLM; MCP registry & orchestrator
+- [archestra-ai/archestra](https://github.com/archestra-ai/archestra) - Secure cloud-native MCP registry, gateway & orchestrator
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-ready SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [universal-tool-calling-protocol/utcp-specification](https://github.com/universal-tool-calling-protocol/utcp-specification) - The specification for the Universal Tool Calling Protocol
@@ -6358,7 +6378,7 @@
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [MCPCat/mcpcat-typescript-sdk](https://github.com/MCPCat/mcpcat-typescript-sdk) - MCPcat is an analytics platform for MCP server owners 🐱.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
-- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
+- [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [instavm/coderunner-ui](https://github.com/instavm/coderunner-ui) - Chat UI for Coderunner
@@ -6598,7 +6618,7 @@
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [Lusito/typed-ecstasy](https://github.com/Lusito/typed-ecstasy) - An entity component system for TypeScript (and JavaScript), based on ashley
 - [pilcrowonpaper/arctic](https://github.com/pilcrowonpaper/arctic) - OAuth 2.0 clients for popular providers
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Framework for building agent-native applications with Generative UI, shared state, and human-in-the-loop workflows.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents. Connect any agent framework to Chat, Generative UI, Frontend Tools, Human-in-the-Loop and Shared State. React & Angular supported.
 - [jancbeck/omnivore-ai-annotations](https://github.com/jancbeck/omnivore-ai-annotations) - This serverless function can be used to automatically add annotations to Omnivore articles when a specific label (say, "summarize") is added to them.
 - [duna-oss/flystorage](https://github.com/duna-oss/flystorage) - Flystorage; File storage abstraction for Node / TypeScript
 - [franckLdx/ts-retry](https://github.com/franckLdx/ts-retry) - A little retry tool for javascript/typescript
@@ -6720,7 +6740,7 @@
 - [joone/loz](https://github.com/joone/loz) - Loz is a command-line tool that enables your preferred LLM to execute system commands and utilize Unix pipes, integrating AI capabilities with other Unix tools.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [anomalyco/ion](https://github.com/anomalyco/ion) - Moved to https://github.com/sst/sst
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Full-Stack TypeScript ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern Data Layer for TypeScript Apps - type-safe ORM, built-in access control, automatic query services
 - [oxidecomputer/console](https://github.com/oxidecomputer/console) - Oxide Web Console
 - [lucgagan/auto-playwright](https://github.com/lucgagan/auto-playwright) - Automating Playwright steps using ChatGPT.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -6915,7 +6935,7 @@
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - A TypeScript superset that favors more types and less typing
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch) - ⚡ Fetching and realtime data exchange framework.
 - [worker-tools/shed](https://github.com/worker-tools/shed) - All Worker Tools under a single roof
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
@@ -7093,7 +7113,7 @@
 - [fvoordeckers/react-unleash-flags](https://github.com/fvoordeckers/react-unleash-flags) - React Component for Gitlab or Unleash Feature Flags
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [siokas/denomander](https://github.com/siokas/denomander) - Deno command-line interfaces made easy
-- [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and stringifier for JavaScript
+- [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and serialiser for JavaScript
 - [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
 - [blacha/hyperfine-action](https://github.com/blacha/hyperfine-action) - Run hyperfine on every commit to monitor performance regressions
 - [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
@@ -7709,7 +7729,6 @@
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [lyft/react-javascript-to-typescript-transform](https://github.com/lyft/react-javascript-to-typescript-transform) - Convert React JavaScript code to TypeScript with proper typing
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [graffle-js/graffle](https://github.com/graffle-js/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
