@@ -317,7 +317,6 @@
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [janhq/cortex.cpp](https://github.com/janhq/cortex.cpp) - Local AI API Platform
 - [hmenyus/node-calls-python](https://github.com/hmenyus/node-calls-python) - Call Python from NodeJS directly in-process without spawning processes
-- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
@@ -778,7 +777,7 @@
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
-- [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
+- [windtf/wireproxy](https://github.com/windtf/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 - [pg-sharding/spqr](https://github.com/pg-sharding/spqr) - Stateless Postgres Query Router.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
@@ -1125,6 +1124,7 @@
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [tilt-dev/ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [felixge/sqlbench](https://github.com/felixge/sqlbench) - sqlbench measures and compares the execution time of one or more SQL queries.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
@@ -1605,6 +1605,7 @@
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
+- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [tmcw/systemfontstack](https://github.com/tmcw/systemfontstack) - 
@@ -1622,6 +1623,7 @@
 - [netlify/netlify-identity-widget](https://github.com/netlify/netlify-identity-widget) - A zero config, framework free Netlify Identity widget
 - [ColdGrub1384/servediter.app](https://github.com/ColdGrub1384/servediter.app) - Web page for Codater (previously, VSApp)
 - [brownhci/WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
+- [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [vladocar/Basic.css](https://github.com/vladocar/Basic.css) - Basic.css - Classless CSS Starter File
@@ -2092,7 +2094,6 @@
 - [algolia/places](https://github.com/algolia/places) - :globe_with_meridians: Turn any &lt;input&gt; into an address autocomplete
 - [zachleat/speedlify](https://github.com/zachleat/speedlify) - Benchmark the web performance and accessibility of sites over time.
 - [vercel/nft](https://github.com/vercel/nft) - Node.js dependency tracing utility
-- [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [lovell/highwayhash](https://github.com/lovell/highwayhash) - Node.js implementation of HighwayHash, Google's fast and strong hash function
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
@@ -4110,7 +4111,6 @@
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
 - [fluidattacks/makes](https://github.com/fluidattacks/makes) - A software supply chain framework powered by Nix.
-- [ryuheechul/dotfiles](https://github.com/ryuheechul/dotfiles) - my dotfiles
 - [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
@@ -4605,6 +4605,7 @@
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [snarfed/bridgy](https://github.com/snarfed/bridgy) - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...
+- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
 - [tconbeer/sqlfmt](https://github.com/tconbeer/sqlfmt) - sqlfmt formats your dbt SQL files so you don't have to
 - [airbytehq/open-data-stack](https://github.com/airbytehq/open-data-stack) - Open Data Stack Projects: Examples of End to End Data Engineering Projects
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
@@ -4687,7 +4688,7 @@
 - [deepspeedai/DeepSpeed-MII](https://github.com/deepspeedai/DeepSpeed-MII) - MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
-- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
+- [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [linkedin/shiv](https://github.com/linkedin/shiv) - shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
@@ -5115,6 +5116,8 @@
 
 ## Rust 
 
+- [11happy/cpx](https://github.com/11happy/cpx) - cp reimagined
+- [wacht-platform/platform](https://github.com/wacht-platform/platform) - 
 - [starship/starship-poc](https://github.com/starship/starship-poc) - Proof of concept for Starship rewrite
 - [agavra/tuicr](https://github.com/agavra/tuicr) - A human-in-the-loop code review TUI for AI-generated changes.
 - [flamestro/deff](https://github.com/flamestro/deff) - interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting
@@ -5227,7 +5230,7 @@
 - [al13n321/nnd](https://github.com/al13n321/nnd) - A debugger for Linux
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [dphilla/boxer](https://github.com/dphilla/boxer) - Dockerfile → Universal Wasm Distribution
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - One database for metrics, logs, and traces. The unified OpenTelemetry  backend that replaces Prometheus, Loki, and ES — with SQL + PromQL  on object storage.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki & ES.
 - [philocalyst/infat](https://github.com/philocalyst/infat) - A command line tool to set default openers for file formats and url schemes on macos
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [eqtylab/mcp-guardian](https://github.com/eqtylab/mcp-guardian) - Manage / Proxy / Secure your MCP Servers
@@ -5418,7 +5421,7 @@
 - [ArshErgon/gitgrab](https://github.com/ArshErgon/gitgrab) - GitGrab: Stay up-to-date on your GitHub contributions with this open-source CLI tool.
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
 - [danobi/prr](https://github.com/danobi/prr) - Mailing list style code reviews for github
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The Rust-based bundler for JavaScript and TypeScript, with a modernized webpack API 🦀
 - [NAlexPear/pg_branch](https://github.com/NAlexPear/pg_branch) - Experimental Postgres extension for quickly branching databases through file system snapshots
 - [jokeyrhyme/nuls](https://github.com/jokeyrhyme/nuls) - Language Server Protocol implementation for nushell
 - [hexagonal-sun/ampkt](https://github.com/hexagonal-sun/ampkt) - Amateur radio packet experimentation framework
@@ -5922,12 +5925,12 @@
 - [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
 - [paulirish/github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email. :sunglasses: Use this responsibly.
 - [shellspec/shellbench](https://github.com/shellspec/shellbench) - A benchmark utility for POSIX shell comparison
+- [ryuheechul/dotfiles](https://github.com/ryuheechul/dotfiles) - my dotfiles
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [pkgxdev/setup](https://github.com/pkgxdev/setup) - GitHub Action and `curl pkgx.sh | sh`
 - [code-lever/asdf-rust](https://github.com/code-lever/asdf-rust) - Rust plugin for the asdf version manager
 - [JasCodes/pr-branch-action](https://github.com/JasCodes/pr-branch-action) - open a pull request when a branch is pushed or updated
-- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts
 - [davidraviv/gh-clean-branches](https://github.com/davidraviv/gh-clean-branches) - Safely deletes local branches with no upstream and no un-pushed commits
 - [mklement0/shall](https://github.com/mklement0/shall) - A CLI and REPL for invoking shell scripts or commands with multiple POSIX-like shells for portability testing.
 - [ianthehenry/zsh-autoquoter](https://github.com/ianthehenry/zsh-autoquoter) - automatically quote arguments to commands like `git commit -m`
@@ -6320,6 +6323,7 @@
 
 ## TypeScript 
 
+- [NikitaDmitrieff/auto-co-meta](https://github.com/NikitaDmitrieff/auto-co-meta) - Open-source framework for fully autonomous AI agent companies — 14 specialized agents (CEO, CTO, CFO, engineer, marketer) that run your startup autonomously
 - [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV) - https://hellocsv.github.io/HelloCSV/
 - [SidhuK/Glyph](https://github.com/SidhuK/Glyph) - Glyph is a private desktop workspace for notes, documents, and ideas, with Markdown editing and built-in AI tools.
 - [Nano-Collective/json-up](https://github.com/Nano-Collective/json-up) - TypeScript JSON migration tool with Zod schema validation
@@ -6430,7 +6434,7 @@
 - [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Open source admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript.
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The Ultimate Toolkit for Generating Type-Safe API Clients, Hooks, and Validators.
-- [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [janwilmake/openapi-mcp-server](https://github.com/janwilmake/openapi-mcp-server) - Allow AI to wade through complex OpenAPIs using Simple Language
 - [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually.
@@ -6514,7 +6518,7 @@
 - [makerkit/nextjs-saas-starter-kit-lite](https://github.com/makerkit/nextjs-saas-starter-kit-lite) - Lite version of the Makerkit SaaS Starter Kit based on Next.js and Supabase
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
 - [tommyjepsen/twblocks](https://github.com/tommyjepsen/twblocks) - Website blocks to copy/paste - based on shadcn & Radix using Tailwind and NextJS
-- [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
+- [next-safe-action/next-safe-action](https://github.com/next-safe-action/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 - [sourcegraph/openctx](https://github.com/sourcegraph/openctx) - See contextual info about code from your dev tools, in your editor, code review, and anywhere else you read code.
@@ -6525,7 +6529,7 @@
 - [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - The missing middleware for your configuration and secrets.
 - [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
-- [brillout/telefunc](https://github.com/brillout/telefunc) - Remote Functions. Instead of API.
+- [telefunc/telefunc](https://github.com/telefunc/telefunc) - Remote Functions.
 - [WebLegions/typescript-fsm](https://github.com/WebLegions/typescript-fsm) - TS-FSM is a strongly typed finite state machine for TypeScript that is using async operations. Library uses generics to take the user states and events. Zero dependencies!
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
@@ -6842,7 +6846,7 @@
 - [ory/polis](https://github.com/ory/polis) - Streamline your web application's authentication with Polis, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via th
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [kaller01/Bokskog](https://github.com/kaller01/Bokskog) - Self hosted audiobook library to podcast rss
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - API access for agents & apps.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
 - [Tameyer41/liftoff](https://github.com/Tameyer41/liftoff) - Mock Interview Simulator with AI-Powered Feedback
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
@@ -6892,6 +6896,7 @@
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 - [icoretech/airbroke](https://github.com/icoretech/airbroke) - 🔥 Lightweight, Airbrake/Sentry-compatible, PostgreSQL-based Open Source Error Catcher
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [zxcvbn-ts/zxcvbn](https://github.com/zxcvbn-ts/zxcvbn) - Low-Budget Password Strength Estimation
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
@@ -8030,7 +8035,6 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [CharlieDigital/coderev](https://github.com/CharlieDigital/coderev) - CodeRev is a lightweight tool that helps teams conduct technical interviews using code reviews.
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 - [LukasLoeffler/pgtools](https://github.com/LukasLoeffler/pgtools) - Gui application to monitor postgres database events in real time
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
 - [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder) - Easy to use Kubernetes port forwarding manager
