@@ -345,6 +345,7 @@
 
 ## ai 
 
+- [NikitaDmitrieff/auto-co-meta](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI Company OS — 14 AI agents loop 24/7, ship real software
 - [Andyyyy64/openTiger](https://github.com/Andyyyy64/openTiger) - 🐯Autonomous dev orchestration that never stops. Failures still converge to completion.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [gustavodiasdev/mcpx-cli](https://github.com/gustavodiasdev/mcpx-cli) - Interactive CLI to configure MCP servers for multiple AI providers
@@ -361,7 +362,7 @@
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 - [always-further/deepfabric](https://github.com/always-further/deepfabric) - Generate High-Quality Synthetics, Train, Measure, and Evaluate in a Single Pipeline
 - [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments.
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Turn your screen into a timeline of your workday. 1-click standups, perf review receipts, and beautiful time visualizations. Local AI or BYO key.
 - [archestra-ai/archestra](https://github.com/archestra-ai/archestra) - Secure cloud-native MCP registry, gateway & orchestrator
 - [universal-tool-calling-protocol/utcp-specification](https://github.com/universal-tool-calling-protocol/utcp-specification) - The specification for the Universal Tool Calling Protocol
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language.
@@ -508,7 +509,7 @@
 
 ## ai-agents 
 
-- [NikitaDmitrieff/auto-co-meta](https://github.com/NikitaDmitrieff/auto-co-meta) - Open-source framework for fully autonomous AI agent companies — 14 specialized agents (CEO, CTO, CFO, engineer, marketer) that run your startup autonomously
+- [NikitaDmitrieff/auto-co-meta](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI Company OS — 14 AI agents loop 24/7, ship real software
 - [computeruseprotocol/computeruseprotocol](https://github.com/computeruseprotocol/computeruseprotocol) - Computer Use Protocol is a universal schema for AI agents to perceive and interact with any desktop UI.
 - [SidhuK/Glyph](https://github.com/SidhuK/Glyph) - Glyph is a private desktop workspace for notes, documents, and ideas, with Markdown editing and built-in AI tools.
 - [Andyyyy64/openTiger](https://github.com/Andyyyy64/openTiger) - 🐯Autonomous dev orchestration that never stops. Failures still converge to completion.
@@ -865,7 +866,7 @@
 
 ## automation 
 
-- [NikitaDmitrieff/auto-co-meta](https://github.com/NikitaDmitrieff/auto-co-meta) - Open-source framework for fully autonomous AI agent companies — 14 specialized agents (CEO, CTO, CFO, engineer, marketer) that run your startup autonomously
+- [NikitaDmitrieff/auto-co-meta](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI Company OS — 14 AI agents loop 24/7, ship real software
 - [DecispherHQ/decision-guardian](https://github.com/DecispherHQ/decision-guardian) - Shift from passive documentation to active enforcement.
 - [dannote/figma-use](https://github.com/dannote/figma-use) - Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands.
 - [jomadu/ai-resource-manager](https://github.com/jomadu/ai-resource-manager) - Package manager for AI rules and prompts with semantic versioning and automatic distribution to AI tools.
@@ -960,6 +961,7 @@
 - [bcoe/awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - :two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
+- [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
 - [djadmin/passw0rd](https://github.com/djadmin/passw0rd) - 🔑securely checks a password to see if it has been previously exposed in a data breach
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [FancyGrid/awesome-grid](https://github.com/FancyGrid/awesome-grid) - A curated list of grid(table) libraries and resources that developers may find useful.
@@ -994,6 +996,7 @@
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
+- [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [sapegin/react-components](https://github.com/sapegin/react-components) - List of React components I use and recommend
 - [FancyGrid/awesome-grid](https://github.com/FancyGrid/awesome-grid) - A curated list of grid(table) libraries and resources that developers may find useful.
@@ -1139,7 +1142,7 @@
 
 - [superapp-labs/typescript-superapp](https://github.com/superapp-labs/typescript-superapp) - Type-safe full-stack backend engine for building data-driven apps with TypeScript — CRUD, permissions, filtering, and auth out of the box
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - The Embedded, Distributed, Document DB
+- [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - A peer-to-peer database that spans devices. For apps and agents that work everywhere.
 - [subtrace/subtrace](https://github.com/subtrace/subtrace) - Network inspector for your backend
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [TailAdmin/free-react-tailwind-admin-dashboard](https://github.com/TailAdmin/free-react-tailwind-admin-dashboard) - Free React Tailwind CSS Admin Dashboard Template - TailAdmin is a free and open-source admin dashboard template built on React and Tailwind CSS, providing developers with everything they need to creat
@@ -1161,6 +1164,7 @@
 
 ## bash 
 
+- [NikitaDmitrieff/auto-co-meta](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI Company OS — 14 AI agents loop 24/7, ship real software
 - [JanDeDobbeleer/aliae](https://github.com/JanDeDobbeleer/aliae) - Cross shell and platform alias management
 - [cpendery/kaldo](https://github.com/cpendery/kaldo) - cross shell aliases
 - [Ramilito/kubesess](https://github.com/Ramilito/kubesess) - Kubectl plugin managing sessions
@@ -1375,7 +1379,7 @@
 ## chatgpt 
 
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Turn your screen into a timeline of your workday. 1-click standups, perf review receipts, and beautiful time visualizations. Local AI or BYO key.
 - [archestra-ai/archestra](https://github.com/archestra-ai/archestra) - Secure cloud-native MCP registry, gateway & orchestrator
 - [hyprmcp/mcp-install-instructions-generator](https://github.com/hyprmcp/mcp-install-instructions-generator) - Generate MCP Server Installation Instructions for Cursor, Visual Studio Code, Claude Code, Claude Desktop, Windsurf, ChatGPT, Gemini CLI and more
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
@@ -1491,7 +1495,6 @@
 
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Roll movie-style credits for your git repo — right in the terminal
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
-- [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
 - [DecispherHQ/decision-guardian](https://github.com/DecispherHQ/decision-guardian) - Shift from passive documentation to active enforcement.
 - [gustavodiasdev/mcpx-cli](https://github.com/gustavodiasdev/mcpx-cli) - Interactive CLI to configure MCP servers for multiple AI providers
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
@@ -2661,7 +2664,7 @@
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - MergeStat enables anyone to ask questions about the history and contents of source code.
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki & ES.
-- [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - The Embedded, Distributed, Document DB
+- [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - A peer-to-peer database that spans devices. For apps and agents that work everywhere.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
@@ -2841,7 +2844,7 @@
 ## deno 
 
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
-- [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - The Embedded, Distributed, Document DB
+- [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - A peer-to-peer database that spans devices. For apps and agents that work everywhere.
 - [loglayer/loglayer](https://github.com/loglayer/loglayer) - A modern logging library for Javascript / Typescript that routes logs to various logging libraries, cloud providers, files, StatsD, and OpenTelemetry while providing a fluent API for specifying log me
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [fedify-dev/fedify](https://github.com/fedify-dev/fedify) - ActivityPub server framework in TypeScript
@@ -3905,7 +3908,7 @@
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
-- [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - The Embedded, Distributed, Document DB
+- [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - A peer-to-peer database that spans devices. For apps and agents that work everywhere.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [deco-cx/deco](https://github.com/deco-cx/deco) - Git-based Visual CMS for Deno, &lt;/&gt; htmx and Tailwind apps. Deploy on any Deno-compatible host.
 - [akash-joshi/rocketrpc](https://github.com/akash-joshi/rocketrpc) - A typesafe framework to destroy client-server barriers.
@@ -7248,7 +7251,7 @@
 
 ## llm 
 
-- [NikitaDmitrieff/auto-co-meta](https://github.com/NikitaDmitrieff/auto-co-meta) - Open-source framework for fully autonomous AI agent companies — 14 specialized agents (CEO, CTO, CFO, engineer, marketer) that run your startup autonomously
+- [NikitaDmitrieff/auto-co-meta](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI Company OS — 14 AI agents loop 24/7, ship real software
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your LLM coding agents on macOS so they can only touch the files they need
 - [knowns-dev/knowns](https://github.com/knowns-dev/knowns) - The memory layer for AI-native development — giving AI persistent understanding of your software projects.
@@ -7257,7 +7260,7 @@
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 - [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments.
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Turn your screen into a timeline of your workday. 1-click standups, perf review receipts, and beautiful time visualizations. Local AI or BYO key.
 - [instavm/coderunner](https://github.com/instavm/coderunner) - A secure local sandbox to run LLM-generated code using Apple containers
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) - Official Microsoft Learn MCP Server – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.
@@ -7369,7 +7372,7 @@
 ## low-code 
 
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
-- [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - The Embedded, Distributed, Document DB
+- [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - A peer-to-peer database that spans devices. For apps and agents that work everywhere.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for secure enterprise agents.
 - [mui/toolpad](https://github.com/mui/toolpad) - ⚠️ 𝐍𝐨𝐭 𝐚𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐦𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 Toolpad: Full stack components and low-code builder for dashboards and internal apps.
@@ -8978,7 +8981,7 @@
 
 ## open-source 
 
-- [NikitaDmitrieff/auto-co-meta](https://github.com/NikitaDmitrieff/auto-co-meta) - Open-source framework for fully autonomous AI agent companies — 14 specialized agents (CEO, CTO, CFO, engineer, marketer) that run your startup autonomously
+- [NikitaDmitrieff/auto-co-meta](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI Company OS — 14 AI agents loop 24/7, ship real software
 - [bysiber/cleardisk](https://github.com/bysiber/cleardisk) - Free macOS menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM, Docker, pip, Cargo). Reclaim disk space instantly.
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Roll movie-style credits for your git repo — right in the terminal
 - [DecispherHQ/decision-guardian](https://github.com/DecispherHQ/decision-guardian) - Shift from passive documentation to active enforcement.
@@ -10921,7 +10924,6 @@
 - [callbag/callbag](https://github.com/callbag/callbag) - 👜 A standard for JS callbacks that enables lightweight observables and iterables
 - [Ghirro/graphql-network](https://github.com/Ghirro/graphql-network) - Chrome Devtool that provides a "network"-style tab for GraphQL requests to allow developers to debug more easily.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
-- [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
 - [async-library/react-async](https://github.com/async-library/react-async) - 🍾 Flexible promise-based React data loader
 - [fraserxu/react-dropdown](https://github.com/fraserxu/react-dropdown) - 🔽 A dead simple dropdown component for React
 - [m3g4p0p/from-html](https://github.com/m3g4p0p/from-html) - Get element references directly from a HTML string
@@ -12790,7 +12792,7 @@
 
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Turn your screen into a timeline of your workday. 1-click standups, perf review receipts, and beautiful time visualizations. Local AI or BYO key.
 - [jomadu/ai-resource-manager](https://github.com/jomadu/ai-resource-manager) - Package manager for AI rules and prompts with semantic versioning and automatic distribution to AI tools.
 - [tuist/tuist](https://github.com/tuist/tuist) - A virtual platform team for mobile devs who ship
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
@@ -13324,7 +13326,7 @@
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
 - [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes) - 📱 A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
 - [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
-- [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - The Embedded, Distributed, Document DB
+- [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - A peer-to-peer database that spans devices. For apps and agents that work everywhere.
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [Abdo-reda/react-email-vscode-extension](https://github.com/Abdo-reda/react-email-vscode-extension) - React Email Renderer VSCode Extension
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
@@ -15306,7 +15308,7 @@
 - [angristan/MacThrottle](https://github.com/angristan/MacThrottle) - Menu bar app to know when your Mac is thermal throttling
 - [apple/swift-configuration](https://github.com/apple/swift-configuration) - API package for reading configuration.
 - [montanaflynn/EthernetConnectionStatus](https://github.com/montanaflynn/EthernetConnectionStatus) - A native macOS menu bar app that monitors your ethernet connection status.
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Turn your screen into a timeline of your workday. 1-click standups, perf review receipts, and beautiful time visualizations. Local AI or BYO key.
 - [artemnovichkov/shortcuts-mcp-server](https://github.com/artemnovichkov/shortcuts-mcp-server) - Shortcuts + MCP  = ♥️
 - [MightyDillah/apple-doc-mcp](https://github.com/MightyDillah/apple-doc-mcp) - MCP server providing seamless access to Apple Developer Documentation with smart search and wildcard support
 - [jedisct1/pingbar](https://github.com/jedisct1/pingbar) - Lightweight network and DNS monitoring at a glance, right from your Mac menu bar.
@@ -15967,7 +15969,7 @@
 - [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes) - 📱 A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
-- [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - The Embedded, Distributed, Document DB
+- [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - A peer-to-peer database that spans devices. For apps and agents that work everywhere.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
