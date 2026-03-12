@@ -480,7 +480,6 @@
 
 ## Clojure 
 
-- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [montaigneio/montaigne](https://github.com/montaigneio/montaigne) - Document system for keeping personal journals and wikis.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
@@ -646,7 +645,7 @@
 - [roborev-dev/roborev](https://github.com/roborev-dev/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 - [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
-- [rwx-cloud/cli](https://github.com/rwx-cloud/cli) - The CLI for RWX
+- [rwx-cloud/rwx](https://github.com/rwx-cloud/rwx) - RWX is an agent-native cloud platform, powered by a new container runtime
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - Powerful open-source CLI to audit security, costs, and best practices in AWS. 🩺 ☁️
 - [cleanexit0/darwin-photos](https://github.com/cleanexit0/darwin-photos) - Back up iCloud Photos to external storage — without bloating your Mac. Much faster.
@@ -1571,6 +1570,7 @@
 
 ## HTML 
 
+- [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [intent-integrity-chain/kit](https://github.com/intent-integrity-chain/kit) - Intent Integrity Kit - Closing the intent-to-code chasm
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
@@ -2841,6 +2841,7 @@
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [aweary/json-to-graphql](https://github.com/aweary/json-to-graphql) - Create GraphQL schema from JSON files and APIs
 - [marmelab/json-graphql-server](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [dimiro1/lambda-wkhtmltopdf](https://github.com/dimiro1/lambda-wkhtmltopdf) - Convert HTML to PDF using wkhtmltopdf on AWS Lambda
 - [devongovett/node-wkhtmltopdf](https://github.com/devongovett/node-wkhtmltopdf) - A wrapper for the wkhtmltopdf HTML to PDF converter using WebKit
 - [ashiina/lambda-local](https://github.com/ashiina/lambda-local) - Commandline tool to run Amazon Lambda function on local machines.
@@ -2894,7 +2895,6 @@
 - [nitin42/animate-components](https://github.com/nitin42/animate-components) - ✨ Elemental components for doing animations in React
 - [amilajack/eslint-plugin-flowtype-errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Run Flow as an ESLint plugin
 - [gajus/eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules for ESLint.
-- [sjurba/rebase-editor](https://github.com/sjurba/rebase-editor) - Simple terminal based sequence editor for git interactive rebase.
 - [styled-components/polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript ✨
 - [origamitower/folktale](https://github.com/origamitower/folktale) - [not actively maintained!] A standard library for functional programming in JavaScript
 - [brysgo/graphql-gun](https://github.com/brysgo/graphql-gun) - A graphql API for the gun p2p graph database
@@ -4509,7 +4509,6 @@
 
 ## Python 
 
-- [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [hirsimaki-markus/seapie](https://github.com/hirsimaki-markus/seapie) - A breakpoint should just mean &gt;&gt;&gt;
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
@@ -4525,7 +4524,7 @@
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [inxm-ai/enterprise-mcp-bridge](https://github.com/inxm-ai/enterprise-mcp-bridge) - 
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
-- [instavm/coderunner](https://github.com/instavm/coderunner) - A secure local sandbox to run LLM-generated code using Apple containers
+- [instavm/coderunner](https://github.com/instavm/coderunner) - A local sandbox for your AI agents
 - [legacy-use/legacy-use](https://github.com/legacy-use/legacy-use) - Turn any legacy application into a modern REST API, powered by AI
 - [simedw/spegel](https://github.com/simedw/spegel) - Spegel - Reflect the web through AI
 - [quintonwall/airbyte-labs-pyairbyte-mcp](https://github.com/quintonwall/airbyte-labs-pyairbyte-mcp) - 
@@ -4594,7 +4593,7 @@
 - [emcf/thepipe](https://github.com/emcf/thepipe) - Get clean data from tricky documents, powered by vision-language models ⚡
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [aedocw/epub2tts](https://github.com/aedocw/epub2tts) - Turn an epub or text file into an audiobook
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source AI automation platform for security teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - AI-native automation platform for security teams. Purpose-built for agents. Open source for builders.
 - [skyffel/airbyte-connector-generator-poc](https://github.com/skyffel/airbyte-connector-generator-poc) - proof of concept to generate Airbyte low-code YAML connectors from API documentation
 - [vocodedev/vocode-core](https://github.com/vocodedev/vocode-core) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs
@@ -5223,7 +5222,7 @@
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [Askannz/munal-os](https://github.com/Askannz/munal-os) - An experimental operating system fully written in Rust, with a unikernel design, cooperative scheduling and a security model based on WASM sandboxing.
 - [Muvon/octocode](https://github.com/Muvon/octocode) - Semantic code searcher and codebase utility
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
 - [uutils/diffutils](https://github.com/uutils/diffutils) - Drop-in replacement of diffutils in Rust
 - [uutils/procps](https://github.com/uutils/procps) - Rust reimplementation of the procps project
 - [uutils/util-linux](https://github.com/uutils/util-linux) - Rust reimplementation of the util-linux project
@@ -5876,7 +5875,7 @@
 
 ## Shell 
 
-- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your LLM coding agents on macOS so they can only touch the files they need
+- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox for local AI agents so they read/write only what they need
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [shakedlokits/stash](https://github.com/shakedlokits/stash) - Bidirectionally sync Markdown files with Apple Notes.
 - [cpendery/kaldo](https://github.com/cpendery/kaldo) - cross shell aliases
@@ -6622,6 +6621,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [lmnt-com/lmnt-node](https://github.com/lmnt-com/lmnt-node) - The LMNT Node.js module provides convenient access to the LMNT API from applications written in Javascript.
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) - Open-source framework for exporting your personal data.
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [soufianeelc/nextjs-waitlist-page](https://github.com/soufianeelc/nextjs-waitlist-page) - An open-source next.js waitlist landing page with EmailOctopus API 📩
 - [berat/waitlist-landing-page](https://github.com/berat/waitlist-landing-page) - simple and effective waitlist page
@@ -6908,7 +6908,7 @@
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [6over3/tempo](https://github.com/6over3/tempo) - 🥁 Don't miss a beat. Real-time, end-to-end typesafe APIs.
 - [charliermarsh/trellis](https://github.com/charliermarsh/trellis) - Write Dockerfiles and CI pipelines in TypeScript.
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and
 - [commitspark/graphql-api](https://github.com/commitspark/graphql-api) - GraphQL API to manage structured data in a Git repository
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
@@ -7701,7 +7701,7 @@
 - [gcanti/logging-ts](https://github.com/gcanti/logging-ts) - Composable loggers for TypeScript
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [ashubham/webshot-factory](https://github.com/ashubham/webshot-factory) - Web Screenshots at scale based on headless chrome
-- [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - SurveyJS is an open-source JavaScript form builder that allows developers to create dynamic forms, multi-step form wizards, and survey applications. It supports React, Angular, and Vue.js (Vue 3), and
+- [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - SurveyJS is an open-source JavaScript form builder library that allows developers to create dynamic forms, multi-step form wizards, and survey applications. It supports React, Angular, and Vue.js (Vue
 - [aurelia/store](https://github.com/aurelia/store) - Aurelia single state store based on RxJS
 - [Dean177/use-url-state](https://github.com/Dean177/use-url-state) - Lift a React component's state into the url
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
@@ -7753,7 +7753,6 @@
 - [hoppinger/MonadicReact](https://github.com/hoppinger/MonadicReact) - A monadic wrapper to build reusable libraries of react components.
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [prisma-labs/get-graphql-schema](https://github.com/prisma-labs/get-graphql-schema) - Fetch and print the GraphQL schema from a GraphQL HTTP endpoint. (Can be used for Relay Modern.)
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [graphile/pg-sql2](https://github.com/graphile/pg-sql2) - Repository has moved:
 - [trainline/react-skeletor](https://github.com/trainline/react-skeletor) - Skeleton loading for React
 - [brentlintner/synt](https://github.com/brentlintner/synt) - Find similar functions and classes in your JavaScript/TypeScript code.
@@ -7780,6 +7779,7 @@
 - [palantir/tslint](https://github.com/palantir/tslint) - :vertical_traffic_light: An extensible linter for the TypeScript language
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [calebmer/pg-sql](https://github.com/calebmer/pg-sql) - Create SQL for Postgres in a safe and composable fashion with the power of template strings.
+- [sjurba/rebase-editor](https://github.com/sjurba/rebase-editor) - Simple terminal based sequence editor for git interactive rebase.
 - [APIs-guru/graphql-faker](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
 - [developer239/react-apollo-graphql](https://github.com/developer239/react-apollo-graphql) - JavaScript meets web. React in tandem with Apollo. Minimal implementation that will help you get started with GraphQL.
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
