@@ -632,7 +632,6 @@
 - [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 - [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a modern, fair source software licensing and distribution API. For developers, by developers.
 - [ChrisChinchilla/Openly](https://github.com/ChrisChinchilla/Openly) - A Vale linter style that aims to replicate Grammarly in an open-source, privacy-friendly way
-- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
 ## Go 
 
@@ -4061,7 +4060,6 @@
 - [logto-io/auth-wiki](https://github.com/logto-io/auth-wiki) - A comprehensive collection of articles, tutorials, and resources about authentication, authorization, and identity management.
 - [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - PostgreSQL reengineered for multi-tenant apps
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - AI-Native Open-Source Next.js commerce. Powered by Stripe. Ultra fast with typesafe Commerce SDK. Built for AI development (Claude, Codex,   Cursor).
-- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [thiggle/api](https://github.com/thiggle/api) - Structured LLM APIs
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
@@ -5134,7 +5132,7 @@
 - [starship/starship-poc](https://github.com/starship/starship-poc) - Proof of concept for Starship rewrite
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
 - [flamestro/deff](https://github.com/flamestro/deff) - interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting
-- [gbram1/streamhouse](https://github.com/gbram1/streamhouse) - S3-native streaming platform. A Kafka alternative with infinite scalability, Kafka-compatible APIs, SQL processing and AI queries. Written in Rust.
+- [gbram1/streamhouse](https://github.com/gbram1/streamhouse) - Open-source event streaming platform built on S3. Kafka-compatible APIs, built-in SQL engine, schema   registry — one Rust binary replaces Kafka + ZooKeeper + KSQL. Retention costs pennies, not thousa
 - [GreatScott/enject](https://github.com/GreatScott/enject) - enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext.
 - [letmutex/gitas](https://github.com/letmutex/gitas) - Git Account Switch
 - [madzarm/ccsearch](https://github.com/madzarm/ccsearch) - Hybrid search CLI for Claude Code chat sessions (BM25 + vector embeddings + RRF)
@@ -5357,6 +5355,7 @@
 - [dj95/zjstatus](https://github.com/dj95/zjstatus) - A configurable statusbar plugin for zellij
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
+- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [eclipse-biscuit/biscuit](https://github.com/eclipse-biscuit/biscuit) - delegated, decentralized, capabilities based authorization token
 - [SilinMeng0510/imgcatr](https://github.com/SilinMeng0510/imgcatr) - cat for images, by RUST 🦀️
 - [indygreg/apple-platform-rs](https://github.com/indygreg/apple-platform-rs) - Rust crates supporting Apple platform development
@@ -5969,6 +5968,7 @@
 - [mjirv/dbt-datamocktool](https://github.com/mjirv/dbt-datamocktool) - A dbt package for unit testing your SQL analytics models
 - [client9/shlib](https://github.com/client9/shlib) - portable functions for posix shell environments
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
+- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [denvaar/pgdiff](https://github.com/denvaar/pgdiff) - Compare what data changed between two points in time
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands
 - [unacast/actions-github-deployment-status](https://github.com/unacast/actions-github-deployment-status) - This is a Github Action that makes you able to create a deployment status in the Github Deployment API
@@ -6904,7 +6904,7 @@
 - [pushchain/push-notifications-sdk](https://github.com/pushchain/push-notifications-sdk) - Push SDK is a growing Monorepo of packages that provide solutions for a wide range of development tasks one might come across while building on top of Push protocol. It is a Javascript-based group of 
 - [slashid/javascript](https://github.com/slashid/javascript) - This monorepo hosts all the JavaScript resources for /id
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
-- [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - Reactivity without the framework
+- [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution.
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
 - [blainehansen/macro-ts](https://github.com/blainehansen/macro-ts) - An ergonomic typescript compiler that enables typesafe syntactic macros.
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
