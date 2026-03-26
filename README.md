@@ -450,6 +450,7 @@
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 - [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
 - [wentin/cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
+- [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://beautifulwebtype.com
 - [rohitkrai03/pills](https://github.com/rohitkrai03/pills) - A simple responsive CSS Grid for humans. View Demo -
 - [frend/frend.co](https://github.com/frend/frend.co) - Frend — A collection of accessible, modern front-end components.
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
@@ -670,7 +671,7 @@
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language.
 - [pgplex/pgschema](https://github.com/pgplex/pgschema) - Terraform-style, declarative schema migration CLI for Postgres. Agent friendly.
 - [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer
-- [max-ai-org/ai-resource-manager](https://github.com/max-ai-org/ai-resource-manager) - Package manager for AI rules and prompts with semantic versioning and automatic distribution to AI tools.
+- [colchuck-ai/ai-resource-manager](https://github.com/colchuck-ai/ai-resource-manager) - Package manager for AI rules and prompts with semantic versioning and automatic distribution to AI tools.
 - [skorokithakis/dox](https://github.com/skorokithakis/dox) - A runner that runs commands in Docker containers.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [VincenzoManto/Datacmd](https://github.com/VincenzoManto/Datacmd) - Datacmd is the fastest, coolest way to turn raw data into stunning terminal dashboards. No setup, no fluff — just run a command and boom, your CSV or API becomes a live data experience. ⚡ CLI dashboar
@@ -1665,7 +1666,6 @@
 - [webcomponents/custom-elements](https://github.com/webcomponents/custom-elements) - A polyfill for HTML Custom Elements v1
 - [filamentgroup/formcore](https://github.com/filamentgroup/formcore) - A set of forms.
 - [atotic/event-loop](https://github.com/atotic/event-loop) - Deep dive into JavaScript event loop
-- [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://beautifulwebtype.com
 - [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
 - [eqcss/eqcss](https://github.com/eqcss/eqcss) - EQCSS is a CSS Reprocessor that introduces Element Queries, Scoped CSS, a Parent selector, and responsive JavaScript to all browsers IE8 and up
 - [cloudfour/drizzle](https://github.com/cloudfour/drizzle) - A streamlined tool for developing, documenting and presenting UI pattern libraries.
@@ -4060,7 +4060,6 @@
 - [logto-io/auth-wiki](https://github.com/logto-io/auth-wiki) - A comprehensive collection of articles, tutorials, and resources about authentication, authorization, and identity management.
 - [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - PostgreSQL reengineered for multi-tenant apps
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - AI-Native Open-Source Next.js commerce. Powered by Stripe. Ultra fast with typesafe Commerce SDK. Built for AI development (Claude, Codex,   Cursor).
-- [thiggle/api](https://github.com/thiggle/api) - Structured LLM APIs
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [frictionlessdata/datapackage](https://github.com/frictionlessdata/datapackage) - Data Package is a standard consisting of a set of simple yet extensible specifications to describe datasets, data files and tabular data. It is a data definition language (DDL) and data API that facil
@@ -4197,7 +4196,6 @@
 - [taranntell/fallinorg](https://github.com/taranntell/fallinorg) - Clean up your Mac in one click.
 - [bh-rat/awesome-mcp-enterprise](https://github.com/bh-rat/awesome-mcp-enterprise) - A curated list of awesome MCP (Model Context Protocol) tools, platforms, and services for enterprises.
 - [jkoppel/jj-workshop](https://github.com/jkoppel/jj-workshop) - 
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - Remote MCP Servers
 - [Open-Email/MailHTTPS-Protocol](https://github.com/Open-Email/MailHTTPS-Protocol) - The OpenEmail Protocol
 - [jeanregisser/mediaremotetv-protocol](https://github.com/jeanregisser/mediaremotetv-protocol) - Unofficial Apple TV remote protocol specification
@@ -5121,6 +5119,7 @@
 
 ## Rust 
 
+- [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
 - [asinglebit/guitar](https://github.com/asinglebit/guitar) - A terminal based git client with fast topological & chronological graph rendering
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
 - [weedonandscott/trolley](https://github.com/weedonandscott/trolley) - Run terminal apps anywhere
@@ -5289,7 +5288,7 @@
 - [timrogers/litra-rs](https://github.com/timrogers/litra-rs) - 💡 Control your Logitech Litra light from the command line
 - [janniks/git-ignore](https://github.com/janniks/git-ignore) - An interactive CLI to generate .gitignore files (written in Rust)
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
 - [arxanas/scm-record](https://github.com/arxanas/scm-record) - `scm-record` is a UI component to interactively select changes to include in a commit. It's meant to be embedded in source control tooling.
 - [Oxen-AI/Oxen](https://github.com/Oxen-AI/Oxen) - Lightning fast data version control system for structured and unstructured machine learning datasets. We aim to make versioning datasets as easy as versioning code.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -6496,7 +6495,6 @@
 - [auto-browse/auto-browse-ts](https://github.com/auto-browse/auto-browse-ts) - Auto-Browse: AI Enabled Browser Automation
 - [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
 - [adamwattis/mcp-proxy-server](https://github.com/adamwattis/mcp-proxy-server) - An MCP proxy server that aggregates and serves multiple MCP resource servers through a single interface
-- [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) - A TypeScript streamable HTTP and SSE proxy for MCP servers that use stdio transport.
 - [z4nr34l/nemo](https://github.com/z4nr34l/nemo) - Missing polyfill for multiple next.js middlewares
 - [Toolbase-AI/toolbase](https://github.com/Toolbase-AI/toolbase) - A desktop application that adds powerful tools to Claude and AI platforms
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
