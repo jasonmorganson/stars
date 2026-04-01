@@ -382,7 +382,7 @@
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) - A Node.js package and GitHub Action for evaluating MCP (Model Context Protocol) tool implementations using LLM-based scoring. This helps ensure your MCP server's tools are working correctly and perfor
 - [pmusolino/AI-Git-Narrator](https://github.com/pmusolino/AI-Git-Narrator) - Command-line tool for generating Git commit messages and PR descriptions with AI. Supports staged/unstaged changes and customizable AI parameters.
 - [Muvon/octocode](https://github.com/Muvon/octocode) - Semantic code searcher and codebase utility
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - opensource secure local-first sandboxes for ai agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - secure, local-first and programmable sandboxes for AI agents
 - [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
@@ -431,7 +431,7 @@
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) - A reactive runtime for building durable AI agents
@@ -542,7 +542,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [metaskills/experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
 - [SugarAI-HQ/CopilotOne](https://github.com/SugarAI-HQ/CopilotOne) - Add Siri like Native AI Agents in you App.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -553,7 +553,7 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Testkube is a Test Orchestration Platform for Cloud Native Applications
-- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks gives you the building blocks and infrastructure to enable people and AI to work together inside your app.
+- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Realtime infrastructure for multiplayer apps and agents
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI Local (v2) is a CLI-based UI component library that copies components directly into your project. Works with AI tools, agent-driven UIs, and prompt-ready workflows.
@@ -2049,7 +2049,7 @@
 
 ## coding 
 
-- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
+- [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [gefyrahq/gefyra](https://github.com/gefyrahq/gefyra) - Blazingly-fast :rocket:, rock-solid, local application development :arrow_right: with Kubernetes.
 - [dwmkerr/effective-shell](https://github.com/dwmkerr/effective-shell) - Text, samples and website for my 'Effective Shell' series.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
@@ -2303,7 +2303,7 @@
 
 - [lightfeed/extractor](https://github.com/lightfeed/extractor) - Using LLMs and AI browser automation to robustly extract web data
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 - [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
@@ -3301,7 +3301,7 @@
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [hyprmcp/mcp-gateway](https://github.com/hyprmcp/mcp-gateway) - MCP OAuth Proxy incl. dynamic client registration (DCR), MCP prompt analytics and MCP firewall to build enterprise grade MCP servers.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - opensource secure local-first sandboxes for ai agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - secure, local-first and programmable sandboxes for AI agents
 - [dphilla/boxer](https://github.com/dphilla/boxer) - Dockerfile → Universal Wasm Distribution
 - [kernel/kernel-images](https://github.com/kernel/kernel-images) - Browsers-as-a-service for automations and web agents
 - [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
@@ -7202,7 +7202,7 @@
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - opensource secure local-first sandboxes for ai agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - secure, local-first and programmable sandboxes for AI agents
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [divvun/kbdgen](https://github.com/divvun/kbdgen) - The next iteration of a Rust keyboard layout generator
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -7363,7 +7363,7 @@
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
@@ -7597,7 +7597,7 @@
 - [jackielii/skhd.zig](https://github.com/jackielii/skhd.zig) - Simple Hotkey Daemon for macOS, ported from skhd by koekeishiya
 - [mattt/iMCP](https://github.com/mattt/iMCP) - A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more
 - [jedisct1/pingbar](https://github.com/jedisct1/pingbar) - Lightweight network and DNS monitoring at a glance, right from your Mac menu bar.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - opensource secure local-first sandboxes for ai agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - secure, local-first and programmable sandboxes for AI agents
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [tuist/XcodeProj](https://github.com/tuist/XcodeProj) - 📝 Read, update and write your Xcode projects
 - [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
@@ -7763,7 +7763,7 @@
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
 - [TimoKats/mdrss](https://github.com/TimoKats/mdrss) - Convert markdown files to RSS feed using GO.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [elegantframework/elegant-cli](https://github.com/elegantframework/elegant-cli) - ✨ Build SEO-friendly websites, super fast full-stack web applications, and much more with Elegant. 💜 Built with Next.js, TipTap, Tailwind CSS, and more.
@@ -7896,7 +7896,7 @@
 - [basementstudio/xmcp](https://github.com/basementstudio/xmcp) - The TypeScript MCP framework
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) - A Node.js package and GitHub Action for evaluating MCP (Model Context Protocol) tool implementations using LLM-based scoring. This helps ensure your MCP server's tools are working correctly and perfor
 - [Muvon/octocode](https://github.com/Muvon/octocode) - Semantic code searcher and codebase utility
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - opensource secure local-first sandboxes for ai agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - secure, local-first and programmable sandboxes for AI agents
 - [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The Ultimate Toolkit for Generating Type-Safe API Clients, Hooks, and Validators.
 - [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
@@ -8541,6 +8541,7 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [hatchet-dev/icepick](https://github.com/hatchet-dev/icepick) - Build agents that scale with a zero-cost abstraction.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - secure, local-first and programmable sandboxes for AI agents
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
@@ -9807,7 +9808,7 @@
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [hexagonal-sun/ampkt](https://github.com/hexagonal-sun/ampkt) - Amateur radio packet experimentation framework
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
-- [xetdata/nfsserve](https://github.com/xetdata/nfsserve) - A Rust NFS Server implementation
+- [huggingface/nfsserve](https://github.com/huggingface/nfsserve) - A Rust NFS Server implementation
 - [dot-config/dot-config.github.io](https://github.com/dot-config/dot-config.github.io) - dot-config promotes use of .config folders for project level settings
 - [numtide/prj-spec](https://github.com/numtide/prj-spec) - Project Base Directory Specification
 - [deadbeefsociety/sshfs](https://github.com/deadbeefsociety/sshfs) - A network filesystem client to connect to SSH servers
@@ -13021,7 +13022,6 @@
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [always-further/deepfabric](https://github.com/always-further/deepfabric) - Generate High-Quality Synthetics, Train, Measure, and Evaluate in a Single Pipeline
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - opensource secure local-first sandboxes for ai agents
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 91+ formats. Available for Rust, Python
@@ -13504,7 +13504,7 @@
 - [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
 - [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 - [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
-- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks gives you the building blocks and infrastructure to enable people and AI to work together inside your app.
+- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Realtime infrastructure for multiplayer apps and agents
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [tableflowhq/csv-import](https://github.com/tableflowhq/csv-import) - The open-source CSV importer, maintained by @tableflowhq
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
@@ -14268,7 +14268,7 @@
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
 - [Muvon/octocode](https://github.com/Muvon/octocode) - Semantic code searcher and codebase utility
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - opensource secure local-first sandboxes for ai agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - secure, local-first and programmable sandboxes for AI agents
 - [jnsgruk/oxidizr](https://github.com/jnsgruk/oxidizr) - 🦀 Install modern Rust-based replacements of packages such as coreutils, findutils, diffutils and sudo,  making them the default on an Ubuntu system 🦀
 - [karlis-vagalis/doxxer](https://github.com/karlis-vagalis/doxxer) - CLI tool for dynamic SemVer versioning using Git and tags
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
@@ -14641,7 +14641,7 @@
 - [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [mcp-shark/mcp-shark](https://github.com/mcp-shark/mcp-shark) - Wireshark-like forensic analysis for Model Context Protocol communications  Capture, inspect, and investigate all HTTP requests and responses between your IDE and MCP servers
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - opensource secure local-first sandboxes for ai agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - secure, local-first and programmable sandboxes for AI agents
 - [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.
 - [Hrdtr/guantr](https://github.com/Hrdtr/guantr) - Flexible, type-safe JavaScript library for efficient authorization and permission checking
 - [trycompai/comp](https://github.com/trycompai/comp) - AI Native platform to get companies compliant - Vanta & Drata Alternative
@@ -14792,7 +14792,7 @@
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - opensource secure local-first sandboxes for ai agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - secure, local-first and programmable sandboxes for AI agents
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
@@ -15962,7 +15962,6 @@
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [Piturnah/gex](https://github.com/Piturnah/gex) - Git Explorer: cross-platform git workflow improvement tool inspired by Magit
 - [dzfrias/projectable](https://github.com/dzfrias/projectable) - :dizzy: A TUI file manager built for projects
 - [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://codeberg.org/mrus/neonmodem)
@@ -16055,6 +16054,7 @@
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [hatchet-dev/icepick](https://github.com/hatchet-dev/icepick) - Build agents that scale with a zero-cost abstraction.
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - secure, local-first and programmable sandboxes for AI agents
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The Ultimate Toolkit for Generating Type-Safe API Clients, Hooks, and Validators.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
@@ -17086,7 +17086,7 @@
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - opensource secure local-first sandboxes for ai agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - secure, local-first and programmable sandboxes for AI agents
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [divvun/kbdgen](https://github.com/divvun/kbdgen) - The next iteration of a Rust keyboard layout generator
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
