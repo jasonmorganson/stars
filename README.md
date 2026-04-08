@@ -124,7 +124,7 @@
 
 ## Awk 
 
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
 
 ## Bikeshed 
 
@@ -572,7 +572,6 @@
 ## Dockerfile 
 
 - [goreleaser/example-uv](https://github.com/goreleaser/example-uv) - 
-- [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [land007/docker_playwright_novnc](https://github.com/land007/docker_playwright_novnc) - docker_playwright_novnc
 - [pothos/rust-userland](https://github.com/pothos/rust-userland) - Rust userland container image
@@ -636,6 +635,7 @@
 
 ## Go 
 
+- [sumant1122/perfdeck](https://github.com/sumant1122/perfdeck) - 📊 A modern, lightweight, and customizable TUI performance monitor for your terminal. Built with Go and Bubble Tea.
 - [timescale/tigerfs](https://github.com/timescale/tigerfs) - Mount PostgreSQL as a filesystem. Build apps with files, explore databases with ls and cat.
 - [metaspartan/mactop](https://github.com/metaspartan/mactop) - mactop - Apple Silicon Monitor Top
 - [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
@@ -699,6 +699,7 @@
 - [kamilsk/godownloader](https://github.com/kamilsk/godownloader) - 🔧 The version with Homebrew.
 - [kernel/kernel-images](https://github.com/kernel/kernel-images) - Browsers-as-a-service for automations and web agents
 - [sanspareilsmyn/kforward](https://github.com/sanspareilsmyn/kforward) - Lightweight proxy for seamless local development against Kubernetes services
+- [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
@@ -1620,7 +1621,7 @@
 - [re-data/re-data](https://github.com/re-data/re-data) - re_data - fix data issues before your users & CEO would discover them 😊
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
-- [alshdavid/BorrowScript](https://github.com/alshdavid/BorrowScript) - TypeScript with a Borrow Checker. Multi-threaded, Tiny binaries. No GC. Easy to write.
+- [alshdavid-public/BorrowScript](https://github.com/alshdavid-public/BorrowScript) - TypeScript with a Borrow Checker. Multi-threaded, Tiny binaries. No GC. Easy to write.
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
@@ -1755,6 +1756,7 @@
 
 ## Java 
 
+- [triplea-game/triplea](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [OCR4all/OCR4all](https://github.com/OCR4all/OCR4all) - Provides OCR (Optical Character Recognition) services through web applications
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
@@ -1830,6 +1832,7 @@
 
 ## JavaScript 
 
+- [zmeyer44/Locker](https://github.com/zmeyer44/Locker) - 
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [mcp-shark/mcp-shark](https://github.com/mcp-shark/mcp-shark) - Wireshark-like forensic analysis for Model Context Protocol communications  Capture, inspect, and investigate all HTTP requests and responses between your IDE and MCP servers
@@ -1838,7 +1841,7 @@
 - [ProfessorManhattan/rss-worker](https://github.com/ProfessorManhattan/rss-worker) - Instantly generate RSS feeds from any website using CSS selectors. Built with Cloudflare Workers. Just pass a URL and CSS selectors to get a fully-formed RSS 2.0 feed — no backend required.
 - [llmspec/llms-spec](https://github.com/llmspec/llms-spec) - LLMS.md: A proposed open standard for guiding Large Language Models in code repositories — the README.md for AI agents.
 - [openfiletax/openfile](https://github.com/openfiletax/openfile) - A free tax tool based on IRS Direct File
-- [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @oracle
+- [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @backblaze @hetzner
 - [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
 - [MCP-Club/mcp-registry](https://github.com/MCP-Club/mcp-registry) - 
 - [depcheck/depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
@@ -2112,7 +2115,6 @@
 - [snipsnapdev/snipsnap](https://github.com/snipsnapdev/snipsnap) - Speed up your development with a powerful set of tools
 - [vvo/tzdb](https://github.com/vvo/tzdb) - 🕰 Simplified, grouped and always up to date list of time zones, with major cities
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
-- [remorses/holocron](https://github.com/remorses/holocron) - Lovable for docs websites
 - [endojs/endo](https://github.com/endojs/endo) - Endo is a distributed secure JavaScript sandbox, based on SES
 - [apple/password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
 - [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
@@ -4185,6 +4187,7 @@
 
 ## Others 
 
+- [ctxrs/ctx](https://github.com/ctxrs/ctx) - Agentic Development Environment (ADE) for teams using multiple coding agents
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) - 
 - [berserkdisruptors/contextual-commits](https://github.com/berserkdisruptors/contextual-commits) - An open standard for capturing the WHY in git history
 - [computeruseprotocol/computeruseprotocol](https://github.com/computeruseprotocol/computeruseprotocol) - Computer Use Protocol is a universal schema for AI agents to perceive and interact with any desktop UI.
@@ -4196,7 +4199,6 @@
 - [taranntell/fallinorg](https://github.com/taranntell/fallinorg) - Clean up your Mac in one click.
 - [bh-rat/awesome-mcp-enterprise](https://github.com/bh-rat/awesome-mcp-enterprise) - A curated list of awesome MCP (Model Context Protocol) tools, platforms, and services for enterprises.
 - [jkoppel/jj-workshop](https://github.com/jkoppel/jj-workshop) - 
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - Remote MCP Servers
 - [Open-Email/MailHTTPS-Protocol](https://github.com/Open-Email/MailHTTPS-Protocol) - The OpenEmail Protocol
 - [jeanregisser/mediaremotetv-protocol](https://github.com/jeanregisser/mediaremotetv-protocol) - Unofficial Apple TV remote protocol specification
@@ -4511,7 +4513,7 @@
 
 ## Python 
 
-- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: the free LocalStack replacement
+- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: Free, open-source local AWS emulator - 35+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [bramcohen/manyana](https://github.com/bramcohen/manyana) - 
 - [Ataraxy-Labs/inspect](https://github.com/Ataraxy-Labs/inspect) - Entity-level code review for Git. Graph-based risk scoring, change classification, commit untangling. 95% recall on the Greptile benchmark.
 - [hirsimaki-markus/seapie](https://github.com/hirsimaki-markus/seapie) - A breakpoint should just mean &gt;&gt;&gt;
@@ -4600,7 +4602,7 @@
 - [emcf/thepipe](https://github.com/emcf/thepipe) - Get clean data from tricky documents, powered by vision-language models ⚡
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [aedocw/epub2tts](https://github.com/aedocw/epub2tts) - Turn an epub or text file into an audiobook
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The AI automation platform built for security teams and agents.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open-source security automation platform for teams and AI agents
 - [skyffel/airbyte-connector-generator-poc](https://github.com/skyffel/airbyte-connector-generator-poc) - proof of concept to generate Airbyte low-code YAML connectors from API documentation
 - [vocodedev/vocode-core](https://github.com/vocodedev/vocode-core) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs
@@ -5049,7 +5051,7 @@
 
 ## Ruby 
 
-- [joelhawksley/timeframe](https://github.com/joelhawksley/timeframe) - An e-paper calendar, weather, and smart home family dashboard
+- [timeframe/timeframe](https://github.com/timeframe/timeframe) - An e-paper calendar, weather, and smart home family dashboard
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - Super simple group chat, without a subscription
 - [CocoaPods/Xcodeproj](https://github.com/CocoaPods/Xcodeproj) - Create and modify Xcode projects from Ruby.
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
@@ -5143,7 +5145,7 @@
 - [letmutex/gitas](https://github.com/letmutex/gitas) - Git Account Switch
 - [madzarm/ccsearch](https://github.com/madzarm/ccsearch) - Hybrid search CLI for Claude Code chat sessions (BM25 + vector embeddings + RRF)
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
-- [subinium/agf](https://github.com/subinium/agf) - Agent Finder — One TUI to find, resume, and manage AI coding agent sessions (Claude Code, Codex, Opencode, Gemini)
+- [subinium/agf](https://github.com/subinium/agf) - AI Agent Session Finder — TUI to find, resume and manage sessions across Claude Code, Codex, Gemini, Kiro, OpenCode, Cursor, pi
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [joshka/tui-markdown](https://github.com/joshka/tui-markdown) - 
 - [taf2/mdvi](https://github.com/taf2/mdvi) - cli based Markdown viewer
@@ -5280,7 +5282,7 @@
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
 - [divvun/kbdgen](https://github.com/divvun/kbdgen) - The next iteration of a Rust keyboard layout generator
 - [pgcentralfoundation/plrust](https://github.com/pgcentralfoundation/plrust) - A Rust procedural language handler for PostgreSQL
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [frankfralick/dripgrep](https://github.com/frankfralick/dripgrep) - Natural language command line tool for ripgrep.
 - [bodo-run/stop-nagging](https://github.com/bodo-run/stop-nagging) - a Rust-based CLI tool that silences or disables upgrade/advertising nags and other unnecessary warnings from various CLI tools and development tools.
 - [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
@@ -5293,7 +5295,7 @@
 - [timrogers/litra-rs](https://github.com/timrogers/litra-rs) - 💡 Control your Logitech Litra light from the command line
 - [janniks/git-ignore](https://github.com/janniks/git-ignore) - An interactive CLI to generate .gitignore files (written in Rust)
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
 - [arxanas/scm-record](https://github.com/arxanas/scm-record) - `scm-record` is a UI component to interactively select changes to include in a commit. It's meant to be embedded in source control tooling.
 - [Oxen-AI/Oxen](https://github.com/Oxen-AI/Oxen) - Lightning fast data version control system for structured and unstructured machine learning datasets. We aim to make versioning datasets as easy as versioning code.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -6188,6 +6190,7 @@
 
 ## Swift 
 
+- [Shape-Machine/tusk-macos](https://github.com/Shape-Machine/tusk-macos) - Native PostgreSQL app for macOS
 - [brb-dreaming/claude-monitor](https://github.com/brb-dreaming/claude-monitor) - A floating macOS dashboard for all your Claude Code sessions. Know what's working, what's done, and what needs you — at a glance.
 - [bysiber/cleardisk](https://github.com/bysiber/cleardisk) - Free macOS menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM, Docker, pip, Cargo). Reclaim disk space instantly.
 - [SoloTeamDev/solofan](https://github.com/SoloTeamDev/solofan) - Lightweight macOS utility to monitor CPU/GPU temperatures and control fan speeds — built with SwiftUI
@@ -6504,7 +6507,6 @@
 - [auto-browse/auto-browse-ts](https://github.com/auto-browse/auto-browse-ts) - Auto-Browse: AI Enabled Browser Automation
 - [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
 - [adamwattis/mcp-proxy-server](https://github.com/adamwattis/mcp-proxy-server) - An MCP proxy server that aggregates and serves multiple MCP resource servers through a single interface
-- [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) - A TypeScript streamable HTTP and SSE proxy for MCP servers that use stdio transport.
 - [z4nr34l/nemo](https://github.com/z4nr34l/nemo) - Missing polyfill for multiple next.js middlewares
 - [Toolbase-AI/toolbase](https://github.com/Toolbase-AI/toolbase) - A desktop application that adds powerful tools to Claude and AI platforms
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
@@ -6550,7 +6552,7 @@
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
 - [tommyjepsen/twblocks](https://github.com/tommyjepsen/twblocks) - Website blocks to copy/paste - based on shadcn & Radix using Tailwind and NextJS
 - [next-safe-action/next-safe-action](https://github.com/next-safe-action/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 - [sourcegraph/openctx](https://github.com/sourcegraph/openctx) - See contextual info about code from your dev tools, in your editor, code review, and anywhere else you read code.
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
@@ -7267,6 +7269,7 @@
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [jackfranklin/test-data-bot](https://github.com/jackfranklin/test-data-bot) - 
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
+- [remorses/holocron](https://github.com/remorses/holocron) - Lovable for docs websites
 - [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [amilajack/alfred](https://github.com/amilajack/alfred) - A Modular Toolchain for JavaScript
