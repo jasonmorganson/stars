@@ -637,6 +637,7 @@
 
 ## Go 
 
+- [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs) - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxe
 - [git-fire/git-fire](https://github.com/git-fire/git-fire) - git-fire - the all-in-one repository lifecycle management tool
 - [sumant1122/perfdeck](https://github.com/sumant1122/perfdeck) - 📊 A modern, lightweight, and customizable TUI performance monitor for your terminal. Built with Go and Bubble Tea.
 - [timescale/tigerfs](https://github.com/timescale/tigerfs) - Mount PostgreSQL as a filesystem. Build apps with files, explore databases with ls and cat.
@@ -737,7 +738,7 @@
 - [hoophq/hoop](https://github.com/hoophq/hoop) - Automated Access and Data Protection
 - [adamdecaf/deadcheck](https://github.com/adamdecaf/deadcheck) - dead mans switch without reliance on your system, infra, or application
 - [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News
-- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Cozystack: Free Cloud Platform based on Kubernetes
 - [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau) - Community-driven, simple, yet powerful framework for fast, cost-effective distributed Compute over Data.
 - [Telemaco019/kubesafe](https://github.com/Telemaco019/kubesafe) - Safely manage multiple Kubernetes clusters by defining safe contexts and protected commands.
 - [ymtdzzz/otel-tui](https://github.com/ymtdzzz/otel-tui) - A terminal OpenTelemetry viewer inspired by otel-desktop-viewer
@@ -907,6 +908,7 @@
 - [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [kubeshop/kusk-gateway](https://github.com/kubeshop/kusk-gateway) - Kusk-gateway is an OpenAPI-driven API Gateway for Kubernetes
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Testkube is a Test Orchestration Platform for Cloud Native Applications
 - [dippynark/kfmt](https://github.com/dippynark/kfmt) - Organises Kubernetes manifests into a standard format
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -1427,7 +1429,7 @@
 - [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster.
 - [fission/fission-workflows](https://github.com/fission/fission-workflows) - Workflows for Fission: Fast, reliable and lightweight function composition for serverless functions
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
-- [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
+- [velero-io/velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [boz/kail](https://github.com/boz/kail) - kubernetes log viewer
 - [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go
@@ -1562,7 +1564,6 @@
 ## Go Template 
 
 - [jasonmorganson/dotfiles](https://github.com/jasonmorganson/dotfiles) - Dotfiles, managed with chezmoi
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Testkube is a Test Orchestration Platform for Cloud Native Applications
 
 ## Groovy 
 
@@ -4845,7 +4846,7 @@
 - [unfor19/githubsecrets](https://github.com/unfor19/githubsecrets) - Manage your GitHub Actions secrets with a simple CLI
 - [spectacles-ci/spectacles](https://github.com/spectacles-ci/spectacles) - A continuous integration tool for Looker and LookML.
 - [epoch8/airflow-exporter](https://github.com/epoch8/airflow-exporter) - Airflow plugin to export dag and task based metrics to Prometheus.
-- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [facebookarchive/codemod](https://github.com/facebookarchive/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Face
 - [splitgraph/sgr](https://github.com/splitgraph/sgr) - sgr (command line client for Splitgraph) and the splitgraph Python library
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
@@ -5135,7 +5136,7 @@
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [Diyarbekoralbaev/tunn](https://github.com/Diyarbekoralbaev/tunn) - Fast tunneling tool — expose local servers to the internet
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code structure via tree-sitter. 31/31 clean merges vs git's 15/31.
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 24 languages via tree-sitter.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 26 languages via tree-sitter.
 - [11happy/cpx](https://github.com/11happy/cpx) - cp reimagined
 - [wacht-platform/platform](https://github.com/wacht-platform/platform) - 
 - [starship/starship-poc](https://github.com/starship/starship-poc) - Proof of concept for Starship rewrite
@@ -5271,7 +5272,7 @@
 - [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
 - [graelo/pumas](https://github.com/graelo/pumas) - Power Usage Monitor for Apple Silicon
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 91+ formats. Available for Rust, Python
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [ulyssa/iamb](https://github.com/ulyssa/iamb) - A Matrix client for Vim addicts
@@ -6090,7 +6091,7 @@
 - [mlipper/geosupport-docker](https://github.com/mlipper/geosupport-docker) - Dockerfile for accessing Geosupport as a Docker data volume
 - [theory/pgenv](https://github.com/theory/pgenv) - PostgreSQL binary manager
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you or your team did on the last working day
-- [mrjohannchang/fz.sh](https://github.com/mrjohannchang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
+- [johannjhang/fz.sh](https://github.com/johannjhang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [ellipsis/ellipsis](https://github.com/ellipsis/ellipsis) - ◦◦◦ Ellipsis is a package manager for dotfiles.
 - [caarlos0/dotfiles.zsh](https://github.com/caarlos0/dotfiles.zsh) - Config files for ZSH, Java, Ruby, Go, Editors, Terminals and more.
@@ -6189,6 +6190,7 @@
 
 ## Swift 
 
+- [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [akshin18/monitor_man](https://github.com/akshin18/monitor_man) - 
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 - [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher) - Native space switching on macOS with no animation
@@ -6351,7 +6353,7 @@
 ## TypeScript 
 
 - [sweetrb/apple-notes-mcp](https://github.com/sweetrb/apple-notes-mcp) - MCP server for Apple Notes - create, search, update, and manage notes via Claude and other AI assistants
-- [photon-hq/spectrum-ts](https://github.com/photon-hq/spectrum-ts) - The Unified Communication Layer for Agents
+- [photon-hq/spectrum-ts](https://github.com/photon-hq/spectrum-ts) - Bring agents to any interfaces
 - [zmeyer44/Locker](https://github.com/zmeyer44/Locker) - 
 - [redwoodjs/agent-ci](https://github.com/redwoodjs/agent-ci) - Agent-CI is local GitHub Actions for your agents.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
