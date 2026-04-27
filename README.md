@@ -133,6 +133,7 @@
 
 ## C 
 
+- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments
 - [joshuarli/iss](https://github.com/joshuarli/iss) - 3-finger swipe instant space switching on macOS
 - [AOMediaCodec/oac](https://github.com/AOMediaCodec/oac) - 
 - [Florents-Tselai/pgpdf](https://github.com/Florents-Tselai/pgpdf) - pdf type for Postgres
@@ -636,6 +637,7 @@
 
 ## Go 
 
+- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is a developer platform for Kubernetes
 - [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs) - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxe
 - [git-fire/git-fire](https://github.com/git-fire/git-fire) - git-fire - the all-in-one repository lifecycle management tool
 - [sumant1122/perfdeck](https://github.com/sumant1122/perfdeck) - 📊 A modern, lightweight, and customizable TUI performance monitor for your terminal. Built with Go and Bubble Tea.
@@ -2839,7 +2841,7 @@
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
 - [AnyChart/GraphicsJS](https://github.com/AnyChart/GraphicsJS) - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
 - [americanexpress/jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot) - ✨ Jest matcher for image comparisons. Most commonly used for visual regression testing.
-- [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
+- [nilbuild/githunt](https://github.com/nilbuild/githunt) - Hunt the most starred projects on any date on GitHub
 - [segmentio/niffy](https://github.com/segmentio/niffy) - Perceptual diffing suite built on Nightmare
 - [kamikat/tttfi](https://github.com/kamikat/tttfi) - Middleware for IFTTT.
 - [backstrokeapp/server](https://github.com/backstrokeapp/server) - :swimmer: A Github bot to keep repository forks up to date with their upstream.
@@ -4365,7 +4367,7 @@
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [sapegin/react-components](https://github.com/sapegin/react-components) - List of React components I use and recommend
 - [FancyGrid/awesome-grid](https://github.com/FancyGrid/awesome-grid) - A curated list of grid(table) libraries and resources that developers may find useful.
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+- [nilbuild/design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [staltz/fantasy-observable](https://github.com/staltz/fantasy-observable) - A specification for interoperability of push-based data sources in JavaScript
 - [dmfay/massive-js](https://github.com/dmfay/massive-js) - A data mapper for Node.js and PostgreSQL.
 - [jakearchibald/navigation-transitions](https://github.com/jakearchibald/navigation-transitions) - 
@@ -5126,6 +5128,9 @@
 
 ## Rust 
 
+- [pando85/kaniop](https://github.com/pando85/kaniop) - Kubernetes operator for managing Kanidm
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
+- [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
 - [NikolayS/rpg](https://github.com/NikolayS/rpg) - rpg — modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
@@ -5160,7 +5165,7 @@
 - [llmodelcitizen/starship-aws-monitor](https://github.com/llmodelcitizen/starship-aws-monitor) - monitor AWS auth status with your starship prompt
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
-- [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
+- [endevco/pitchfork](https://github.com/endevco/pitchfork) - Daemons with DX
 - [wlswo/xray](https://github.com/wlswo/xray) - A simple, intuitive, and light universal UI capture and inspection tool for macOS
 - [cori-do/cori-kernel](https://github.com/cori-do/cori-kernel) - Cori Kernel — the safe way for AI agents to do real things
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
@@ -5218,7 +5223,7 @@
 - [ekropotin/quickmark](https://github.com/ekropotin/quickmark) - Quickmark is a Markdown linter written in Rust with first-class LSP support, giving you fast, seamless feedback in any editor.
 - [treadiehq/port-kill](https://github.com/treadiehq/port-kill) - Port Kill helps you find and free ports and caches blocking your dev work.
 - [mmastrac/stylus](https://github.com/mmastrac/stylus) - Lightweight status page for home infrastructure
-- [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
+- [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [cortesi/agentsmd](https://github.com/cortesi/agentsmd) - Render per-project AGENTS.md and CLAUDE.md files from a common source
 - [Ramilito/kubesess](https://github.com/Ramilito/kubesess) - Kubectl plugin managing sessions
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
@@ -5305,7 +5310,7 @@
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - The Universal Binary Installer
 - [cooklang/cookcli](https://github.com/cooklang/cookcli) - Recipe Management CLI + embedded web-server in one binary
 - [program247365/hackertuah](https://github.com/program247365/hackertuah) - A CLI for Hacker News
-- [roxma/envrc-rs](https://github.com/roxma/envrc-rs) - Auto source bash .envrc of your workspace
+- [roxma/envrc-rs](https://github.com/roxma/envrc-rs) - Deprecated: use https://github.com/roxma/denv
 - [mcmah309/activate](https://github.com/mcmah309/activate) - A tool to manage environment-specific configurations. Simplifying working across various settings like Development, Testing, Production, etc.
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
 - [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake) - Real-time analytics on Postgres tables
@@ -6088,7 +6093,7 @@
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [mlipper/geosupport-docker](https://github.com/mlipper/geosupport-docker) - Dockerfile for accessing Geosupport as a Docker data volume
 - [theory/pgenv](https://github.com/theory/pgenv) - PostgreSQL binary manager
-- [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you or your team did on the last working day
+- [nilbuild/git-standup](https://github.com/nilbuild/git-standup) - Recall what you or your team did on the last working day
 - [johannjhang/fz.sh](https://github.com/johannjhang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [ellipsis/ellipsis](https://github.com/ellipsis/ellipsis) - ◦◦◦ Ellipsis is a package manager for dotfiles.
@@ -6190,6 +6195,11 @@
 
 ## Swift 
 
+- [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+- [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
+- [actuallyepic/background-computer-use](https://github.com/actuallyepic/background-computer-use) - 
+- [TheGuyWithoutH/mac-computer-use](https://github.com/TheGuyWithoutH/mac-computer-use) - macOS Computer Use MCP server with a native Swift helper.
+- [machinarii/hypervibe](https://github.com/machinarii/hypervibe) - One-handed vibe coding using Apple TV Remote, customizable buttons and gestures.
 - [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
 - [AdelElo13/mac-control-mcp](https://github.com/AdelElo13/mac-control-mcp) - 
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
@@ -6235,7 +6245,7 @@
 - [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI) - Open source implementation of Apple's SwiftUI.
 - [mxcl/swift-sh](https://github.com/mxcl/swift-sh) - Easily script with third-party Swift dependencies.
 - [tuist/XcodeProj](https://github.com/tuist/XcodeProj) - 📝 Read, update and write your Xcode projects
-- [tuist/tuist](https://github.com/tuist/tuist) - Your mobile platform team, as a service
+- [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
 - [swiftlang/swift-build](https://github.com/swiftlang/swift-build) - A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
@@ -6355,6 +6365,7 @@
 
 ## TypeScript 
 
+- [odest/tntstack](https://github.com/odest/tntstack) - The solid stack for building cross-platform apps. Write your code once and build for Web, Desktop, and Mobile.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [locke-inc/open-passkey](https://github.com/locke-inc/open-passkey) - Post-quantum passkeys for servers and clients
@@ -6482,7 +6493,7 @@
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - Open-source localization engineering tools. Connects to Lingo.dev localization engineering platform for consistent, quality translations.
 - [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Open source admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript.
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
-- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The Ultimate Toolkit for Generating Type-Safe API Clients, Hooks, and Validators.
+- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [janwilmake/openapi-mcp-server](https://github.com/janwilmake/openapi-mcp-server) - Allow AI to wade through complex OpenAPIs using Simple Language
@@ -7201,7 +7212,7 @@
 - [bdcorps/candymail](https://github.com/bdcorps/candymail) - Email Automations for Node.js
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [rubymaniac/vscode-direnv](https://github.com/rubymaniac/vscode-direnv) - Automatically detect and load your .envrc
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [dalibo/pev2](https://github.com/dalibo/pev2) - Postgres Explain Visualizer 2
 - [andywer/pg-listen](https://github.com/andywer/pg-listen) - 📡 PostgreSQL LISTEN &  NOTIFY for node.js that finally works.
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
@@ -7718,7 +7729,7 @@
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [Flipkart/recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
+- [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [mockdeep/typewiz](https://github.com/mockdeep/typewiz) - Automatically discover and add missing types in your TypeScript code
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [pact-foundation/pact-js](https://github.com/pact-foundation/pact-js) - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
