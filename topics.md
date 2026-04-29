@@ -38,6 +38,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -61,6 +62,7 @@
 - [cpp](#cpp)
 - [crawler](#crawler)
 - [cryptography](#cryptography)
+- [crystal](#crystal)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -1381,6 +1383,10 @@
 - [JCMais/node-libcurl](https://github.com/JCMais/node-libcurl) - libcurl bindings for Node.js
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
+## c-sharp 
+
+- [6over3/bebop](https://github.com/6over3/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
+
 ## chatbot 
 
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
@@ -2358,6 +2364,10 @@
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [digitalbazaar/forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
 
+## crystal 
+
+- [mint-lang/mint](https://github.com/mint-lang/mint) - 🍃 A refreshing programming language for the front-end web.
+
 ## csharp 
 
 - [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments.
@@ -2526,7 +2536,7 @@
 - [dlt-hub/dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 - [jetify-com/tyson](https://github.com/jetify-com/tyson) - 🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [plurid/deon](https://github.com/plurid/deon) - DeObject Notation Format
 - [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
 - [uwdata/arquero](https://github.com/uwdata/arquero) - Query processing and transformation of array-backed data tables.
@@ -2562,7 +2572,7 @@
 - [lance-format/lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and 
 - [elementary-data/elementary](https://github.com/elementary-data/elementary) - The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
@@ -2635,7 +2645,7 @@
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
 - [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [launchflow/buildflow](https://github.com/launchflow/buildflow) - BuildFlow, is an open source framework for building large scale systems using Python. All you need to do is describe where your input is coming from and where your output should be written, and BuildF
@@ -4643,7 +4653,7 @@
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
@@ -5183,7 +5193,7 @@
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [exa-studio/ApiVault](https://github.com/exa-studio/ApiVault) - Your gateway to a world of public APIs.
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) - A Declarative Update Policy Engine
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for humans and agents
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [carvel-dev/vendir](https://github.com/carvel-dev/vendir) - Easy way to vendor portions of git repos, github releases, helm charts, docker image contents, etc. declaratively
@@ -6798,6 +6808,7 @@
 
 ## kubernetes 
 
+- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments
 - [pando85/kaniop](https://github.com/pando85/kaniop) - Kubernetes operator for managing Kanidm
 - [koreide/Kore](https://github.com/koreide/Kore) - A fast, terminal-inspired Kubernetes IDE for macOS & Windows
 - [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments.
@@ -6872,7 +6883,7 @@
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [aptakube/aptakube](https://github.com/aptakube/aptakube) - Modern, lightweight and multi-cluster Kubernetes GUI. Available on Windows, macOS and Linux.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [UffizziCloud/uffizzi](https://github.com/UffizziCloud/uffizzi) - Build self-serve developer platforms in minutes, not months with out-of-the-box Kubernetes multi-tenancy, virtual clusters, cloud-based dev environments, customizable templating, and more.
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [kubeshop/kusk-gateway](https://github.com/kubeshop/kusk-gateway) - Kusk-gateway is an OpenAPI-driven API Gateway for Kubernetes
@@ -7442,7 +7453,7 @@
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Build APIs your users love ❤️ with Speakeasy. ✨ Polished and type-safe SDKs. 🌐 Terraform providers, MCP servers, CLIs and Contract Tests for your API. OpenAPI native.
 - [msoedov/langcorn](https://github.com/msoedov/langcorn) - ⛓️ Serving LangChain LLM apps and agents automagically with FastApi. LLMops
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [Airsequel/SQLiteGPT](https://github.com/Airsequel/SQLiteGPT) - SQL function for SQLite to directly query OpenAI's ChatGPT
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
@@ -7584,7 +7595,7 @@
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
 - [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -9293,7 +9304,6 @@
 
 ## others 
 
-- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
 - [actuallyepic/background-computer-use](https://github.com/actuallyepic/background-computer-use) - 
 - [TheGuyWithoutH/mac-computer-use](https://github.com/TheGuyWithoutH/mac-computer-use) - macOS Computer Use MCP server with a native Swift helper.
@@ -9674,7 +9684,7 @@
 - [fer0n/Unwatched](https://github.com/fer0n/Unwatched) - RSS feed based YouTube video player for iOS, macOS, tvOS
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [fullcalendar/temporal-polyfill](https://github.com/fullcalendar/temporal-polyfill) - A lightweight polyfill for Temporal, successor to the JavaScript Date object
-- [lmnt-com/lmnt-node](https://github.com/lmnt-com/lmnt-node) - The LMNT Node.js module provides convenient access to the LMNT API from applications written in Javascript.
+- [lmnt-com/lmnt-node](https://github.com/lmnt-com/lmnt-node) - The LMNT TypeScript SDK provides convenient access to the LMNT API from server-side TypeScript applications.
 - [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) - Open-source framework for exporting your personal data.
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
@@ -9979,7 +9989,7 @@
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [SplittyDev/spacebadgers](https://github.com/SplittyDev/spacebadgers) - Fast and clean SVG badges
 - [getampt/docs](https://github.com/getampt/docs) - 
-- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - 
 - [GoogleChromeLabs/third-party-capital](https://github.com/GoogleChromeLabs/third-party-capital) - A library that provides best practices for loading popular third-parties
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
@@ -13192,7 +13202,7 @@
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
 - [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
