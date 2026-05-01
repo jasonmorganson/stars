@@ -567,6 +567,7 @@
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Testkube is a Test Orchestration Platform for Cloud Native Applications
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Realtime infrastructure for multiplayer apps and agents
@@ -1759,7 +1760,6 @@
 - [cjrh/lifter](https://github.com/cjrh/lifter) - Download and sync new releases of single-file binaries from Github Releases and other sites
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
 - [linux-china/cli-completion](https://github.com/linux-china/cli-completion) - CLI completion for bash, zsh, fish and powershell
-- [tversteeg/emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 - [joeky888/ufc](https://github.com/joeky888/ufc) - 🎨 The Ultimate Friendly Colorizer 🌈
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [brianstrauch/cobra-shell](https://github.com/brianstrauch/cobra-shell) - Generate an interactive, autocompleting shell for any Cobra CLI
@@ -2537,7 +2537,6 @@
 - [dlt-hub/dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 - [jetify-com/tyson](https://github.com/jetify-com/tyson) - 🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [plurid/deon](https://github.com/plurid/deon) - DeObject Notation Format
 - [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
@@ -2762,7 +2761,7 @@
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software qua
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
+- [garden-co/classic-jazz](https://github.com/garden-co/classic-jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
 - [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
@@ -3298,7 +3297,7 @@
 - [Tryboy869/nexus-backpressure](https://github.com/Tryboy869/nexus-backpressure) - Universal backpressure protocol for distributed systems
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 - [dispatchrun/timecraft](https://github.com/dispatchrun/timecraft) - The WebAssembly Time Machine
@@ -3600,7 +3599,6 @@
 - [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.
 - [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, walker, dunst; OS: NixOS, ArchLinux (Ubuntu/Fedora/CentOS)
 - [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
-- [tversteeg/emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -3850,7 +3848,7 @@
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open-source security automation platform for teams and AI agents
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [widgetti/solara](https://github.com/widgetti/solara) - A Pure Python, React-style Framework for Scaling Your Jupyter and Web Apps
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).
 - [ajndkr/lanarky](https://github.com/ajndkr/lanarky) - The web framework for building LLM microservices [deprecated]
@@ -4190,7 +4188,6 @@
 - [vamolessa/verco](https://github.com/vamolessa/verco) - A simple Git/Mercurial/PlasticSCM tui client based on keyboard shortcuts
 - [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Generate a theme for git, grep, less and zsh that matches your $LS_COLORS
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [tversteeg/emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 - [andys8/git-brunch](https://github.com/andys8/git-brunch) - Git branch checkout menu
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
@@ -4620,7 +4617,7 @@
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [windtf/wireproxy](https://github.com/windtf/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language
 - [BojanZelic/cloudflare-zero-trust-operator](https://github.com/BojanZelic/cloudflare-zero-trust-operator) - K8s operator for configuring Cloudflare Zero Trust :cloud: :zap: :closed_lock_with_key:
@@ -7649,7 +7646,7 @@
 - [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
 - [mherrera53/GitMac](https://github.com/mherrera53/GitMac) - A modern, native macOS Git client built with SwiftUI
 - [Starmel/OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - macOS dictation app
-- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [Aayush9029/NativeYoutube](https://github.com/Aayush9029/NativeYoutube) - Personal App that turned into "alpha released app" v3
 - [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [ShaftUI/Shaft](https://github.com/ShaftUI/Shaft) - A cross-platform GUI framework for Swift, built for demanding workloads and developer ergonomics
@@ -8638,7 +8635,7 @@
 - [akash-joshi/rocketrpc](https://github.com/akash-joshi/rocketrpc) - A typesafe framework to destroy client-server barriers.
 - [craigmichaelmartin/pure-orm](https://github.com/craigmichaelmartin/pure-orm) - A pure ORM for writing native SQL queries yielding pure business objects
 - [differentialhq/differential](https://github.com/differentialhq/differential) - Typescript-first background services platform with durable functions.
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [nodejs/loaders](https://github.com/nodejs/loaders) - ECMAScript Modules Loaders
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
@@ -9307,6 +9304,8 @@
 
 ## others 
 
+- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
+- [endevco/aube](https://github.com/endevco/aube) - A fast Node.js package manager
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
 - [actuallyepic/background-computer-use](https://github.com/actuallyepic/background-computer-use) - 
 - [TheGuyWithoutH/mac-computer-use](https://github.com/TheGuyWithoutH/mac-computer-use) - macOS Computer Use MCP server with a native Swift helper.
@@ -13156,7 +13155,7 @@
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [emcf/thepipe](https://github.com/emcf/thepipe) - Get clean data from tricky documents, powered by vision-language models ⚡
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
@@ -13595,7 +13594,7 @@
 - [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
 - [evoluhq/evolu](https://github.com/evoluhq/evolu) - TypeScript library and local-first platform
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
-- [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
+- [garden-co/classic-jazz](https://github.com/garden-co/classic-jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -14629,7 +14628,6 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [tod-org/tod](https://github.com/tod-org/tod) - An unofficial Todoist command line client written in Rust
-- [tversteeg/emplace](https://github.com/tversteeg/emplace) - 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 - [joeky888/ufc](https://github.com/joeky888/ufc) - 🎨 The Ultimate Friendly Colorizer 🌈
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
@@ -15504,7 +15502,7 @@
 - [SoloTeamDev/solofan](https://github.com/SoloTeamDev/solofan) - Lightweight macOS utility to monitor CPU/GPU temperatures and control fan speeds — built with SwiftUI
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
-- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [ShaftUI/Shaft](https://github.com/ShaftUI/Shaft) - A cross-platform GUI framework for Swift, built for demanding workloads and developer ergonomics
 - [angristan/MacThrottle](https://github.com/angristan/MacThrottle) - Menu bar app to know when your Mac is thermal throttling
 - [apple/swift-configuration](https://github.com/apple/swift-configuration) - API package for reading configuration.
@@ -16297,7 +16295,7 @@
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [differentialhq/differential](https://github.com/differentialhq/differential) - Typescript-first background services platform with durable functions.
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [3rd/tsdiagram](https://github.com/3rd/tsdiagram) - Create diagrams and plan your code with TypeScript.
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census.
