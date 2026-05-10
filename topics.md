@@ -589,7 +589,7 @@
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [Ataraxy-Labs/inspect](https://github.com/Ataraxy-Labs/inspect) - Entity-level code review. Triages pull requests by structural risk using cross-file dependency graphs and LLMs that read for meaning.
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control — entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
 - [NikitaDmitrieff/auto-co-meta](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI Company OS — 14 AI agents loop 24/7, ship real software
 - [wacht-platform/platform](https://github.com/wacht-platform/platform) - Ship product, not plumbing. Open source framework for AI-first SaaS — identity, OAuth, API auth, webhooks, notifications, and agents in one stack.
 - [computeruseprotocol/computeruseprotocol](https://github.com/computeruseprotocol/computeruseprotocol) - Computer Use Protocol is a universal schema for AI agents to perceive and interact with any desktop UI.
@@ -1575,7 +1575,7 @@
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [FullStack-Academy-Kiev/react-chrome-extension](https://github.com/FullStack-Academy-Kiev/react-chrome-extension) - Chrome Extension boilerplate with ReactJS and vanilla JS examples
-- [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
+- [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend code editor
 - [nitin42/react-perf-devtool](https://github.com/nitin42/react-perf-devtool) - A browser developer tool extension to inspect performance of React components.
 - [pd4d10/octohint](https://github.com/pd4d10/octohint) - The missing IntelliSense hint for GitHub and GitLab
 - [nilbuild/githunt](https://github.com/nilbuild/githunt) - Hunt the most starred projects on any date on GitHub
@@ -3099,7 +3099,7 @@
 - [that-one-arab/codebrief](https://github.com/that-one-arab/codebrief) - Review AI generated code with ease
 - [Ataraxy-Labs/inspect](https://github.com/Ataraxy-Labs/inspect) - Entity-level code review. Triages pull requests by structural risk using cross-file dependency graphs and LLMs that read for meaning.
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control — entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
 - [bysiber/cleardisk](https://github.com/bysiber/cleardisk) - Free macOS menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM, Docker, pip, Cargo). Reclaim disk space instantly.
 - [Andyyyy64/openTiger](https://github.com/Andyyyy64/openTiger) - 🐯Autonomous dev orchestration that never stops. Failures still converge to completion.
 - [subinium/agf](https://github.com/subinium/agf) - AI Agent Session Finder — TUI to find, resume and manage sessions across Claude Code, Codex, Gemini, Kiro, OpenCode, Cursor, pi, Hermes
@@ -4183,7 +4183,7 @@
 - [Auto-Explore/GitComet](https://github.com/Auto-Explore/GitComet) - GitComet is fastest open source user interface for GIT workflows
 - [berserkdisruptors/contextual-commits](https://github.com/berserkdisruptors/contextual-commits) - An open standard for capturing the WHY in git history
 - [that-one-arab/codebrief](https://github.com/that-one-arab/codebrief) - Review AI generated code with ease
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control — entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
 - [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management CLI and TUI for the terminal.
 - [mherrera53/GitMac](https://github.com/mherrera53/GitMac) - A modern, native macOS Git client built with SwiftUI
@@ -5489,7 +5489,6 @@
 - [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
 - [cdimascio/uuid-mongodb](https://github.com/cdimascio/uuid-mongodb) - 📇 Generates and parses MongoDB BSON UUIDs
 - [ecronix/react-most-wanted](https://github.com/ecronix/react-most-wanted) - React starter kit with "Most Wanted" application features
-- [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [klaudiosinani/tusk](https://github.com/klaudiosinani/tusk) - Refined Evernote desktop app
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [springload/ssm-parent](https://github.com/springload/ssm-parent) - Docker entrypoint that gets parameters from AWS SSM Parameter Store
@@ -16235,7 +16234,7 @@
 - [Hedystia/Hedystia](https://github.com/Hedystia/Hedystia) - A complete TypeScript ecosystem
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [that-one-arab/codebrief](https://github.com/that-one-arab/codebrief) - Review AI generated code with ease
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control — entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
 - [wacht-platform/platform](https://github.com/wacht-platform/platform) - Ship product, not plumbing. Open source framework for AI-first SaaS — identity, OAuth, API auth, webhooks, notifications, and agents in one stack.
 - [superapp-labs/typescript-superapp](https://github.com/superapp-labs/typescript-superapp) - Type-safe full-stack backend engine for building data-driven apps with TypeScript — CRUD, permissions, filtering, and auth out of the box
 - [DecispherHQ/decision-guardian](https://github.com/DecispherHQ/decision-guardian) - Shift from passive documentation to active enforcement.
@@ -17160,7 +17159,7 @@
 - [aurelia/aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
 - [osrec/SuperSlide.js](https://github.com/osrec/SuperSlide.js) - A flexible, smooth, GPU accelerated sliding menu for your next PWA
 - [jorgebucaran/superfine](https://github.com/jorgebucaran/superfine) - Absolutely minimal view layer for building web interfaces
-- [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
+- [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend code editor
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
