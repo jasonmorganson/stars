@@ -647,7 +647,7 @@
 - [sumant1122/perfdeck](https://github.com/sumant1122/perfdeck) - 📊 A modern, lightweight, and customizable TUI performance monitor for your terminal. Built with Go and Bubble Tea.
 - [timescale/tigerfs](https://github.com/timescale/tigerfs) - Mount PostgreSQL as a filesystem. Build apps with files, explore databases with ls and cat.
 - [metaspartan/mactop](https://github.com/metaspartan/mactop) - mactop - Apple Silicon Monitor Top
-- [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+- [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
 - [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management CLI and TUI for the terminal.
 - [micasa-dev/micasa](https://github.com/micasa-dev/micasa) - A modal TUI for tracking home projects, maintenance schedules, appliances, and vendor quotes.
@@ -6377,7 +6377,7 @@
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [getsentry/dotagents](https://github.com/getsentry/dotagents) - 
 - [jal-co/shieldcn](https://github.com/jal-co/shieldcn) - Beautiful README badges, inspired by shields.io and styled like shadcn/ui.
-- [odest/tntstack](https://github.com/odest/tntstack) - The solid stack for building cross-platform apps. Write your code once and build for Web, Desktop, and Mobile.
+- [odest/catalyzer](https://github.com/odest/catalyzer) - Production-grade cross-platform starter template to build Web, Desktop, and Mobile apps from a single codebase. Powered by Next.js, Tauri, and Turborepo.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [locke-inc/open-passkey](https://github.com/locke-inc/open-passkey) - Post-quantum passkeys for servers and clients
@@ -6601,7 +6601,7 @@
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
 - [telefunc/telefunc](https://github.com/telefunc/telefunc) - Remote Functions.
 - [WebLegions/typescript-fsm](https://github.com/WebLegions/typescript-fsm) - TS-FSM is a strongly typed finite state machine for TypeScript that is using async operations. Library uses generics to take the user states and events. Zero dependencies!
-- [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
+- [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - Unofficial TypeScript & JavaScript Language Server
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [carlos-menezes/caravan](https://github.com/carlos-menezes/caravan) - A flexible, transport-based logging system for JavaScript/TypeScript applications.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
