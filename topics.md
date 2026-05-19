@@ -846,7 +846,7 @@
 - [thunderclient/thunder-client-support](https://github.com/thunderclient/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run local code as if it were a pod in a remote Kubernetes cluster: real env vars, DNS, network, traffic. Used by AI coding agents and developers.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
-- [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach.
+- [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach. Created with :heart: by Mirumee
 - [up9inc/mockintosh](https://github.com/up9inc/mockintosh) - Mocks for microservice environments
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework 🚀
 - [lukemartin/gql-share](https://github.com/lukemartin/gql-share) - Parse & share your GraphQL queries
@@ -3402,7 +3402,7 @@
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach.
+- [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach. Created with :heart: by Mirumee
 - [app-generator/admin-dashboards](https://github.com/app-generator/admin-dashboards) - Admin Dashboards - Open-Source and Free | App-Generator.dev
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
@@ -3666,7 +3666,7 @@
 - [jasonmorganson/dotfiles](https://github.com/jasonmorganson/dotfiles) - Dotfiles, managed with chezmoi
 - [VorpalBlade/chezmoi_modify_manager](https://github.com/VorpalBlade/chezmoi_modify_manager) - Tools for chezmoi to handle mixed settings and state
 - [rhysd/dotfiles](https://github.com/rhysd/dotfiles) - dotfiles symbolic links management CLI
-- [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles
+- [comtrya/comtrya-dotfiles](https://github.com/comtrya/comtrya-dotfiles) - Configuration Management for Localhost / dotfiles
 - [volllly/rotz](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust.
 - [zero-sh/apply-user-defaults](https://github.com/zero-sh/apply-user-defaults) - A small utility to set macOS user defaults declaratively from a YAML file.
 - [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
@@ -3936,7 +3936,7 @@
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant
 
 ## firebase 
@@ -4993,7 +4993,7 @@
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
-- [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach.
+- [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach. Created with :heart: by Mirumee
 - [0xR/graphql-transform-federation](https://github.com/0xR/graphql-transform-federation) - Convert your existing GraphQL schema into a federated schema
 - [lukemartin/gql-share](https://github.com/lukemartin/gql-share) - Parse & share your GraphQL queries
 - [yamalight/graffiti](https://github.com/yamalight/graffiti) - Minimalistic GraphQL framework
@@ -5220,7 +5220,7 @@
 - [ad-si/TaskLite](https://github.com/ad-si/TaskLite) - The CLI task manager for power users
 - [deco-cx/deco](https://github.com/deco-cx/deco) - Git-based Visual CMS for Deno, &lt;/&gt; htmx and Tailwind apps. Deploy on any Deno-compatible host.
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
-- [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles
+- [comtrya/comtrya-dotfiles](https://github.com/comtrya/comtrya-dotfiles) - Configuration Management for Localhost / dotfiles
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [rtfpessoa/diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty diff to html javascript cli (diff2html-cli)
 - [podrain/podvapor](https://github.com/podrain/podvapor) - Hosting podcasts with Deno
@@ -5268,7 +5268,7 @@
 - [zxcvbn-ts/zxcvbn](https://github.com/zxcvbn-ts/zxcvbn) - Low-Budget Password Strength Estimation
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [exa-studio/ApiVault](https://github.com/exa-studio/ApiVault) - Your gateway to a world of public APIs.
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) - A Declarative Update Policy Engine
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
@@ -9276,7 +9276,7 @@
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [exa-studio/ApiVault](https://github.com/exa-studio/ApiVault) - Your gateway to a world of public APIs.
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 - [watermelontools/watermelon-vscode](https://github.com/watermelontools/watermelon-vscode) - 🍉  VS Code Extension to enrich files of code with code context
@@ -10366,7 +10366,7 @@
 - [rancher/terraform-controller](https://github.com/rancher/terraform-controller) - Use K8s to Run Terraform
 - [xataio/screenshot](https://github.com/xataio/screenshot) - A zero-dependency browser-native way to take screenshots powered by the native web MediaDevices API.
 - [goreleaser/godownloader](https://github.com/goreleaser/godownloader) - [DEPRECATED] Download Go binaries as fast and easily as possible.
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [yellicode/cli](https://github.com/yellicode/cli) - CLI for Yellicode - an extensible code generator.
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
@@ -13372,7 +13372,7 @@
 - [ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet) - NeuralProphet: A simple forecasting package
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
-- [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach.
+- [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach. Created with :heart: by Mirumee
 - [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres to Elasticsearch/OpenSearch sync
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
@@ -14598,7 +14598,7 @@
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [6over3/bebop](https://github.com/6over3/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
 - [vmware-labs/wasm-workers-server](https://github.com/vmware-labs/wasm-workers-server) - 🚀 Develop and run serverless applications on WebAssembly
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Build APIs your users love ❤️ with Speakeasy. ✨ Polished and type-safe SDKs. 🌐 Terraform providers, MCP servers, CLIs and Contract Tests for your API. OpenAPI native.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
