@@ -4101,7 +4101,6 @@
 - [mat-his/base16-chezmoi](https://github.com/mat-his/base16-chezmoi) - Base16 schema for chezmoi framework
 - [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
 - [similarweb/statusbay-helm](https://github.com/similarweb/statusbay-helm) - Helm Chart for Statusbay
-- [confluentinc/cp-helm-charts](https://github.com/confluentinc/cp-helm-charts) - The Confluent Platform Helm charts enable you to deploy Confluent Platform services on Kubernetes for development, test, and proof of concept environments.
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 
 ## NCL 
