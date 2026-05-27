@@ -684,6 +684,7 @@
 - [pgplex/pgschema](https://github.com/pgplex/pgschema) - Terraform-style, declarative schema migration CLI for Postgres. Agent friendly.
 - [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer
 - [colchuck-ai/ai-resource-manager](https://github.com/colchuck-ai/ai-resource-manager) - Package manager for AI rules and prompts with semantic versioning and automatic distribution to AI tools.
+- [speakeasy-api/gram](https://github.com/speakeasy-api/gram) - Securely scale AI usage across your organization.  Control plane for building, securing and monitoring your agents, mcp and skills.
 - [skorokithakis/dox](https://github.com/skorokithakis/dox) - A runner that runs commands in Docker containers.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [VincenzoManto/Datacmd](https://github.com/VincenzoManto/Datacmd) - Datacmd is the fastest, coolest way to turn raw data into stunning terminal dashboards. No setup, no fluff — just run a command and boom, your CSV or API becomes a live data experience. ⚡ CLI dashboar
@@ -726,7 +727,7 @@
 - [binbandit/evo](https://github.com/binbandit/evo) - Version control that works the way you think
 - [binbandit/sage](https://github.com/binbandit/sage) - Burning away Git complexity
 - [thebigbone/docker-rss](https://github.com/thebigbone/docker-rss) - an rss feed for docker image updates
-- [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box. Supporting Docker Compose, Docke
+- [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
 - [bradschwartz/docker-credential-ghcr-login](https://github.com/bradschwartz/docker-credential-ghcr-login) - Automagically auth to GitHub Container Registry via docker credential helper
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
@@ -2928,7 +2929,6 @@
 - [FormidableLabs/react-animations](https://github.com/FormidableLabs/react-animations) - 🎊 A collection of animations for inline style libraries
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [txgruppi/json2react](https://github.com/txgruppi/json2react) - Use JSON to create React Components.
-- [headzoo/react-moment](https://github.com/headzoo/react-moment) - React component for the moment date library.
 - [gorangajic/react-svg-morph](https://github.com/gorangajic/react-svg-morph) - :crystal_ball: morph your svg component one into another other
 - [littlstar/s3-lambda](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter)
 - [googleanalytics/autotrack](https://github.com/googleanalytics/autotrack) - Automatic and enhanced Google Analytics tracking for common user interactions on the web.
@@ -4067,6 +4067,7 @@
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - AI-Native Open-Source Next.js commerce. Powered by Stripe. Ultra fast with typesafe Commerce SDK. Built for AI development (Claude, Codex,   Cursor).
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [frictionlessdata/datapackage](https://github.com/frictionlessdata/datapackage) - Data Package is a standard consisting of a set of simple yet extensible specifications to describe datasets, data files and tabular data. It is a data definition language (DDL) and data API that facil
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
@@ -6205,6 +6206,7 @@
 
 ## Swift 
 
+- [Cocoanetics/SwiftBash](https://github.com/Cocoanetics/SwiftBash) - Pure-Swift sandboxed bash interpreter — embeddable in Mac/iOS apps. No Process/fork/exec; commands are Swift types; sandbox-by-default for FS, network, processes, and identity.
 - [rlxone/Equinox](https://github.com/rlxone/Equinox) - 🌇 🌃  Create dynamic wallpapers for macOS.
 - [watzon/pindrop](https://github.com/watzon/pindrop) - A native macOS menu bar dictation app using local speech-to-text with WhisperKit
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
@@ -6488,7 +6490,6 @@
 - [x402-foundation/x402](https://github.com/x402-foundation/x402) - A payments protocol for the internet. Built on HTTP.
 - [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped) - Professionally crafted React & Figma components for building beautiful products or starting your own design system
 - [googleapis/gcloud-mcp](https://github.com/googleapis/gcloud-mcp) - gcloud MCP server
-- [speakeasy-api/gram](https://github.com/speakeasy-api/gram) - Securely scale AI usage across your organization.  Control plane for building, securing and monitoring your agents, mcp and skills.
 - [clerk/mcp-tools](https://github.com/clerk/mcp-tools) - Tools for building modern & secure MCP integrations across the client and server side
 - [electric-sql/d2ts](https://github.com/electric-sql/d2ts) - Differential Dataflow in TypeScript
 - [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp) - Use Claude Agent SDK from any ACP client
@@ -7153,7 +7154,6 @@
 - [blockprotocol/blockprotocol](https://github.com/blockprotocol/blockprotocol) - ✨ The open-source standard for blocks. From @hashintel
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
@@ -7877,6 +7877,7 @@
 - [legastero/stanza](https://github.com/legastero/stanza) - Modern XMPP, with a JSON API
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
+- [headzoo/react-moment](https://github.com/headzoo/react-moment) - React component for the moment date library.
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
