@@ -649,7 +649,7 @@
 - [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs) - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxe
 - [git-fire/git-fire](https://github.com/git-fire/git-fire) - git-fire - the all-in-one repository lifecycle management tool
 - [sumant1122/perfdeck](https://github.com/sumant1122/perfdeck) - 📊 A modern, lightweight, and customizable TUI performance monitor for your terminal. Built with Go and Bubble Tea.
-- [timescale/tigerfs](https://github.com/timescale/tigerfs) - Mount PostgreSQL as a filesystem. Build apps with files, explore databases with ls and cat.
+- [timescale/tigerfs](https://github.com/timescale/tigerfs) - Mount PostgreSQL as a filesystem. Build apps with files, explore databases with ls and cat. Every write is logged and undoable.
 - [metaspartan/mactop](https://github.com/metaspartan/mactop) - mactop - Apple Silicon Monitor Top
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
@@ -1847,6 +1847,7 @@
 ## JavaScript 
 
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
+- [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus) - Codex++ tweak system for the Codex desktop app
 - [datapartyjs/rfparty-xyz](https://github.com/datapartyjs/rfparty-xyz) - its like a tricorder, for your wireless world.
 - [zmeyer44/Locker](https://github.com/zmeyer44/Locker) - 
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
@@ -2161,7 +2162,7 @@
 - [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [sdkcarlos/artyom.js](https://github.com/sdkcarlos/artyom.js) - A voice control - voice commands - speech recognition and speech synthesis javascript library. Create your own siri,google now or cortana with Google Chrome within your website.
 - [mateodelnorte/meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?
-- [neomjs/neo](https://github.com/neomjs/neo) - The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time.
+- [neomjs/neo](https://github.com/neomjs/neo) - Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-h
 - [chrvadala/node-ble](https://github.com/chrvadala/node-ble) - Bluetooth Low Energy (BLE) library written with pure Node.js (no bindings) - baked by Bluez via DBus
 - [kawanet/from-xml](https://github.com/kawanet/from-xml) - fromXML - Pure JavaScript XML Parser
 - [lukeed/uid](https://github.com/lukeed/uid) - A tiny (130B to 205B) and fast utility to generate random IDs of fixed length
@@ -4223,7 +4224,6 @@
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [forresttindall/Meshtastic-LoRa-Radio](https://github.com/forresttindall/Meshtastic-LoRa-Radio) - 
-- [dwarvesf/VimMotionApp](https://github.com/dwarvesf/VimMotionApp) - Access macOS UI elements with your fingers stay on keyboard. Inspired by vim-easymotion & avy-mode.
 - [reshaped-ui/reshaped-examples](https://github.com/reshaped-ui/reshaped-examples) - Repository with examples of using Reshaped with front-end frameworks and bundlers
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [cfallin/weval](https://github.com/cfallin/weval) - 
@@ -6213,6 +6213,7 @@
 
 ## Swift 
 
+- [us/mocker](https://github.com/us/mocker) - Docker-compatible container CLI built on Apple's Containerization framework. Same commands, same flags — mocker run, ps, stop, build, compose, stats — all working on macOS 26.
 - [Cocoanetics/SwiftBash](https://github.com/Cocoanetics/SwiftBash) - Pure-Swift sandboxed bash interpreter — embeddable in Mac/iOS apps. No Process/fork/exec; commands are Swift types; sandbox-by-default for FS, network, processes, and identity.
 - [rlxone/Equinox](https://github.com/rlxone/Equinox) - 🌇 🌃  Create dynamic wallpapers for macOS.
 - [watzon/pindrop](https://github.com/watzon/pindrop) - A native macOS menu bar dictation app using local speech-to-text with WhisperKit
@@ -6392,6 +6393,7 @@
 
 ## TypeScript 
 
+- [jdevalk/specification.website](https://github.com/jdevalk/specification.website) - Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
 - [hypen-lang/hypen](https://github.com/hypen-lang/hypen) - Hypen  - crossplatform UI framework for Rust, TS, Go, Kotlin, Swift and more
 - [specui/specui](https://github.com/specui/specui) - Generate code with specs
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
@@ -6405,7 +6407,6 @@
 - [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend, Sendgrid, Postmark etc.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
-- [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus) - Codex++ tweak system for the Codex desktop app
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [getsentry/dotagents](https://github.com/getsentry/dotagents) - 
 - [jal-co/shieldcn](https://github.com/jal-co/shieldcn) - Beautiful README badges, inspired by shields.io and styled like shadcn/ui.
