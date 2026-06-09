@@ -133,7 +133,6 @@
 
 ## C 
 
-- [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The programming language for agents
 - [datapartyjs/MeshTNC](https://github.com/datapartyjs/MeshTNC) - MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatible packet radio modems
 - [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments
 - [joshuarli/iss](https://github.com/joshuarli/iss) - 3-finger swipe instant space switching on macOS
@@ -318,6 +317,7 @@
 
 ## C++ 
 
+- [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - An exabyte-scale, multi-region distributed file system
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -581,6 +581,7 @@
 - [land007/docker_playwright_novnc](https://github.com/land007/docker_playwright_novnc) - docker_playwright_novnc
 - [pothos/rust-userland](https://github.com/pothos/rust-userland) - Rust userland container image
 - [httptoolkit/docker-registry-facade](https://github.com/httptoolkit/docker-registry-facade) - A tiny self-hostable Docker Registry facade - own your image URL without running your own registry
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [01e9/github-actions-runner](https://github.com/01e9/github-actions-runner) - I don't use it anymore, don't know if it still works
 - [jasonmorganson/restylers](https://github.com/jasonmorganson/restylers) - Language-specific restylers
 - [jakejarvis/wait-action](https://github.com/jakejarvis/wait-action) - 💤 Very, very simple (and small) action to sleep for an amount of time — 10s, 2m, etc.
@@ -639,6 +640,8 @@
 
 ## Go 
 
+- [mvanhorn/agentcookie](https://github.com/mvanhorn/agentcookie) - Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any o
+- [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
 - [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI
 - [viggy28/streambed](https://github.com/viggy28/streambed) - Stream Postgres to Apache Iceberg on S3 via logical replication, queryable over the Postgres wire protocol.
@@ -1643,7 +1646,6 @@
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [tmcw/systemfontstack](https://github.com/tmcw/systemfontstack) - 
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [re-data/re-data](https://github.com/re-data/re-data) - re_data - fix data issues before your users & CEO would discover them 😊
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
@@ -1853,6 +1855,8 @@
 
 ## JavaScript 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
+- [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus) - Codex++ tweak system for the Codex desktop app
 - [datapartyjs/rfparty-xyz](https://github.com/datapartyjs/rfparty-xyz) - its like a tricorder, for your wireless world.
@@ -4726,7 +4730,6 @@
 - [ethanhe42/ActGPT](https://github.com/ethanhe42/ActGPT) - chatbot does what you ask, like open Google search, post a Tweet, etc.
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -5139,6 +5142,8 @@
 
 ## Rust 
 
+- [microsoft/duroxide](https://github.com/microsoft/duroxide) - 
+- [fabro-sh/fabro](https://github.com/fabro-sh/fabro) - ⚒️ The open source dark software factory for expert engineers.
 - [elio-fm/elio](https://github.com/elio-fm/elio) - Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support
 - [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
 - [rust-cli/termtree](https://github.com/rust-cli/termtree) - Visualize tree-like data on the command-line
@@ -5151,7 +5156,7 @@
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [oblador/sovra](https://github.com/oblador/sovra) - 🤏 Rust-based Test Decider for JavaScript using Oxc
-- [endevco/aube](https://github.com/endevco/aube) - A fast Node.js package manager
+- [jdx/aube](https://github.com/jdx/aube) - A fast Node.js package manager
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [pando85/kaniop](https://github.com/pando85/kaniop) - Kubernetes operator for managing Kanidm
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
@@ -5190,7 +5195,7 @@
 - [llmodelcitizen/starship-aws-monitor](https://github.com/llmodelcitizen/starship-aws-monitor) - monitor AWS auth status with your starship prompt
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
-- [endevco/pitchfork](https://github.com/endevco/pitchfork) - Daemons with DX
+- [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
 - [wlswo/xray](https://github.com/wlswo/xray) - A simple, intuitive, and light universal UI capture and inspection tool for macOS
 - [cori-do/cori-kernel](https://github.com/cori-do/cori-kernel) - Cori Kernel — the safe way for AI agents to do real things
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
@@ -5279,7 +5284,7 @@
 - [jnsgruk/oxidizr](https://github.com/jnsgruk/oxidizr) - 🦀 Install modern Rust-based replacements of packages such as coreutils, findutils, diffutils and sudo,  making them the default on an Ubuntu system 🦀
 - [fabianlindfors/pgfdb](https://github.com/fabianlindfors/pgfdb) - Postgres made distributed using FoundationDB
 - [karlis-vagalis/doxxer](https://github.com/karlis-vagalis/doxxer) - CLI tool for dynamic SemVer versioning using Git and tags
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph-vector database built in Rust.
 - [al13n321/nnd](https://github.com/al13n321/nnd) - A debugger for Linux
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [dphilla/boxer](https://github.com/dphilla/boxer) - Dockerfile → Universal Wasm Distribution
@@ -5297,6 +5302,7 @@
 - [mediar-ai/MCP-server-client-computer-use-ai-sdk](https://github.com/mediar-ai/MCP-server-client-computer-use-ai-sdk) - 
 - [git-bahn/git-graph](https://github.com/git-bahn/git-graph) - Command line tool to show clear git graphs arranged for your branching model
 - [git-bahn/git-igitt](https://github.com/git-bahn/git-igitt) - Interactive, cross-platform Git terminal application with clear git graphs arranged for your branching model
+- [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) - Develop Swift/iOS projects using VSCode
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
 - [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
 - [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
@@ -5671,6 +5677,7 @@
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [losfair/IceCore](https://github.com/losfair/IceCore) - Application container built for WebAssembly
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [suptejas/fleet](https://github.com/suptejas/fleet) - 🚀 The blazing fast build tool for Rust.
@@ -5728,7 +5735,7 @@
 - [micouy/kn](https://github.com/micouy/kn) - kn — nvgt/fldrs/qckly
 - [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
 - [intellekthq/launchk](https://github.com/intellekthq/launchk) - Rust/Cursive TUI for observing launchd agents and daemons
-- [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
+- [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
@@ -6223,6 +6230,7 @@
 
 ## Swift 
 
+- [mjrusso/scoot](https://github.com/mjrusso/scoot) - Keyboard-driven MacOS cursor actuator
 - [us/mocker](https://github.com/us/mocker) - Docker-compatible container CLI built on Apple's Containerization framework. Same commands, same flags — mocker run, ps, stop, build, compose, stats — all working on macOS 26.
 - [Cocoanetics/SwiftBash](https://github.com/Cocoanetics/SwiftBash) - Pure-Swift sandboxed bash interpreter — embeddable in Mac/iOS apps. No Process/fork/exec; commands are Swift types; sandbox-by-default for FS, network, processes, and identity.
 - [rlxone/Equinox](https://github.com/rlxone/Equinox) - 🌇 🌃  Create dynamic wallpapers for macOS.
@@ -6403,6 +6411,9 @@
 
 ## TypeScript 
 
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
+- [EveryInc/proof-sdk](https://github.com/EveryInc/proof-sdk) - Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [vercel-labs/upcli](https://github.com/vercel-labs/upcli) - Run your local project in a persistent Vercel Sandbox and get a public URL. Experimental demo.
 - [everweij/typescript-result](https://github.com/everweij/typescript-result) - Supercharge your TypeScript error handling with a powerful Result type that transforms chaotic try-catch blocks into elegant, type-safe code.
@@ -6598,7 +6609,6 @@
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [Fallomai/spinai](https://github.com/Fallomai/spinai) - 
-- [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) - Develop Swift/iOS projects using VSCode
 - [makerkit/react-native-expo-turbo-saas-kit](https://github.com/makerkit/react-native-expo-turbo-saas-kit) - A SaaS Starter Kit built with Expo 52+, React Native, and Tailwind CSS using a Supabase backend
 - [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes) - 📱 A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
@@ -7313,7 +7323,7 @@
 - [bashojs/basho](https://github.com/bashojs/basho) - Lazy shell pipelines in plain JavaScript
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
-- [serenity-js/serenity-js](https://github.com/serenity-js/serenity-js) - A next generation, full-stack acceptance testing framework optimised for collaboration, speed and scale!
+- [serenity-js/serenity-js](https://github.com/serenity-js/serenity-js) - A TypeScript-native acceptance testing framework that gives your Playwright Test, WebdriverIO, or Cucumber test suite the architecture it needs to scale.
 - [javascriptdata/dnotebook](https://github.com/javascriptdata/dnotebook) - Dnotebook is a Jupyter-like library for javaScript environment. It allows you to create and share pages that contain live code, text and visualizations.
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [smocker-dev/smocker](https://github.com/smocker-dev/smocker) - Smocker is a simple and efficient HTTP mock server and proxy
