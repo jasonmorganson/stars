@@ -4345,7 +4345,6 @@
 - [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [async-library/future](https://github.com/async-library/future) - The future of React Async and react-async-hook
 - [pgMustard/pgMustard](https://github.com/pgMustard/pgMustard) - pgMustard public repository (for issues)
-- [dbt-labs/corp](https://github.com/dbt-labs/corp) - Assets related to the operation of Fishtown Analytics.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [SkeltonThatcher/run-book-template](https://github.com/SkeltonThatcher/run-book-template) - Run Book / Operations Manual template for modern software systems
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
@@ -4656,7 +4655,7 @@
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [rohitna/chatgpt-script](https://github.com/rohitna/chatgpt-script) - A python script to interact with chatGPT via clipboard
 - [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [clearspace-team/iMessage-bot](https://github.com/clearspace-team/iMessage-bot) - Instructions and example code for creating a chatbot for any chat that Beeper supports - currently iMessage, Twitter, Instagram, Facebook, Whatsapp, Telegram, Slack, Discord, Signal , and Linkedin
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
@@ -5031,6 +5030,7 @@
 - [aquach/vim-http-client](https://github.com/aquach/vim-http-client) - Forget your curl today! Make HTTP requests from Vim without wrestling the command line!
 - [willfarrell/Browsers](https://github.com/willfarrell/Browsers) - Collection of Browsers and Virtual Machines for web development on the Mac.
 - [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
+- [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent
 - [ghostdance/git-review](https://github.com/ghostdance/git-review) - Git extension for attaching code review flags and notes to commits.
 - [Pythonity/font-awesome-to-png](https://github.com/Pythonity/font-awesome-to-png) - Exports Font Awesome icons as PNG images
 - [progrium/keychain.io](https://github.com/progrium/keychain.io) - 
@@ -5278,7 +5278,7 @@
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [Askannz/munal-os](https://github.com/Askannz/munal-os) - An experimental operating system fully written in Rust, with a unikernel design, cooperative scheduling and a security model based on WASM sandboxing.
 - [Muvon/octocode](https://github.com/Muvon/octocode) - Semantic code searcher and codebase utility
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [uutils/diffutils](https://github.com/uutils/diffutils) - Drop-in replacement of diffutils in Rust
 - [uutils/procps](https://github.com/uutils/procps) - Rust reimplementation of the procps project
 - [uutils/util-linux](https://github.com/uutils/util-linux) - Rust reimplementation of the util-linux project
@@ -5450,7 +5450,7 @@
 - [tsonglew/dutis](https://github.com/tsonglew/dutis) - MacOS Application Extension Manager
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
-- [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A fast and correct TypeScript type checker and compiler with additional experiments
+- [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A correct and efficient TypeScript type checker and compiler with additional experiments
 - [Timmmm/autorebase](https://github.com/Timmmm/autorebase) - Automatically rebase all your branches onto master
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
@@ -6185,7 +6185,6 @@
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [ibuildthecloud/only-docker](https://github.com/ibuildthecloud/only-docker) - Docker as PID 1... what?!
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
-- [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
 - [fnichol/dvm](https://github.com/fnichol/dvm) - An on demand Docker virtual machine, thanks to Vagrant and boot2docker. Works great on Macs and other platforms that don't natively support the Docker daemon. Support VirtualBox, VMware, and Parallels
@@ -6413,6 +6412,8 @@
 
 ## TypeScript 
 
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [workos/auth.md](https://github.com/workos/auth.md) - An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain.
 - [extend-hq/ui](https://github.com/extend-hq/ui) - 
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
@@ -6505,7 +6506,7 @@
 - [baz-scm/baz-cli](https://github.com/baz-scm/baz-cli) - CLI for AI-assisted manual code review
 - [nkzw-tech/fate](https://github.com/nkzw-tech/fate) - fate is a modern data client for React.
 - [pvcnt/mergeable](https://github.com/pvcnt/mergeable) - The missing inbox for GitHub pull requests
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - [auth-agent/auth-agent](https://github.com/auth-agent/auth-agent) - Auth Agent is the first OpenID Connect Provider for Agents
 - [AgentScript-AI/agentscript](https://github.com/AgentScript-AI/agentscript) - CodeAct Agent SDK with an AST-based code execution engine, enabling stop/start workflows, tool-level state management, and enhanced observability.
 - [constructive-io/constructive](https://github.com/constructive-io/constructive) - Secure, Modular Postgres for Teams
