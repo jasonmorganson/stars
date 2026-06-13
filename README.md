@@ -580,7 +580,7 @@
 - [land007/docker_playwright_novnc](https://github.com/land007/docker_playwright_novnc) - docker_playwright_novnc
 - [pothos/rust-userland](https://github.com/pothos/rust-userland) - Rust userland container image
 - [httptoolkit/docker-registry-facade](https://github.com/httptoolkit/docker-registry-facade) - A tiny self-hostable Docker Registry facade - own your image URL without running your own registry
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [01e9/github-actions-runner](https://github.com/01e9/github-actions-runner) - I don't use it anymore, don't know if it still works
 - [jasonmorganson/restylers](https://github.com/jasonmorganson/restylers) - Language-specific restylers
 - [jakejarvis/wait-action](https://github.com/jakejarvis/wait-action) - 💤 Very, very simple (and small) action to sleep for an amount of time — 10s, 2m, etc.
@@ -639,6 +639,7 @@
 
 ## Go 
 
+- [gitsense/gsc-cli](https://github.com/gitsense/gsc-cli) - 
 - [mvanhorn/agentcookie](https://github.com/mvanhorn/agentcookie) - Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any o
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
@@ -689,7 +690,7 @@
 - [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and headless API.
 - [TimoKats/emmer](https://github.com/TimoKats/emmer) - Self-hosted API for creating and querying JSON data on different storage providers.
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language.
-- [pgplex/pgschema](https://github.com/pgplex/pgschema) - Terraform-style, declarative schema migration CLI for Postgres. Agent friendly.
+- [pgplex/pgschema](https://github.com/pgplex/pgschema) - Terraform-style, declarative Postgres schema migration. Agent friendly.
 - [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer
 - [colchuck-ai/ai-resource-manager](https://github.com/colchuck-ai/ai-resource-manager) - Package manager for AI rules and prompts with semantic versioning and automatic distribution to AI tools.
 - [speakeasy-api/gram](https://github.com/speakeasy-api/gram) - Securely scale AI usage across your organization.  Control plane for building, securing and monitoring your agents, mcp and skills.
@@ -1854,6 +1855,7 @@
 
 ## JavaScript 
 
+- [gitsense/chat](https://github.com/gitsense/chat) - 
 - [pbakaus/agent-reviews](https://github.com/pbakaus/agent-reviews) - Token efficient, automated Github review workflows and bug fixing.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix
@@ -2060,7 +2062,7 @@
 - [TinkurLab/monorepo-pr-labeler-action](https://github.com/TinkurLab/monorepo-pr-labeler-action) - 🚊 A GitHub Action that labels PRs with the repo(s) impacted in a monorepo.
 - [mudlabs/simple-diff](https://github.com/mudlabs/simple-diff) - A super simple diff checker for your GitHub workflow.
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
-- [tannercollin/Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
+- [tanner37/Notica](https://github.com/tanner37/Notica) - Send browser notifications from your terminal. No installation. No registration.
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [mafintosh/csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -4205,9 +4207,9 @@
 
 ## Others 
 
+- [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [gamesir-labs/gamehub-for-mac](https://github.com/gamesir-labs/gamehub-for-mac) - Issue tracking for the GameHub for Mac beta client （https://gamemac.com）
 - [sts10/rust-command-line-utilities](https://github.com/sts10/rust-command-line-utilities) - A curated list of command-line utilities written in Rust
-- [ctxrs/ctx](https://github.com/ctxrs/ctx) - Agentic Development Environment (ADE) for teams using multiple coding agents
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) - 
 - [berserkdisruptors/contextual-commits](https://github.com/berserkdisruptors/contextual-commits) - An open standard for capturing the WHY in git history
 - [computeruseprotocol/computeruseprotocol](https://github.com/computeruseprotocol/computeruseprotocol) - Computer Use Protocol is a universal schema for AI agents to perceive and interact with any desktop UI.
@@ -4681,7 +4683,7 @@
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [RelevanceAI/relevanceai](https://github.com/RelevanceAI/relevanceai) - Home of the AI workforce - Multi-agent system, AI agents & tools
 - [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) - GitHub Action for advanced repository traffic analysis and reporting
-- [mljar/mercury](https://github.com/mljar/mercury) - Create web apps from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [widgetti/solara](https://github.com/widgetti/solara) - A Pure Python, React-style Framework for Scaling Your Jupyter and Web Apps
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
@@ -4706,7 +4708,7 @@
 - [yasyf/compress-gpt](https://github.com/yasyf/compress-gpt) - Self-extracting GPT prompts for ~70% token savings
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
-- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).
+- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
 - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
 - [ajndkr/lanarky](https://github.com/ajndkr/lanarky) - The web framework for building LLM microservices [deprecated]
 - [amosjyng/langchain-visualizer](https://github.com/amosjyng/langchain-visualizer) - Visualization and debugging tool for LangChain workflows
@@ -5030,7 +5032,7 @@
 - [aquach/vim-http-client](https://github.com/aquach/vim-http-client) - Forget your curl today! Make HTTP requests from Vim without wrestling the command line!
 - [willfarrell/Browsers](https://github.com/willfarrell/Browsers) - Collection of Browsers and Virtual Machines for web development on the Mac.
 - [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
-- [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent
+- [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent, now in Python.
 - [ghostdance/git-review](https://github.com/ghostdance/git-review) - Git extension for attaching code review flags and notes to commits.
 - [Pythonity/font-awesome-to-png](https://github.com/Pythonity/font-awesome-to-png) - Exports Font Awesome icons as PNG images
 - [progrium/keychain.io](https://github.com/progrium/keychain.io) - 
@@ -5162,6 +5164,7 @@
 - [pando85/kaniop](https://github.com/pando85/kaniop) - Kubernetes operator for managing Kanidm
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
+- [ctxrs/ctx](https://github.com/ctxrs/ctx) - Agentic Development Environment (ADE) for teams using multiple coding agents
 - [NikolayS/rpg](https://github.com/NikolayS/rpg) - rpg — modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
@@ -5242,7 +5245,7 @@
 - [markmarkoh/lt](https://github.com/markmarkoh/lt) - An unofficial TUI application to view & interact with Linear.app issues
 - [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp) - Build MCP servers with WebAssembly components
 - [MaxBondABE/attempt](https://github.com/MaxBondABE/attempt) - CLI for retrying fallible commands
-- [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com
+- [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD.
 - [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS runtime lolz
 - [zed-extensions/harper](https://github.com/zed-extensions/harper) - Harper LS extension for the Zed editor
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -5278,7 +5281,7 @@
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [Askannz/munal-os](https://github.com/Askannz/munal-os) - An experimental operating system fully written in Rust, with a unikernel design, cooperative scheduling and a security model based on WASM sandboxing.
 - [Muvon/octocode](https://github.com/Muvon/octocode) - Semantic code searcher and codebase utility
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [uutils/diffutils](https://github.com/uutils/diffutils) - Drop-in replacement of diffutils in Rust
 - [uutils/procps](https://github.com/uutils/procps) - Rust reimplementation of the procps project
 - [uutils/util-linux](https://github.com/uutils/util-linux) - Rust reimplementation of the util-linux project
@@ -5963,7 +5966,7 @@
 - [jrz/container-shell](https://github.com/jrz/container-shell) - Starts and attaches a sandboxed shell using docker with access to the current or project directory
 - [heymegabyte/install.doctor](https://github.com/heymegabyte/install.doctor) - A glorious combination of application / theme settings and a performant cross-platform, desktop-oriented software suite.
 - [google/git-sync-changes](https://github.com/google/git-sync-changes) - Collaborative editing for git repositories
-- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 460 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
+- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 500+ PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 - [deployKF/deployKF](https://github.com/deployKF/deployKF) - deployKF builds machine learning platforms on Kubernetes. We combine the best of Kubeflow, Airflow†, and MLflow† into a complete platform.
 - [alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme) - Collection of Alacritty color schemes
 - [hrsh7th/vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted) - vscode-langservers bin collection.
@@ -6231,6 +6234,7 @@
 
 ## Swift 
 
+- [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
 - [mjrusso/scoot](https://github.com/mjrusso/scoot) - Keyboard-driven MacOS cursor actuator
 - [us/mocker](https://github.com/us/mocker) - Docker-compatible container CLI built on Apple's Containerization framework. Same commands, same flags — mocker run, ps, stop, build, compose, stats — all working on macOS 26.
 - [Cocoanetics/SwiftBash](https://github.com/Cocoanetics/SwiftBash) - Pure-Swift sandboxed bash interpreter — embeddable in Mac/iOS apps. No Process/fork/exec; commands are Swift types; sandbox-by-default for FS, network, processes, and identity.
@@ -6898,7 +6902,7 @@
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [BemiHQ/bemi-io](https://github.com/BemiHQ/bemi-io) - Automatic data change tracking for PostgreSQL
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
-- [pagescms/pagescms](https://github.com/pagescms/pagescms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
+- [hunvreus/pagescms](https://github.com/hunvreus/pagescms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
 - [sqlc-dev/sqlc-gen-typescript](https://github.com/sqlc-dev/sqlc-gen-typescript) - 
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
 - [joone/loz](https://github.com/joone/loz) - Loz is a command-line tool that enables your preferred LLM to execute system commands and utilize Unix pipes, integrating AI capabilities with other Unix tools.
@@ -7457,7 +7461,7 @@
 - [s4heid/branch-switcher](https://github.com/s4heid/branch-switcher) - a GitHub bot that switches the base branch of pull requests to the preferred branch
 - [unlayer/react-email-editor](https://github.com/unlayer/react-email-editor) - Drag-n-Drop Email Editor Component for React.js
 - [tibdex/autosquash](https://github.com/tibdex/autosquash) - :package: GitHub Action to update PRs with outdated checks and squash and merge the ones matching all branch protections
-- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
+- [qawolf/cli](https://github.com/qawolf/cli) - QA Wolf from anywhere — your terminal, your CI, your AI agent.
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
@@ -8189,7 +8193,7 @@
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [sidequery/ghostree](https://github.com/sidequery/ghostree) - Ghostty for agents with native worktrees and vertical tabs
-- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes
+- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal.
 - [jackielii/skhd.zig](https://github.com/jackielii/skhd.zig) - Simple Hotkey Daemon for macOS, ported from skhd by koekeishiya
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
