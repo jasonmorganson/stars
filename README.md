@@ -1780,6 +1780,7 @@
 
 ## Java 
 
+- [open-semantic-interchange/OSI](https://github.com/open-semantic-interchange/OSI) - 
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
 - [triplea-game/triplea](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
@@ -2297,7 +2298,7 @@
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a file, stream, or data
 - [GoogleChromeLabs/dynamic-import-polyfill](https://github.com/GoogleChromeLabs/dynamic-import-polyfill) - A fast, tiny polyfill for dynamic import() that works in all module-supporting browsers
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
-- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
+- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 200 powerful ESLint rules
 - [thepeak99/node-postgres-test](https://github.com/thepeak99/node-postgres-test) - node-postgres-test is a module that provides easy unit-testing for the popular node-postgres.
 - [commitizen/cz-jira-smart-commit](https://github.com/commitizen/cz-jira-smart-commit) - A commitizen adapter for Jira Smart Commits
 - [andrejewski/himalaya](https://github.com/andrejewski/himalaya) - JavaScript HTML to JSON Parser
@@ -4533,6 +4534,7 @@
 
 ## Python 
 
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [microsoft/Webwright](https://github.com/microsoft/Webwright) - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.
 - [viticci/shortcuts-playground-plugin](https://github.com/viticci/shortcuts-playground-plugin) - Shortcuts Playground: A Claude Code and Codex plugin for building, validating, signing, and remixing macOS/iOS Shortcuts with natural language.
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
@@ -5144,6 +5146,7 @@
 
 ## Rust 
 
+- [edochi/mdvs](https://github.com/edochi/mdvs) - Schema inference, frontmatter validation, and semantic search for markdown directories
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contri
 - [microsoft/duroxide](https://github.com/microsoft/duroxide) - 
 - [fabro-sh/fabro](https://github.com/fabro-sh/fabro) - ⚒️ The open source dark software factory for expert engineers.
@@ -5153,6 +5156,7 @@
 - [namvox/simx](https://github.com/namvox/simx) - Agent-friendly iOS Simulator pool and browser streaming CLI
 - [dsully/magic-opener](https://github.com/dsully/magic-opener) - A tool for opening the right thing in the right place.
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
+- [hypen-lang/hypen](https://github.com/hypen-lang/hypen) - Hypen  - crossplatform UI framework for Rust, TS, Go, Kotlin, Swift and more
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [rwx-research/abq](https://github.com/rwx-research/abq) - ABQ is a universal test runner that runs test suites in parallel. It’s the best tool for splitting test suites into parallel jobs locally or on CI
@@ -6416,7 +6420,7 @@
 
 ## TypeScript 
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 - [workos/auth.md](https://github.com/workos/auth.md) - An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain.
 - [extend-hq/ui](https://github.com/extend-hq/ui) - 
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
@@ -6431,7 +6435,6 @@
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [pontusab/caltext](https://github.com/pontusab/caltext) - 
 - [jdevalk/specification.website](https://github.com/jdevalk/specification.website) - Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
-- [hypen-lang/hypen](https://github.com/hypen-lang/hypen) - Hypen  - crossplatform UI framework for Rust, TS, Go, Kotlin, Swift and more
 - [specui/specui](https://github.com/specui/specui) - Generate code with specs
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
 - [openclaw/octopool](https://github.com/openclaw/octopool) - A shared, org-authenticated GitHub read relay and cache.
@@ -8193,7 +8196,7 @@
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [sidequery/ghostree](https://github.com/sidequery/ghostree) - Ghostty for agents with native worktrees and vertical tabs
-- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal.
+- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal
 - [jackielii/skhd.zig](https://github.com/jackielii/skhd.zig) - Simple Hotkey Daemon for macOS, ported from skhd by koekeishiya
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
