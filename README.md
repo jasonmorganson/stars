@@ -49,7 +49,6 @@
 - [Jinja](#jinja)
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Just](#just)
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [LiveScript](#livescript)
@@ -133,6 +132,7 @@
 
 ## C 
 
+- [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [datapartyjs/MeshTNC](https://github.com/datapartyjs/MeshTNC) - MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatible packet radio modems
 - [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments
 - [joshuarli/iss](https://github.com/joshuarli/iss) - 3-finger swipe instant space switching on macOS
@@ -316,7 +316,6 @@
 
 ## C++ 
 
-- [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - An exabyte-scale, multi-region distributed file system
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -1613,7 +1612,6 @@
 - [KrauseFx/InAppBrowser.com](https://github.com/KrauseFx/InAppBrowser.com) - Showcasing what in-app browsers do under the hood
 - [r-follador/CubeTrek](https://github.com/r-follador/CubeTrek) - Home for all your GPS Tracks: Visualize, share and manage your GPS tracks.
 - [potahtml/namespace-jsx-project](https://github.com/potahtml/namespace-jsx-project) - Table listing TypeScript types for `namespace JSX` for many frameworks  https://potahtml.github.io/namespace-jsx-project/table/index.html
-- [syncliteio/SyncLite](https://github.com/syncliteio/SyncLite) - SyncLite : Build Anything Sync Anywhere
 - [openeverest/everest-doc](https://github.com/openeverest/everest-doc) - OpenEverest project documentation
 - [rohanarun/Open-Agent-Studio](https://github.com/rohanarun/Open-Agent-Studio) - 
 - [TailGrids/play-tailwind](https://github.com/TailGrids/play-tailwind) - Play is free and open source Tailwind CSS template for - Startup, SaaS, Apps, Business and More. It comes with a high-quality design and all essential components & pages you need to launch a complete 
@@ -1786,6 +1784,7 @@
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [OCR4all/OCR4all](https://github.com/OCR4all/OCR4all) - Provides OCR (Optical Character Recognition) services through web applications
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
+- [syncliteio/SyncLite](https://github.com/syncliteio/SyncLite) - SyncLite : Build Anything Sync Anywhere
 - [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable dire
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
@@ -4026,10 +4025,6 @@
 - [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) - Create delightful software with Jupyter Notebooks
 - [GoogleCloudPlatform/bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils) - Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
 
-## Just 
-
-- [wamp-proto/wamp-proto](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol
-
 ## Kotlin 
 
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
@@ -4649,7 +4644,7 @@
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
@@ -4724,6 +4719,7 @@
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [linkedin/shiv](https://github.com/linkedin/shiv) - shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
+- [wamp-proto/wamp-proto](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs
