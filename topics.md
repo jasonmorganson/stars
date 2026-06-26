@@ -427,7 +427,7 @@
 
 - [runtypelabs/persona](https://github.com/runtypelabs/persona) - Create agentic front-end experiences for the web in VanillaJS™️. Lightweight, extensible, and WebMCP-native.
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contri
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [rilldata/rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents.
@@ -570,7 +570,7 @@
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
 - [Airsequel/SQLiteGPT](https://github.com/Airsequel/SQLiteGPT) - SQL function for SQLite to directly query OpenAI's ChatGPT
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
@@ -611,7 +611,7 @@
 - [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) - Physical controller & multi-surface dashboard for AI coding agents — Stream Deck+, Android, iOS/macOS, ESP32 displays, TUI
 - [agents-txt/agents-txt](https://github.com/agents-txt/agents-txt) - agents.txt is a lightweight, machine-readable capability declaration layer for websites in the agentic web: a protocol-agnostic discovery file that publicly announces what agent-interaction capabiliti
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contri
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
 - [mvanhorn/agentcookie](https://github.com/mvanhorn/agentcookie) - Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any o
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
@@ -1629,7 +1629,7 @@
 
 - [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) - Physical controller & multi-surface dashboard for AI coding agents — Stream Deck+, Android, iOS/macOS, ESP32 displays, TUI
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contri
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic.
 - [amaar-mc/wit](https://github.com/amaar-mc/wit) - Agent coordination protocol — declare intents, lock symbols, detect conflicts before code is written
@@ -1655,7 +1655,7 @@
 
 ## cli 
 
-- [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - TUI note management app inspired by Obsidian
+- [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - Feature-packed TUI note management app inspired by Obsidian
 - [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn) - Beautiful terminal UI components, built on Ink and OpenTUI. 100% Free, Zero config, one command setup.
 - [privatenumber/mac-ocr](https://github.com/privatenumber/mac-ocr) - macOS CLI for OCR and searchable PDFs using Apple's Vision framework
 - [edochi/mdvs](https://github.com/edochi/mdvs) - Schema inference, frontmatter validation, and semantic search for markdown directories
@@ -1847,7 +1847,7 @@
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [mklement0/shall](https://github.com/mklement0/shall) - A CLI and REPL for invoking shell scripts or commands with multiple POSIX-like shells for portability testing.
 - [simonmichael/shelltestrunner](https://github.com/simonmichael/shelltestrunner) - Easy, repeatable testing of CLI programs/commands
-- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [Doctave/doctave](https://github.com/Doctave/doctave) - A batteries-included developer documentation site generator
@@ -2502,7 +2502,7 @@
 ## csharp 
 
 - [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments.
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [Puchaczov/Musoq](https://github.com/Puchaczov/Musoq) - SQL Runtime without any database
 - [microsoft/CDM](https://github.com/microsoft/CDM) - The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to fa
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
@@ -3840,7 +3840,7 @@
 
 ## elixir 
 
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - All-in-one delivery platform for AI-driven development.
 - [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams, queues, and search indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more
 - [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler.
@@ -4757,7 +4757,7 @@
 - [KarolosLykos/hackertea](https://github.com/KarolosLykos/hackertea) - #Hackertea is a sleek terminal user interface written in Golang, designed to bring HackerNews articles directly to your fingertips. Powered by the magic of Golang and the #bubbletea library. Just fire
 - [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
 - [kamilsk/godownloader](https://github.com/kamilsk/godownloader) - 🔧 The version with Homebrew.
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - All-in-one delivery platform for AI-driven development.
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
 - [inferablehq/inferable](https://github.com/inferablehq/inferable) - Build reliable AI Workflows and Agents with humans in the loop, structured outputs and durable execution.
@@ -4817,7 +4817,7 @@
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
@@ -5973,7 +5973,7 @@
 ## java 
 
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [microsoft/CDM](https://github.com/microsoft/CDM) - The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to fa
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [LingDong-/wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀
@@ -6019,6 +6019,7 @@
 
 ## javascript 
 
+- [ilbertt/bun-sqlgen](https://github.com/ilbertt/bun-sqlgen) - Types generator for your Bun.sql queries
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
 - [specui/specui](https://github.com/specui/specui) - Generate code with specs
@@ -7208,7 +7209,7 @@
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
 - [cruise-automation/isopod](https://github.com/cruise-automation/isopod) - An expressive DSL and framework for Kubernetes configuration without YAML
-- [provadigital/knsk](https://github.com/provadigital/knsk) - This tool is aimed to kill namespaces that stuck in Terminating mode after you try to delete it.
+- [thyarles/knsk](https://github.com/thyarles/knsk) - This tool is aimed to kill namespaces that stuck in Terminating mode after you try to delete it.
 - [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [hjacobs/kube-janitor](https://github.com/hjacobs/kube-janitor) - Clean up (delete) Kubernetes resources after a configured TTL (time to live)
@@ -7469,7 +7470,7 @@
 - [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello boards and GitHub projects
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
-- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -7549,6 +7550,7 @@
 
 ## llm 
 
+- [kennss/SiliconScope](https://github.com/kennss/SiliconScope) - Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix
@@ -7726,6 +7728,7 @@
 
 ## mac 
 
+- [remko/age-plugin-se](https://github.com/remko/age-plugin-se) - Age plugin for Apple's Secure Enclave
 - [mjrusso/scoot](https://github.com/mjrusso/scoot) - Keyboard-driven MacOS cursor actuator
 - [metaspartan/mactop](https://github.com/metaspartan/mactop) - mactop - Apple Silicon Monitor Top
 - [SidhuK/Glyph](https://github.com/SidhuK/Glyph) - 📝 Glyph is a private desktop workspace for notes, documents, and ideas, with Markdown editing and built-in AI tools.
@@ -7779,7 +7782,7 @@
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
 - [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
@@ -7811,6 +7814,7 @@
 
 ## macos 
 
+- [kennss/SiliconScope](https://github.com/kennss/SiliconScope) - Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking
 - [privatenumber/mac-ocr](https://github.com/privatenumber/mac-ocr) - macOS CLI for OCR and searchable PDFs using Apple's Vision framework
 - [mjrusso/scoot](https://github.com/mjrusso/scoot) - Keyboard-driven MacOS cursor actuator
 - [mvanhorn/agentcookie](https://github.com/mvanhorn/agentcookie) - Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any o
@@ -7939,7 +7943,7 @@
 - [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello boards and GitHub projects
 - [rossmacarthur/kb-remap](https://github.com/rossmacarthur/kb-remap) - ⌨️ Tool to remap macOS keyboard keys
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
-- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native macOS applications from command line scripts.
@@ -8540,6 +8544,7 @@
 
 ## nextjs 
 
+- [keenthemes/reui](https://github.com/keenthemes/reui) - Design-forward shadcn kit for interfaces that stand out. 1000+ free patterns!
 - [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
 - [odest/catalyzer](https://github.com/odest/catalyzer) - Production-grade cross-platform starter template to build Web, Desktop, and Mobile apps from a single codebase. Powered by Next.js, Tauri, and Turborepo.
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - JMAP Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
@@ -8687,7 +8692,7 @@
 ## node 
 
 - [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually.
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
@@ -8807,6 +8812,7 @@
 
 ## nodejs 
 
+- [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 - [privatenumber/mac-ocr](https://github.com/privatenumber/mac-ocr) - macOS CLI for OCR and searchable PDFs using Apple's Vision framework
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 - [superapp-labs/typescript-superapp](https://github.com/superapp-labs/typescript-superapp) - Type-safe full-stack backend engine for building data-driven apps with TypeScript — CRUD, permissions, filtering, and auth out of the box
@@ -9311,7 +9317,7 @@
 
 ## obsidian 
 
-- [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - TUI note management app inspired by Obsidian
+- [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - Feature-packed TUI note management app inspired by Obsidian
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Convert your data to Markdown files you can use in Obsidian. Works with Apple Notes, OneNote, Evernote, Notion, Google Keep, and many other formats.
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
@@ -9322,7 +9328,6 @@
 
 ## obsidian-md 
 
-- [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - TUI note management app inspired by Obsidian
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
@@ -9519,6 +9524,7 @@
 
 ## others 
 
+- [zirkelc/ai-test-kit](https://github.com/zirkelc/ai-test-kit) - Test Kit for AI SDK
 - [Danilaa1/auditkit](https://github.com/Danilaa1/auditkit) - Local hybrid CLI for agency website audits.  Rust runs the core workflow: audit folders, quick HTML checks, security checks, and report generation. Node is used only for Lighthouse.
 - [herald-email/herald-mail-app](https://github.com/herald-email/herald-mail-app) - Herald is a terminal email client and inbox cleanup tool with IMAP, AI-assisted triage, MCP tools, and SSH/browser-friendly app modes.
 - [ikindacodes/ship-eve](https://github.com/ikindacodes/ship-eve) - A growing collection of runnable eve agents — clone them, run them locally, and learn from real-world examples that grow in complexity over time.
@@ -9626,7 +9632,7 @@
 - [intent-integrity-chain/kit](https://github.com/intent-integrity-chain/kit) - Intent Integrity Kit - Closing the intent-to-code chasm
 - [KrystianJonca/lnai](https://github.com/KrystianJonca/lnai) - Unified AI configuration management CLI
 - [llmodelcitizen/starship-aws-monitor](https://github.com/llmodelcitizen/starship-aws-monitor) - monitor AWS auth status with your starship prompt
-- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
+- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB
 - [kenn-io/roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 - [rtvkiz/minimal](https://github.com/rtvkiz/minimal) - Minimal CVE Hardened container image collection
 - [sidequery/ghostree](https://github.com/sidequery/ghostree) - Ghostty for agents with native worktrees and vertical tabs
@@ -10090,7 +10096,6 @@
 - [open-feature/open-feature-operator](https://github.com/open-feature/open-feature-operator) - A Kubernetes feature flag operator
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [constructive-io/pgsql-parser](https://github.com/constructive-io/pgsql-parser) - 🐘 PostgreSQL Query Parser for Node.js
-- [zerostep-ai/zerostep](https://github.com/zerostep-ai/zerostep) - Supercharge your Playwright tests with AI
 - [Timmmm/autorebase](https://github.com/Timmmm/autorebase) - Automatically rebase all your branches onto master
 - [gopasswordless/sdk](https://github.com/gopasswordless/sdk) - The GoPasswordless SDK
 - [janhq/cortex.cpp](https://github.com/janhq/cortex.cpp) - Local AI API Platform
@@ -12839,6 +12844,7 @@
 
 ## package-manager 
 
+- [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 - [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) - Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative with 40+ package formats, security scanning, WASM plugins, and edge replication.
 - [colchuck-ai/ai-resource-manager](https://github.com/colchuck-ai/ai-resource-manager) - Package manager for AI rules and prompts with semantic versioning and automatic distribution to AI tools.
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
@@ -12927,7 +12933,7 @@
 ## php 
 
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
@@ -12959,6 +12965,7 @@
 
 ## postgresql 
 
+- [ilbertt/bun-sqlgen](https://github.com/ilbertt/bun-sqlgen) - Types generator for your Bun.sql queries
 - [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
@@ -13197,6 +13204,7 @@
 
 ## privacy 
 
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [watzon/pindrop](https://github.com/watzon/pindrop) - A native macOS menu bar dictation app using local speech-to-text with WhisperKit
 - [datapartyjs/rfparty-xyz](https://github.com/datapartyjs/rfparty-xyz) - its like a tricorder, for your wireless world.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
@@ -13383,7 +13391,7 @@
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Database-Backed Durable Python Workflows
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
 - [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Python wrapper for the Codegen API - run code agents at scale
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
@@ -13699,7 +13707,7 @@
 - [lightfeed/extractor](https://github.com/lightfeed/extractor) - Use LLMs to robustly extract web data
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph-vector database built in Rust.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
 - [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing, query, and agentic LLM applications in Rust
@@ -13745,6 +13753,7 @@
 
 ## react 
 
+- [keenthemes/reui](https://github.com/keenthemes/reui) - Design-forward shadcn kit for interfaces that stand out. 1000+ free patterns!
 - [open-circle/formisch](https://github.com/open-circle/formisch) - The lightweight, schema-first, and fully type-safe form library for React, Solid, Vue, Svelte and more.
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
@@ -14557,7 +14566,7 @@
 
 ## ruby 
 
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census.
 - [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a modern, fair source software licensing and distribution API. For developers, by developers.
@@ -14658,7 +14667,7 @@
 - [git-bahn/git-graph](https://github.com/git-bahn/git-graph) - Command line tool to show clear git graphs arranged for your branching model
 - [git-bahn/git-igitt](https://github.com/git-bahn/git-igitt) - Interactive, cross-platform Git terminal application with clear git graphs arranged for your branching model
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
 - [ulyssa/iamb](https://github.com/ulyssa/iamb) - A Matrix client for Vim addicts
 - [reemus-dev/gitnr](https://github.com/reemus-dev/gitnr) - Create `.gitignore` files using one or more templates from TopTal, GitHub or your own collection
@@ -14840,7 +14849,7 @@
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [suptejas/fleet](https://github.com/suptejas/fleet) - 🚀 The blazing fast build tool for Rust.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [Doctave/doctave](https://github.com/Doctave/doctave) - A batteries-included developer documentation site generator
@@ -15209,7 +15218,7 @@
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
@@ -15502,6 +15511,7 @@
 
 ## sql 
 
+- [ilbertt/bun-sqlgen](https://github.com/ilbertt/bun-sqlgen) - Types generator for your Bun.sql queries
 - [rilldata/rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents.
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [Shape-Machine/tusk-macos](https://github.com/Shape-Machine/tusk-macos) - Native PostgreSQL app for macOS
@@ -15639,6 +15649,7 @@
 
 ## sqlite 
 
+- [ilbertt/bun-sqlgen](https://github.com/ilbertt/bun-sqlgen) - Types generator for your Bun.sql queries
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [pointfreeco/sqlite-data](https://github.com/pointfreeco/sqlite-data) - A fast, lightweight replacement for SwiftData, powered by SQL and supporting CloudKit synchronization.
 - [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Database-Backed Durable Python Workflows
@@ -15878,6 +15889,7 @@
 
 ## swiftui 
 
+- [kennss/SiliconScope](https://github.com/kennss/SiliconScope) - Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking
 - [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) - Physical controller & multi-surface dashboard for AI coding agents — Stream Deck+, Android, iOS/macOS, ESP32 displays, TUI
 - [watzon/pindrop](https://github.com/watzon/pindrop) - A native macOS menu bar dictation app using local speech-to-text with WhisperKit
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
@@ -16023,7 +16035,7 @@
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
@@ -16110,7 +16122,7 @@
 - [sharkdp/lucid](https://github.com/sharkdp/lucid) - A simple mock-application for programs that work with child processes
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
-- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -16349,7 +16361,7 @@
 
 ## tui 
 
-- [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - TUI note management app inspired by Obsidian
+- [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - Feature-packed TUI note management app inspired by Obsidian
 - [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn) - Beautiful terminal UI components, built on Ink and OpenTUI. 100% Free, Zero config, one command setup.
 - [emilien-jegou/oyui](https://github.com/emilien-jegou/oyui) - Modern TUI merge tool and interactive diff editor for Jujutsu (jj) and Git
 - [elio-fm/elio](https://github.com/elio-fm/elio) - Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support
@@ -16419,7 +16431,7 @@
 - [aome510/hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News
 - [blacknon/hwatch](https://github.com/blacknon/hwatch) - hwatch: alternative watch command with history, diff view, JSONL logging, and change hooks. since 2018.
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
-- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [AMythicDev/minus](https://github.com/AMythicDev/minus) - An asynchronous, runtime data feedable terminal paging library for Rust
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
@@ -16462,6 +16474,7 @@
 
 ## typescript 
 
+- [keenthemes/reui](https://github.com/keenthemes/reui) - Design-forward shadcn kit for interfaces that stand out. 1000+ free patterns!
 - [open-circle/formisch](https://github.com/open-circle/formisch) - The lightweight, schema-first, and fully type-safe form library for React, Solid, Vue, Svelte and more.
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
@@ -17569,7 +17582,7 @@
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
-- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
