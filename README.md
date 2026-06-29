@@ -231,7 +231,6 @@
 - [cybertec-postgresql/pg_show_plans](https://github.com/cybertec-postgresql/pg_show_plans) - Show query plans of all currently running SQL statements
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
-- [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [eulerto/wal2json](https://github.com/eulerto/wal2json) - JSON output plugin for changeset extraction
 - [pgagroal/pgagroal](https://github.com/pgagroal/pgagroal) - High-performance connection pool for PostgreSQL
@@ -2186,6 +2185,7 @@
 - [lukeed/uid](https://github.com/lukeed/uid) - A tiny (130B to 205B) and fast utility to generate random IDs of fixed length
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [npm/ci-detect](https://github.com/npm/ci-detect) - Detect what kind of CI environment the program is in
+- [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
 - [nickdeny/darkmode.js](https://github.com/nickdeny/darkmode.js) - 🌒 Lightweight and powerful library that add dark theme to website based on user's time & OS appearance
 - [pchen66/panolens.js](https://github.com/pchen66/panolens.js) - Javascript panorama viewer based on Three.js
 - [yahoo/serialize-javascript](https://github.com/yahoo/serialize-javascript) - Serialize JavaScript to a superset of JSON that includes regular expressions and functions.
@@ -6439,6 +6439,8 @@
 
 ## TypeScript 
 
+- [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
+- [mickadesign/fluid-functionalism](https://github.com/mickadesign/fluid-functionalism) - 
 - [Necmttn/livetrace](https://github.com/Necmttn/livetrace) - Real-time Effect span streaming to frontend UIs. Stream traces from any backend to React with zero overhead.
 - [HugoRCD/evlog](https://github.com/HugoRCD/evlog) - Digging through logs is not observability. It's hope — wide events, structured errors, TypeScript-first, every runtime.
 - [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Open-source secret & environment management. Secure, simple, collaborative. CLI & Github Sync
