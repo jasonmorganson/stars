@@ -9550,6 +9550,8 @@
 
 ## others 
 
+- [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
+- [mickadesign/fluid-functionalism](https://github.com/mickadesign/fluid-functionalism) - 
 - [Necmttn/livetrace](https://github.com/Necmttn/livetrace) - Real-time Effect span streaming to frontend UIs. Stream traces from any backend to React with zero overhead.
 - [just-be-dev/effect-typed-id](https://github.com/just-be-dev/effect-typed-id) - Typed IDs in Effect.ts
 - [ila/openivm](https://github.com/ila/openivm) - Incremental View Maintenance on DuckDB
