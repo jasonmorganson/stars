@@ -393,7 +393,7 @@
 - [speakeasy-api/gram](https://github.com/speakeasy-api/gram) - Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute agents, MCPs, and Skills within your company.
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [hyprmcp/mcp-gateway](https://github.com/hyprmcp/mcp-gateway) - MCP OAuth Proxy incl. dynamic client registration (DCR), MCP prompt analytics and MCP firewall to build enterprise grade MCP servers.
-- [MCPCat/mcpcat-typescript-sdk](https://github.com/MCPCat/mcpcat-typescript-sdk) - MCPcat is an analytics platform for MCP server owners 🐱.
+- [agentcathq/agentcat-typescript-sdk](https://github.com/agentcathq/agentcat-typescript-sdk) - AgentCat is an analytics platform for MCP server owners 🐱.
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
@@ -441,6 +441,7 @@
 
 ## ai 
 
+- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [runtypelabs/persona](https://github.com/runtypelabs/persona) - Create agentic front-end experiences for the web in VanillaJS™️. Lightweight, extensible, and WebMCP-native.
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
@@ -476,7 +477,7 @@
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
-- [MCPCat/mcpcat-typescript-sdk](https://github.com/MCPCat/mcpcat-typescript-sdk) - MCPcat is an analytics platform for MCP server owners 🐱.
+- [agentcathq/agentcat-typescript-sdk](https://github.com/agentcathq/agentcat-typescript-sdk) - AgentCat is an analytics platform for MCP server owners 🐱.
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
@@ -571,7 +572,7 @@
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
-- [karust/openserp](https://github.com/karust/openserp) - Open-source, self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
+- [karust/openserp](https://github.com/karust/openserp) - Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
@@ -601,7 +602,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & AI-optimized full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & for the age of AI. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from ChatGPT right from your terminal
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -624,6 +625,7 @@
 
 ## ai-agents 
 
+- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) - Physical controller & multi-surface dashboard for AI coding agents — Stream Deck+, Android, iOS/macOS, ESP32 displays, TUI
 - [agents-txt/agents-txt](https://github.com/agents-txt/agents-txt) - agents.txt is a lightweight, machine-readable capability declaration layer for websites in the agentic web: a protocol-agnostic discovery file that publicly announces what agent-interaction capabiliti
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
@@ -652,7 +654,7 @@
 - [mcp-shark/mcp-shark](https://github.com/mcp-shark/mcp-shark) - Wireshark-like forensic analysis for Model Context Protocol communications  Capture, inspect, and investigate all HTTP requests and responses between your IDE and MCP servers
 - [auth-agent/auth-agent](https://github.com/auth-agent/auth-agent) - Auth Agent is the first OpenID Connect Provider for Agents
 - [AgentScript-AI/agentscript](https://github.com/AgentScript-AI/agentscript) - CodeAct Agent SDK with an AST-based code execution engine, enabling stop/start workflows, tool-level state management, and enhanced observability.
-- [MCPCat/mcpcat-typescript-sdk](https://github.com/MCPCat/mcpcat-typescript-sdk) - MCPcat is an analytics platform for MCP server owners 🐱.
+- [agentcathq/agentcat-typescript-sdk](https://github.com/agentcathq/agentcat-typescript-sdk) - AgentCat is an analytics platform for MCP server owners 🐱.
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.
 - [lightfeed/extractor](https://github.com/lightfeed/extractor) - Use LLMs to robustly extract web data
@@ -711,7 +713,7 @@
 
 - [dataforgelabs/dataforge-core](https://github.com/dataforgelabs/dataforge-core) - DataForge helps data teams write functional transformation pipelines by leveraging software engineering principles
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language.
-- [MCPCat/mcpcat-typescript-sdk](https://github.com/MCPCat/mcpcat-typescript-sdk) - MCPcat is an analytics platform for MCP server owners 🐱.
+- [agentcathq/agentcat-typescript-sdk](https://github.com/agentcathq/agentcat-typescript-sdk) - AgentCat is an analytics platform for MCP server owners 🐱.
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki & ES.
 - [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake) - Real-time analytics on Postgres tables
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
@@ -876,7 +878,7 @@
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
 - [metatypedev/metatype](https://github.com/metatypedev/metatype) - Declarative API development platform. Build backend components with WASM, Typescript and Python, no matter where and how your (legacy) systems are.
-- [karust/openserp](https://github.com/karust/openserp) - Open-source, self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
+- [karust/openserp](https://github.com/karust/openserp) - Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
 - [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
 - [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://codeberg.org/mrus/neonmodem)
 - [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a modern, fair source software licensing and distribution API. For developers, by developers.
@@ -1703,6 +1705,8 @@
 
 ## cli 
 
+- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
+- [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [govctl-org/govctl](https://github.com/govctl-org/govctl) - A governance harness for AI coding.
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.
@@ -1823,7 +1827,7 @@
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [Piturnah/gex](https://github.com/Piturnah/gex) - Git Explorer: cross-platform git workflow improvement tool inspired by Magit
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
-- [karust/openserp](https://github.com/karust/openserp) - Open-source, self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
+- [karust/openserp](https://github.com/karust/openserp) - Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
 - [dzfrias/projectable](https://github.com/dzfrias/projectable) - :dizzy: A TUI file manager built for projects
 - [nexxeln/license-generator](https://github.com/nexxeln/license-generator) - Create licenses for your projects right from your terminal!
 - [scaffold-sh/cli](https://github.com/scaffold-sh/cli) - Scaffold is a framework to create a complete AWS infrastructure, defined as code, in seconds.
@@ -2147,7 +2151,7 @@
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
 - [alantech/iasql](https://github.com/alantech/iasql) - Cloud Infrastructure as data in PostgreSQL
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & AI-optimized full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & for the age of AI. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [pluralsh/plural](https://github.com/pluralsh/plural) - Enterprise Kubernetes management, accelerated. 🚀
 - [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
@@ -2525,6 +2529,7 @@
 
 ## crawler 
 
+- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [lightfeed/extractor](https://github.com/lightfeed/extractor) - Use LLMs to robustly extract web data
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
@@ -3203,6 +3208,7 @@
 
 ## design 
 
+- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Free Open-Source Icon Library for Designers & Developers
 - [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) - Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
 - [dannote/figma-use](https://github.com/dannote/figma-use) - Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
@@ -3547,6 +3553,7 @@
 
 ## docker 
 
+- [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.
 - [us/mocker](https://github.com/us/mocker) - Docker-compatible container CLI built on Apple's Containerization framework. Same commands, same flags — mocker run, ps, stop, build, compose, stats — all working on macOS 26.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
@@ -4168,7 +4175,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & AI-optimized full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & for the age of AI. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
@@ -5075,7 +5082,7 @@
 - [haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk) - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [karust/openserp](https://github.com/karust/openserp) - Open-source, self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
+- [karust/openserp](https://github.com/karust/openserp) - Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [dadadel/pyment](https://github.com/dadadel/pyment) - Format and convert Python docstrings and generates patches
@@ -5946,6 +5953,7 @@
 
 ## ios 
 
+- [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
 - [viticci/shortcuts-playground-plugin](https://github.com/viticci/shortcuts-playground-plugin) - Shortcuts Playground: A Claude Code and Codex plugin for building, validating, signing, and remixing macOS/iOS Shortcuts with natural language.
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
@@ -7454,7 +7462,7 @@
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative data automation language and Go runtime for structured extraction workflows.
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & AI-optimized full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & for the age of AI. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
@@ -7615,6 +7623,7 @@
 
 ## llm 
 
+- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [kennss/SiliconScope](https://github.com/kennss/SiliconScope) - Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
@@ -7691,7 +7700,7 @@
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [automorphic-ai/trex](https://github.com/automorphic-ai/trex) - Enforce structured output from LLMs 100% of the time
 - [pdx-labs/pdx](https://github.com/pdx-labs/pdx) - Prompt Engineering and Dev-Ops toolkit for applications powered by Language Models
-- [karust/openserp](https://github.com/karust/openserp) - Open-source, self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
+- [karust/openserp](https://github.com/karust/openserp) - Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm) - 🦙 Integrating LLMs into structured NLP pipelines
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
@@ -7879,6 +7888,8 @@
 
 ## macos 
 
+- [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
+- [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.
 - [kennss/SiliconScope](https://github.com/kennss/SiliconScope) - Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking
 - [privatenumber/mac-ocr](https://github.com/privatenumber/mac-ocr) - macOS CLI for OCR and searchable PDFs using Apple's Vision framework
 - [mjrusso/scoot](https://github.com/mjrusso/scoot) - Keyboard-driven MacOS cursor actuator
@@ -8077,6 +8088,7 @@
 
 ## markdown 
 
+- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 - [edochi/mdvs](https://github.com/edochi/mdvs) - Schema inference, frontmatter validation, and semantic search for markdown directories
 - [jal-co/shieldcn](https://github.com/jal-co/shieldcn) - Beautiful README badges, inspired by shields.io and styled like shadcn/ui.
@@ -8197,6 +8209,7 @@
 
 ## mcp 
 
+- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [agents-txt/agents-txt](https://github.com/agents-txt/agents-txt) - agents.txt is a lightweight, machine-readable capability declaration layer for websites in the agentic web: a protocol-agnostic discovery file that publicly announces what agent-interaction capabiliti
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [jdevalk/specification.website](https://github.com/jdevalk/specification.website) - Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
@@ -8221,7 +8234,7 @@
 - [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp) - Build MCP servers with WebAssembly components
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [hyprmcp/mcp-gateway](https://github.com/hyprmcp/mcp-gateway) - MCP OAuth Proxy incl. dynamic client registration (DCR), MCP prompt analytics and MCP firewall to build enterprise grade MCP servers.
-- [MCPCat/mcpcat-typescript-sdk](https://github.com/MCPCat/mcpcat-typescript-sdk) - MCPcat is an analytics platform for MCP server owners 🐱.
+- [agentcathq/agentcat-typescript-sdk](https://github.com/agentcathq/agentcat-typescript-sdk) - AgentCat is an analytics platform for MCP server owners 🐱.
 - [bh-rat/awesome-mcp-enterprise](https://github.com/bh-rat/awesome-mcp-enterprise) - A curated list of awesome MCP (Model Context Protocol) tools, platforms, and services for enterprises.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [instavm/coderunner](https://github.com/instavm/coderunner) - A local sandbox for your AI agents
@@ -8316,7 +8329,7 @@
 
 ## mobile 
 
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & AI-optimized full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & for the age of AI. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -9413,6 +9426,7 @@
 
 ## open-source 
 
+- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Free Open-Source Icon Library for Designers & Developers
 - [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Open-source secret & environment management. Secure, simple, collaborative. CLI & Github Sync
 - [nexu-io/html-video](https://github.com/nexu-io/html-video) - Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An
 - [watzon/pindrop](https://github.com/watzon/pindrop) - A native macOS menu bar dictation app using local speech-to-text with WhisperKit
@@ -9594,6 +9608,9 @@
 
 ## others 
 
+- [davesavic/pgsavvy](https://github.com/davesavic/pgsavvy) - 
+- [HKUDS/OpenOPC](https://github.com/HKUDS/OpenOPC) - OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown
+- [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
 - [s4core/s4core](https://github.com/s4core/s4core) - 🚀3x faster than MinIO and RustFS. S4Core is an open-source, Rust-based S3-compatible server. Say goodbye to inode exhaustion and hello to atomic operations and smart deduplication
 - [vercel-labs/openwiki](https://github.com/vercel-labs/openwiki) - 
 - [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
@@ -13781,6 +13798,7 @@
 
 ## rag 
 
+- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.
 - [Muvon/octocode](https://github.com/Muvon/octocode) - Semantic code searcher and codebase utility
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
@@ -13833,6 +13851,7 @@
 
 ## react 
 
+- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Free Open-Source Icon Library for Designers & Developers
 - [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to SVG or images without a headless browser. OG cards, animated GIFs, and video frames from Node.js, edge runtimes, browsers, or Rust. Drop-in next/og replacement.
 - [keenthemes/reui](https://github.com/keenthemes/reui) - Design-forward shadcn kit for interfaces that stand out. 1000+ free patterns!
 - [open-circle/formisch](https://github.com/open-circle/formisch) - The lightweight, schema-first, and fully type-safe form library for React, Solid, Vue, Svelte and more.
@@ -14684,6 +14703,8 @@
 
 ## rust 
 
+- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
+- [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.
@@ -15263,6 +15284,7 @@
 
 ## self-hosted 
 
+- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Open-source secret & environment management. Secure, simple, collaborative. CLI & Github Sync
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - JMAP Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
@@ -15881,6 +15903,7 @@
 
 ## swift 
 
+- [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.
 - [privatenumber/mac-ocr](https://github.com/privatenumber/mac-ocr) - macOS CLI for OCR and searchable PDFs using Apple's Vision framework
 - [mjrusso/scoot](https://github.com/mjrusso/scoot) - Keyboard-driven MacOS cursor actuator
 - [us/mocker](https://github.com/us/mocker) - Docker-compatible container CLI built on Apple's Containerization framework. Same commands, same flags — mocker run, ps, stop, build, compose, stats — all working on macOS 26.
@@ -15979,6 +16002,7 @@
 
 ## swiftui 
 
+- [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.
 - [kennss/SiliconScope](https://github.com/kennss/SiliconScope) - Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking
 - [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) - Physical controller & multi-surface dashboard for AI coding agents — Stream Deck+, Android, iOS/macOS, ESP32 displays, TUI
 - [watzon/pindrop](https://github.com/watzon/pindrop) - A native macOS menu bar dictation app using local speech-to-text with WhisperKit
@@ -16455,6 +16479,7 @@
 
 ## tui 
 
+- [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.
 - [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - Feature-packed TUI note management app inspired by Obsidian
@@ -16822,7 +16847,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & AI-optimized full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & for the age of AI. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
@@ -17141,6 +17166,7 @@
 
 ## ui 
 
+- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Free Open-Source Icon Library for Designers & Developers
 - [runtypelabs/persona](https://github.com/runtypelabs/persona) - Create agentic front-end experiences for the web in VanillaJS™️. Lightweight, extensible, and WebMCP-native.
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
@@ -17506,7 +17532,7 @@
 - [ajndkr/lanarky](https://github.com/ajndkr/lanarky) - The web framework for building LLM microservices [deprecated]
 - [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & AI-optimized full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & for the age of AI. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [functional-web-app/fwa.dev](https://github.com/functional-web-app/fwa.dev) - Source for the Functional Web App
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
