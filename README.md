@@ -2573,7 +2573,6 @@
 - [jorgebucaran/getopts](https://github.com/jorgebucaran/getopts) - Node.js CLI options parser
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [async-library/react-async](https://github.com/async-library/react-async) - 🍾 Flexible promise-based React data loader
-- [fraserxu/react-dropdown](https://github.com/fraserxu/react-dropdown) - 🔽 A dead simple dropdown component for React
 - [jossmac/react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - 🍞 A toast notification system for react
 - [simonepri/sympact](https://github.com/simonepri/sympact) - 🔥 Stupid Simple CPU/MEM "Profiler" for your JS code.
 - [ctrlplusb/react-async-component](https://github.com/ctrlplusb/react-async-component) - Resolve components asynchronously, with support for code splitting and advanced server side rendering use cases.
@@ -5157,6 +5156,7 @@
 
 ## Rust 
 
+- [crabbuild/trail](https://github.com/crabbuild/trail) - Trail is a local-first, prolly tree backed operation database for code and text worktrees. Git records committed snapshots; Trail records the work that happens between commits: saves, patches, branche
 - [can1357/pon](https://github.com/can1357/pon) - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.
 - [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
@@ -7791,6 +7791,7 @@
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [garbles/kitimat](https://github.com/garbles/kitimat) - A library for generative, property-based testing in TypeScript and Jest.
+- [fraserxu/react-dropdown](https://github.com/fraserxu/react-dropdown) - 🔽 A dead simple dropdown component for React
 - [jaredpalmer/the-platform](https://github.com/jaredpalmer/the-platform) - Web. Components. 😂
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React. Add date pickers, calendars, and date inputs to your web applications.
