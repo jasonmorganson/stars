@@ -727,7 +727,7 @@
 - [sanspareilsmyn/kforward](https://github.com/sanspareilsmyn/kforward) - Lightweight proxy for seamless local development against Kubernetes services
 - [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
@@ -4247,7 +4247,7 @@
 - [reshaped-ui/reshaped-examples](https://github.com/reshaped-ui/reshaped-examples) - Repository with examples of using Reshaped with front-end frameworks and bundlers
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [cfallin/weval](https://github.com/cfallin/weval) - 
-- [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask) - Simple and handy overview of applications shortcuts
+- [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask) - A simple and handy overview of application shortcuts
 - [ArtifexSoftware/mupdf.js](https://github.com/ArtifexSoftware/mupdf.js) - JavaScript bindings for MuPDF
 - [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started
 - [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.
@@ -4609,7 +4609,6 @@
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [punnerud/Local_Knowledge_Graph](https://github.com/punnerud/Local_Knowledge_Graph) - 
 - [EpicWink/proxpi](https://github.com/EpicWink/proxpi) - PyPI caching proxy
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [googleapis/python-bigquery-dataframes](https://github.com/googleapis/python-bigquery-dataframes) - This library has moved to https://github.com/googleapis/google-cloud-python/tree/main/packages/bigframes
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -5083,6 +5082,7 @@
 
 ## Ruby 
 
+- [midudev/autoskills](https://github.com/midudev/autoskills) - One command. Your entire AI skill stack. Installed.
 - [timeframe/ha-addon](https://github.com/timeframe/ha-addon) - An e-paper calendar, weather, and smart home family dashboard for Home Assistant
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - Super simple group chat, without a subscription
 - [CocoaPods/Xcodeproj](https://github.com/CocoaPods/Xcodeproj) - Create and modify Xcode projects from Ruby.
@@ -6795,6 +6795,7 @@
 - [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry) - A container registry backed by Workers and R2.
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [karthikmudunuri/saas-landing-page-template](https://github.com/karthikmudunuri/saas-landing-page-template) - Template for saas landing page with dark theme using Next.js 14, React, TailwindCSS, Framer motion
 - [edspencer/stream-multi](https://github.com/edspencer/stream-multi) - 
 - [unstubbable/mfng](https://github.com/unstubbable/mfng) - A Minimal React Server Components Bundler & Library
