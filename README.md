@@ -5601,7 +5601,7 @@
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [vmware-labs/mod_wasm](https://github.com/vmware-labs/mod_wasm) - mod_wasm is an extension module for the Apache HTTP Server (httpd) that enables the usage of WebAssembly (Wasm). This module allows the execution of certain tasks in the backend in a very efficient an
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [supabase/wrappers](https://github.com/supabase/wrappers) - Postgres Foreign Data Wrapper development framework in Rust.
@@ -6256,6 +6256,7 @@
 
 ## Swift 
 
+- [Blaizzy/nativ](https://github.com/Blaizzy/nativ) - Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
 - [Mason363/Tactile](https://github.com/Mason363/Tactile) - A light-weight macOS system wide app for trackpad haptics.
 - [gostonx/uninstally](https://github.com/gostonx/uninstally) - A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.
 - [yuriipalam/codex-status-bar](https://github.com/yuriipalam/codex-status-bar) - A compact macOS menu bar companion for Codex: live status icons, elapsed timers, active and unread sessions, usage indicators, and approval/input alerts.
@@ -6448,6 +6449,7 @@
 
 ## TypeScript 
 
+- [lucas-barake/effect-local](https://github.com/lucas-barake/effect-local) - Frontend-only local-first engine for Effect v4
 - [foldkit/foldkit](https://github.com/foldkit/foldkit) - 
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
 - [revcel/revcel](https://github.com/revcel/revcel) - Your mobile Vercel companion.
