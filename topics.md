@@ -452,7 +452,7 @@
 - [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [runtypelabs/persona](https://github.com/runtypelabs/persona) - Create agentic front-end experiences for the web in VanillaJS™️. Lightweight, extensible, and WebMCP-native.
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with quadrillions of tokens tracked.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [rilldata/rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents.
@@ -640,7 +640,7 @@
 - [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) - Physical controller & multi-surface dashboard for AI coding agents — Stream Deck+, Android, iOS/macOS, ESP32 displays, TUI
 - [agents-txt/agents-txt](https://github.com/agents-txt/agents-txt) - agents.txt is a lightweight, machine-readable capability declaration layer for websites in the agentic web: a protocol-agnostic discovery file that publicly announces what agent-interaction capabiliti
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with quadrillions of tokens tracked.
 - [mvanhorn/agentcookie](https://github.com/mvanhorn/agentcookie) - Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any o
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
@@ -891,7 +891,7 @@
 - [metatypedev/metatype](https://github.com/metatypedev/metatype) - Declarative API development platform. Build backend components with WASM, Typescript and Python, no matter where and how your (legacy) systems are.
 - [karust/openserp](https://github.com/karust/openserp) - Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
 - [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
-- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://codeberg.org/mrus/neonmodem)
+- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://tty.fail/mrus/neonmodem)
 - [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a modern, fair source software licensing and distribution API. For developers, by developers.
 - [6over3/tempo](https://github.com/6over3/tempo) - 🥁 Don't miss a beat. Real-time, end-to-end typesafe APIs.
 - [exa-studio/ApiVault](https://github.com/exa-studio/ApiVault) - Your gateway to a world of public APIs.
@@ -1656,7 +1656,7 @@
 
 ## claude 
 
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with quadrillions of tokens tracked.
 - [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix
 - [viticci/shortcuts-playground-plugin](https://github.com/viticci/shortcuts-playground-plugin) - Shortcuts Playground: A Claude Code and Codex plugin for building, validating, signing, and remixing macOS/iOS Shortcuts with natural language.
 - [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic.
@@ -1689,7 +1689,7 @@
 - [spencermarx/open-code-review](https://github.com/spencermarx/open-code-review) - AI-powered multi-agent code review. Simulates a customizable team of Engineers performing code review with built-in discourse.
 - [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) - Physical controller & multi-surface dashboard for AI coding agents — Stream Deck+, Android, iOS/macOS, ESP32 displays, TUI
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with quadrillions of tokens tracked.
 - [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic.
@@ -1846,7 +1846,7 @@
 - [scaffold-sh/cli](https://github.com/scaffold-sh/cli) - Scaffold is a framework to create a complete AWS infrastructure, defined as code, in seconds.
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
-- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://codeberg.org/mrus/neonmodem)
+- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://tty.fail/mrus/neonmodem)
 - [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required with CLI, TUI, MCP and HTTP support.
 - [mactat/framed](https://github.com/mactat/framed) - Architect your project with Framed: effortless files and directories management
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -2316,7 +2316,7 @@
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [dzfrias/projectable](https://github.com/dzfrias/projectable) - :dizzy: A TUI file manager built for projects
-- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://codeberg.org/mrus/neonmodem)
+- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://tty.fail/mrus/neonmodem)
 - [juan-leon/lowcharts](https://github.com/juan-leon/lowcharts) - Tool to draw low-resolution graphs in terminal
 - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -3570,7 +3570,7 @@
 
 - [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.
 - [us/mocker](https://github.com/us/mocker) - Docker-compatible container CLI built on Apple's Containerization framework. Same commands, same flags — mocker run, ps, stop, build, compose, stats — all working on macOS 26.
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal
+- [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [bysiber/cleardisk](https://github.com/bysiber/cleardisk) - Free macOS menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM, Docker, pip, Cargo). Reclaim disk space instantly.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -4816,7 +4816,7 @@
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI
 - [rilldata/rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents.
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal
+- [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
 - [sumant1122/perfdeck](https://github.com/sumant1122/perfdeck) - 📊 A modern, lightweight, and customizable TUI performance monitor for your terminal. Built with Go and Bubble Tea.
 - [metaspartan/mactop](https://github.com/metaspartan/mactop) - mactop - Apple Silicon Monitor Top
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
@@ -7059,7 +7059,7 @@
 
 ## kubernetes 
 
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal
+- [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 - [kubereboot/kured](https://github.com/kubereboot/kured) - Kubernetes Reboot Daemon
 - [xataio/xata](https://github.com/xataio/xata) - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
@@ -9631,6 +9631,7 @@
 
 ## others 
 
+- [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [Blaizzy/nativ](https://github.com/Blaizzy/nativ) - Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
 - [foldkit/foldkit](https://github.com/foldkit/foldkit) - 
 - [midudev/autoskills](https://github.com/midudev/autoskills) - One command. Your entire AI skill stack. Installed.
@@ -15794,7 +15795,7 @@
 
 ## sqlite 
 
-- [lucas-barake/effect-local](https://github.com/lucas-barake/effect-local) - Frontend-only local-first engine for Effect v4
+- [lucas-barake/effect-local](https://github.com/lucas-barake/effect-local) - Local-first engine for browser and Node replicas built on Effect v4, Automerge, SQLite, and Effect RPC
 - [ilbertt/bun-sqlgen](https://github.com/ilbertt/bun-sqlgen) - Types generator for your Bun.sql queries
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [pointfreeco/sqlite-data](https://github.com/pointfreeco/sqlite-data) - A fast, lightweight replacement for SwiftData, powered by SQL and supporting CloudKit synchronization.
@@ -16242,7 +16243,7 @@
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [Piturnah/gex](https://github.com/Piturnah/gex) - Git Explorer: cross-platform git workflow improvement tool inspired by Magit
 - [dzfrias/projectable](https://github.com/dzfrias/projectable) - :dizzy: A TUI file manager built for projects
-- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://codeberg.org/mrus/neonmodem)
+- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://tty.fail/mrus/neonmodem)
 - [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -16569,7 +16570,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Piturnah/gex](https://github.com/Piturnah/gex) - Git Explorer: cross-platform git workflow improvement tool inspired by Magit
 - [dzfrias/projectable](https://github.com/dzfrias/projectable) - :dizzy: A TUI file manager built for projects
-- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://codeberg.org/mrus/neonmodem)
+- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://tty.fail/mrus/neonmodem)
 - [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
 - [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required with CLI, TUI, MCP and HTTP support.
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
