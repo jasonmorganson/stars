@@ -425,6 +425,7 @@
 - [aprxi/letsbuild-ai](https://github.com/aprxi/letsbuild-ai) - Community-driven platform dedicated to sharing resources, tools, and knowledge for AI enthusiasts and developers
 - [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to the world of Plain Text Accounting.
 - [froala/wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
+- [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/.
@@ -641,18 +642,19 @@
 
 ## Go 
 
+- [Effect-TS/tsgo](https://github.com/Effect-TS/tsgo) - TypeScript-go enhanced with the Effect LSP experience
 - [devsy-org/devsy](https://github.com/devsy-org/devsy) - Deploy devcontainers onto any cloud provider, Kubernetes cluster, and docker.
 - [davesavic/pgsavvy](https://github.com/davesavic/pgsavvy) - The lazygit for PostgreSQL. A vim-style terminal UI for browsing, querying, and editing  your database without leaving the keyboard.
 - [herald-email/herald-mail-app](https://github.com/herald-email/herald-mail-app) - Herald is a terminal email client and inbox cleanup tool with IMAP, AI-assisted triage, MCP tools, and SSH/browser-friendly app modes.
 - [gitsense/gsc-cli](https://github.com/gitsense/gsc-cli) - 
 - [mvanhorn/agentcookie](https://github.com/mvanhorn/agentcookie) - Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any o
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thr
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 - [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI
 - [viggy28/streambed](https://github.com/viggy28/streambed) - Stream Postgres to Apache Iceberg on S3 via logical replication, queryable over the Postgres wire protocol.
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
 - [rilldata/rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents.
-- [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
+- [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
 - [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes
 - [steviee/git-issues](https://github.com/steviee/git-issues) - Repository based Issue Tracker (think Github Issues) for AI Agents
 - [kubereboot/kured](https://github.com/kubereboot/kured) - Kubernetes Reboot Daemon
@@ -854,7 +856,7 @@
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software qua
 - [darwin-containers/rund](https://github.com/darwin-containers/rund) - OCI Container Runtime for Darwin
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
@@ -1641,7 +1643,6 @@
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [mylofi/localfirstweb.dev](https://github.com/mylofi/localfirstweb.dev) - A list of various resources for local-first web development
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
-- [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [pluralsh/plural](https://github.com/pluralsh/plural) - Enterprise Kubernetes management, accelerated. 🚀
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
@@ -1860,6 +1861,7 @@
 
 ## JavaScript 
 
+- [JustSift/ReSift](https://github.com/JustSift/ReSift) - A state management library for data fetches in React
 - [WebReflection/utils](https://github.com/WebReflection/utils) - A collection of utility functions.
 - [pejmanjohn/codex-micro-light](https://github.com/pejmanjohn/codex-micro-light) - 
 - [gitsense/chat](https://github.com/gitsense/chat) - 
@@ -3584,6 +3586,7 @@
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor
 - [lbovet/docson](https://github.com/lbovet/docson) - Documentation for your JSON types
 - [strongloop/loopback](https://github.com/strongloop/loopback) - LoopBack makes it easy to build modern applications that require complex integrations.
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [sapegin/grunt-webfont](https://github.com/sapegin/grunt-webfont) - SVG to webfont converter for Grunt
 - [chieffancypants/angular-hotkeys](https://github.com/chieffancypants/angular-hotkeys) - Configuration-centric keyboard shortcuts for your Angular apps.
 - [mozilla/scanjs](https://github.com/mozilla/scanjs) - [DEPRECATED] Static analysis tool for javascript code.
@@ -4178,7 +4181,7 @@
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [pojala/termipal](https://github.com/pojala/termipal) - Instant, native micro-GUIs for shell scripts and command line apps
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
-- [AppAndFlow/react-native-haptic](https://github.com/AppAndFlow/react-native-haptic) - iOS 10 + haptic feedback for React Native applications
+- [appandflow/react-native-haptic](https://github.com/appandflow/react-native-haptic) - iOS 10 + haptic feedback for React Native applications
 - [spaghetti-/pam-touchid](https://github.com/spaghetti-/pam-touchid) - Pluggable Authentication Module for TouchID enabled MacBooks
 - [MacGapProject/MacGap1](https://github.com/MacGapProject/MacGap1) - Desktop WebKit wrapper for HTML/CSS/JS applications.
 - [RestKit/RestKit](https://github.com/RestKit/RestKit) - RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X
@@ -5147,6 +5150,9 @@
 
 ## Rust 
 
+- [isographlabs/isograph](https://github.com/isographlabs/isograph) - The UI framework for teams that move fast — without breaking things.
+- [compiled-run/oxc-tsrx](https://github.com/compiled-run/oxc-tsrx) - Use TSRX with the full OXC / Vite toolchain
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 - [crabbuild/compass](https://github.com/crabbuild/compass) - Native, local-first knowledge graph engine for code and project artifacts—inspired by Graphify, built in Rust, and evolving beyond it.
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
@@ -5159,7 +5165,7 @@
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX & HTML to SVG or images. 160+ CSS properties supported. Drop-in next/og replacement.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX & HTML to image, SVG or PDF. 170+ CSS properties supported. Drop-in next/og replacement.
 - [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 - [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - Feature-packed TUI note management app inspired by Obsidian
 - [emilien-jegou/oyui](https://github.com/emilien-jegou/oyui) - Modern TUI merge tool and interactive diff editor for Jujutsu (jj) and Git
@@ -6037,7 +6043,7 @@
 - [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
 - [rossmacarthur/install](https://github.com/rossmacarthur/install) - Install a Rust crate from a GitHub release
 - [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
-- [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Generate a theme for git, grep, less and zsh that matches your $LS_COLORS
+- [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Generate a single, coherent theme for ls, git, grep, less and zsh
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [silentbicycle/curlbash](https://github.com/silentbicycle/curlbash) - locally save and checksum/review before curl | bash-ing installers
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
@@ -6192,7 +6198,7 @@
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [tc39/proposal-cancelable-promises](https://github.com/tc39/proposal-cancelable-promises) - Former home of the now-withdrawn cancelable promises proposal for JavaScript
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
-- [ipfs/ipget](https://github.com/ipfs/ipget) - Retrieve files over IPFS and save them locally.
+- [ipfs/ipget](https://github.com/ipfs/ipget) - Retrieve files with  IPFS + Amino DHT and save them locally.
 - [dominictarr/JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [coderofsalvation/ohmygraph](https://github.com/coderofsalvation/ohmygraph) - Easily generate a REST (graph)client from a json api-modelspecification. Like restangular/traverse/backbone/restful but more atheist-style.
 - [coderofsalvation/json-ref-lite](https://github.com/coderofsalvation/json-ref-lite) - Extremely light weight way to resolve jsonschema '$ref' references & inheritance: create circular/graphs, fractals from json (browser/coffeescript/javascript)
@@ -6453,6 +6459,9 @@
 
 ## TypeScript 
 
+- [saiashirwad/effect-grammar](https://github.com/saiashirwad/effect-grammar) - Effect Schema, but for text formats
+- [ln-dev7/circle](https://github.com/ln-dev7/circle) - UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams.
+- [wevm/frog](https://github.com/wevm/frog) - Automated friction logging for agents.
 - [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder) - Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Mic
 - [typeonce-dev/effect-machine](https://github.com/typeonce-dev/effect-machine) - Schema-first state machines and statecharts for Effect
 - [joeychilson/difftree](https://github.com/joeychilson/difftree) - A desktop app for reviewing code and changes made by coding agents.
@@ -6491,7 +6500,7 @@
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn) - Beautiful terminal UI components, built on Ink and OpenTUI. 100% Free, Zero config, one command setup.
-- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
+- [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [better-auth/agent-auth-protocol](https://github.com/better-auth/agent-auth-protocol) - 
 - [haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk) - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
 - [edihasaj/universal-memory-protocol](https://github.com/edihasaj/universal-memory-protocol) - Universal Memory Protocol (UMP) - an open standard for agent memory. The third interop layer beside MCP (tools) and A2A (coordination).
@@ -6730,7 +6739,7 @@
 - [ricky0123/vad](https://github.com/ricky0123/vad) - Voice activity detector (VAD) for the browser with a simple API
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [n1ru4l/graphql-live-query](https://github.com/n1ru4l/graphql-live-query) - Realtime GraphQL Live Queries with JavaScript
-- [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
+- [dockview/dockview](https://github.com/dockview/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 - [makerkit/nextjs-saas-starter-kit-lite](https://github.com/makerkit/nextjs-saas-starter-kit-lite) - Lite version of the Makerkit SaaS Starter Kit based on Next.js and Supabase
@@ -6857,7 +6866,7 @@
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [browserbase/js-sdk](https://github.com/browserbase/js-sdk) - Deprecated Node.js SDK for Browserbase
 - [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Universal Mastodon API client for JavaScript
 - [react-auth-kit/react-auth-kit](https://github.com/react-auth-kit/react-auth-kit) - Powerful Auth Management library for ReactJs-based applications
@@ -7657,7 +7666,7 @@
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [reactive/data-client](https://github.com/reactive/data-client) - Async State Management without the Management. REST, GraphQL, SSE, Websockets
 - [google/vscode-bigquery](https://github.com/google/vscode-bigquery) - A Visual Studio Code plugin for running BigQuery queries.
-- [unix/func](https://github.com/unix/func) - Tiny typed CLI framework
+- [unix/func](https://github.com/unix/func) - Build CLIs like TypeScript applications.
 - [microsoft/redux-dynamic-modules](https://github.com/microsoft/redux-dynamic-modules) - Modularize Redux by dynamically loading reducers and middlewares.
 - [jscomplete/graphql-makers](https://github.com/jscomplete/graphql-makers) - Functions to make GraphQL types based on schema-language definitions.
 - [graphql-query-rewriter/core](https://github.com/graphql-query-rewriter/core) - Seamlessly turn breaking GraphQL changes into non-breaking changes
