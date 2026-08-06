@@ -750,7 +750,7 @@
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 - [metriql/metriql](https://github.com/metriql/metriql) - The metrics layer for your data. Join us at https://metriql.com/slack
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
@@ -784,7 +784,7 @@
 ## android 
 
 - [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) - Physical controller & multi-surface dashboard for AI coding agents — Stream Deck+, Android, iOS/macOS, ESP32 displays, TUI
-- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes) - 📱 A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
 - [divvun/kbdgen](https://github.com/divvun/kbdgen) - The next iteration of a Rust keyboard layout generator
@@ -929,6 +929,7 @@
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
 - [antoinechalifour/memento](https://github.com/antoinechalifour/memento) - Memento is a development-only tool that caches HTTP calls once they have been executed.
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
+- [microlinkhq/async-ratelimiter](https://github.com/microlinkhq/async-ratelimiter) - Simple async rate limiter for Node.js — promise-friendly limits for APIs and workers.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [aiden/rpc_ts](https://github.com/aiden/rpc_ts) - Remote Procedure Calls in TypeScript made simple 🤞
 - [ehmicky/autoserver](https://github.com/ehmicky/autoserver) - Create a full-featured REST/GraphQL API from a configuration file
@@ -1171,7 +1172,7 @@
 
 ## aws 
 
-- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
+- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - Powerful open-source CLI to audit security, costs, and best practices in AWS. 🩺 ☁️
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS
 - [unstubbable/mfng](https://github.com/unstubbable/mfng) - A Minimal React Server Components Bundler & Library
@@ -1687,6 +1688,7 @@
 - [MCP-Club/mcpm](https://github.com/MCP-Club/mcpm) - A command-line tool for managing MCP servers in Claude App. Also can run a MCP Server to help you manage all your MCP Servers
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [Toolbase-AI/toolbase](https://github.com/Toolbase-AI/toolbase) - A desktop application that adds powerful tools to Claude and AI platforms
+- [phasehq/console](https://github.com/phasehq/console) - Secrets management for teams and AI agents.
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm) - 🦙 Integrating LLMs into structured NLP pipelines
@@ -1721,6 +1723,7 @@
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [instavm/coderunner](https://github.com/instavm/coderunner) - A local sandbox for your AI agents
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
+- [phasehq/console](https://github.com/phasehq/console) - Secrets management for teams and AI agents.
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - The Context Layer for unstructured data: typed, versioned datasets over S3, GCS, Azure
 - [rvcas/room](https://github.com/rvcas/room) - A Zellij plugin for quickly searching and switching tabs 🖤
@@ -1730,6 +1733,7 @@
 
 ## cli 
 
+- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
@@ -3264,6 +3268,7 @@
 
 ## developer-tools 
 
+- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [crabbuild/compass](https://github.com/crabbuild/compass) - Native, local-first knowledge graph engine for code and project artifacts—inspired by Graphify, built in Rust, and evolving beyond it.
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
 - [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Open-source secret & environment management. Secure, simple, collaborative. CLI & Github Sync
@@ -3436,7 +3441,7 @@
 - [hyprmcp/mcp-gateway](https://github.com/hyprmcp/mcp-gateway) - MCP OAuth Proxy incl. dynamic client registration (DCR), MCP prompt analytics and MCP firewall to build enterprise grade MCP servers.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.
-- [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
+- [phasehq/console](https://github.com/phasehq/console) - Secrets management for teams and AI agents.
 - [holos-run/holos](https://github.com/holos-run/holos) - Holistic platform manager
 - [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network.
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
@@ -3573,7 +3578,7 @@
 
 ## django 
 
-- [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
+- [phasehq/console](https://github.com/phasehq/console) - Secrets management for teams and AI agents.
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
@@ -3591,7 +3596,7 @@
 - [us/mocker](https://github.com/us/mocker) - Docker-compatible container CLI built on Apple's Containerization framework. Same commands, same flags — mocker run, ps, stop, build, compose, stats — all working on macOS 26.
 - [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client.
-- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
+- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [bysiber/cleardisk](https://github.com/bysiber/cleardisk) - Free macOS menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM, Docker, pip, Cargo). Reclaim disk space instantly.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [aweris/gale](https://github.com/aweris/gale) - GitHub Action Local Executor
@@ -3606,7 +3611,7 @@
 - [kernel/kernel-images](https://github.com/kernel/kernel-images) - Browsers-as-a-service for automations and web agents
 - [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
-- [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
+- [phasehq/console](https://github.com/phasehq/console) - Secrets management for teams and AI agents.
 - [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network.
 - [bradschwartz/docker-credential-ghcr-login](https://github.com/bradschwartz/docker-credential-ghcr-login) - Automagically auth to GitHub Container Registry via docker credential helper
 - [panoratech/Panora](https://github.com/panoratech/Panora) - Open-Sourcing the integration engine our platform runs on
@@ -3990,7 +3995,7 @@
 
 ## emulator 
 
-- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
+- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -4372,6 +4377,7 @@
 
 ## git 
 
+- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
 - [emilien-jegou/oyui](https://github.com/emilien-jegou/oyui) - Modern TUI merge tool and interactive diff editor for Jujutsu (jj) and Git
 - [lararosekelley/git-stk](https://github.com/lararosekelley/git-stk) - Git-native stacked branch workflow helper, with GitHub, GitLab, and Gitea integration
@@ -4581,6 +4587,7 @@
 - [evryfs/github-actions-runner-operator](https://github.com/evryfs/github-actions-runner-operator) - K8S operator for scheduling github actions runner pods
 - [unfor19/githubsecrets](https://github.com/unfor19/githubsecrets) - Manage your GitHub Actions secrets with a simple CLI
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
+- [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [mszostok/codeowners-validator](https://github.com/mszostok/codeowners-validator) - The GitHub CODEOWNERS file validator
 - [remorses/actions-cli](https://github.com/remorses/actions-cli) - Monitor your GitHub Actions in real time from the command line
@@ -4637,7 +4644,7 @@
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - Powerful open-source CLI to audit security, costs, and best practices in AWS. 🩺 ☁️
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and headless API.
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding, CLI and headless API.
 - [TimoKats/emmer](https://github.com/TimoKats/emmer) - Self-hosted API for creating and querying JSON data on different storage providers.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [VincenzoManto/Datacmd](https://github.com/VincenzoManto/Datacmd) - Datacmd is the fastest, coolest way to turn raw data into stunning terminal dashboards. No setup, no fluff — just run a command and boom, your CSV or API becomes a live data experience. ⚡ CLI dashboar
@@ -5159,7 +5166,7 @@
 
 - [isographlabs/isograph](https://github.com/isographlabs/isograph) - The UI framework for teams that move fast — without breaking things.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and headless API.
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding, CLI and headless API.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [n1ru4l/graphql-live-query](https://github.com/n1ru4l/graphql-live-query) - Realtime GraphQL Live Queries with JavaScript
@@ -5707,7 +5714,6 @@
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
-- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
@@ -5845,6 +5851,7 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
+- [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Scrape metadata from any URL using Open Graph, JSON-LD, HTML meta tags, and smart fallbacks.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [webslides/WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
@@ -5984,6 +5991,7 @@
 ## instagram 
 
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+- [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 
 ## ios 
@@ -5991,7 +5999,7 @@
 - [TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer) - Player for your DRM-free audiobooks
 - [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
 - [viticci/shortcuts-playground-plugin](https://github.com/viticci/shortcuts-playground-plugin) - Shortcuts Playground: A Claude Code and Codex plugin for building, validating, signing, and remixing macOS/iOS Shortcuts with natural language.
-- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [MightyDillah/apple-doc-mcp](https://github.com/MightyDillah/apple-doc-mcp) - MCP server providing seamless access to Apple Developer Documentation with smart search and wildcard support
@@ -7945,7 +7953,7 @@
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [Lcharvol/MacSift](https://github.com/Lcharvol/MacSift) - Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe.
 - [kamjin3086/AppUninstaller](https://github.com/kamjin3086/AppUninstaller) - A lightweight, native macOS app uninstaller with drag-and-drop support. Built with Swift and SwiftUI.
-- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
@@ -8688,7 +8696,6 @@
 - [trycompai/comp](https://github.com/trycompai/comp) - AI Native platform to get companies compliant - Vanta & Drata Alternative
 - [zanreal-labs/nemo](https://github.com/zanreal-labs/nemo) - Missing polyfill for multiple next.js middlewares
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
-- [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [tommyjepsen/twblocks](https://github.com/tommyjepsen/twblocks) - Website blocks to copy/paste - based on shadcn & Radix using Tailwind and NextJS
 - [next-safe-action/next-safe-action](https://github.com/next-safe-action/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
@@ -9117,7 +9124,6 @@
 - [lirantal/npq](https://github.com/lirantal/npq) - safely install npm packages by auditing them pre-install stage
 - [typegoose/typegoose](https://github.com/typegoose/typegoose) - Typegoose - Define Mongoose models using TypeScript classes.
 - [only-cliches/Nano-SQL](https://github.com/only-cliches/Nano-SQL) - Universal database layer for the client, server & mobile devices. It's like Lego for databases.
-- [microlinkhq/async-ratelimiter](https://github.com/microlinkhq/async-ratelimiter) - Rate limit made simple, easy, async.
 - [craigmulligan/js-fire](https://github.com/craigmulligan/js-fire) - A javascript clone of google/python-fire 🔥
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a file, stream, or data
@@ -9486,7 +9492,7 @@
 - [nexu-io/html-video](https://github.com/nexu-io/html-video) - Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An
 - [watzon/pindrop](https://github.com/watzon/pindrop) - A native macOS menu bar dictation app using local speech-to-text with WhisperKit
 - [jal-co/shieldcn](https://github.com/jal-co/shieldcn) - Beautiful README badges, inspired by shields.io and styled like shadcn/ui.
-- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
+- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [Auto-Explore/GitComet](https://github.com/Auto-Explore/GitComet) - GitComet is fastest open source user interface for GIT workflows
 - [NikitaDmitrieff/auto-co-meta](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI Company OS — 14 AI agents loop 24/7, ship real software
 - [wacht-platform/platform](https://github.com/wacht-platform/platform) - Ship product, not plumbing. Open source framework for AI-first SaaS — identity, OAuth, API auth, webhooks, notifications, and agents in one stack.
@@ -9503,7 +9509,7 @@
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems.
 - [langfuse/oss-llmops-stack](https://github.com/langfuse/oss-llmops-stack) - Modular, open source LLMOps stack that separates concerns: LiteLLM unifies LLM APIs, manages routing and cost controls, and ensures high-availability, while Langfuse focuses on detailed observability,
-- [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
+- [phasehq/console](https://github.com/phasehq/console) - Secrets management for teams and AI agents.
 - [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - Agenta is a workspace where you and your team build agents and automations.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [panoratech/Panora](https://github.com/panoratech/Panora) - Open-Sourcing the integration engine our platform runs on
@@ -10809,7 +10815,6 @@
 - [humanwhocodes/env](https://github.com/humanwhocodes/env) - A utility for verifying environment variables are present
 - [immuta/singer-container-utils](https://github.com/immuta/singer-container-utils) - Utility classes for running Singer taps and targets in containers.
 - [sampointer/digg](https://github.com/sampointer/digg) - Look up region and other information for any Google IP address
-- [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [01e9/github-actions-runner](https://github.com/01e9/github-actions-runner) - I don't use it anymore, don't know if it still works
 - [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
@@ -10996,7 +11001,6 @@
 - [algolia/places](https://github.com/algolia/places) - :globe_with_meridians: Turn any &lt;input&gt; into an address autocomplete
 - [zachleat/speedlify](https://github.com/zachleat/speedlify) - Benchmark the web performance and accessibility of sites over time.
 - [vercel/nft](https://github.com/vercel/nft) - Node.js dependency tracing utility
-- [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [EnterpriseDB/system_stats](https://github.com/EnterpriseDB/system_stats) - A Postgres extension for exposing system metrics such as CPU, memory and disk information
 - [Canop/whalespotter](https://github.com/Canop/whalespotter) - Find those big fat files and folders
 - [scmbreeze/scm_breeze](https://github.com/scmbreeze/scm_breeze) - Adds numbered shortcuts to the output git status, and much more
@@ -13551,7 +13555,7 @@
 
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [can1357/pon](https://github.com/can1357/pon) - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.
-- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
+- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [capsulerun/capsule](https://github.com/capsulerun/capsule) - Secure runtime to sandbox AI agent tasks. Run untrusted code in isolated WebAssembly environments.
 - [hirsimaki-markus/seapie](https://github.com/hirsimaki-markus/seapie) - A breakpoint should just mean &gt;&gt;&gt;
 - [qodex-ai/apimesh](https://github.com/qodex-ai/apimesh) - Auto-generate OpenAPI 3.0 specs + interactive HTML API UI from your codebase — in seconds.
@@ -13563,7 +13567,6 @@
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Database-Backed Durable Python Workflows
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
-- [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
 - [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Python wrapper for the Codegen API - run code agents at scale
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -13961,7 +13964,6 @@
 - [sadmann7/diceui](https://github.com/sadmann7/diceui) - Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
 - [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes) - 📱 A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
-- [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
 - [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - A peer-to-peer database that spans devices. For apps and agents that work everywhere.
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [Abdo-reda/react-email-vscode-extension](https://github.com/Abdo-reda/react-email-vscode-extension) - React Email Renderer VSCode Extension
@@ -14697,7 +14699,7 @@
 
 ## rest-api 
 
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and headless API.
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding, CLI and headless API.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [alien-rpc/alien-rpc](https://github.com/alien-rpc/alien-rpc) - Type-safe RPC with generated runtime validation, REST semantics, websockets, and json-seq streams
 - [howerest/sdkzer](https://github.com/howerest/sdkzer) - Build a Javascript SDK for your REST api as if it was an ORM
@@ -14783,6 +14785,7 @@
 
 ## rust 
 
+- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [can1357/pon](https://github.com/can1357/pon) - Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.
 - [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
@@ -15233,7 +15236,7 @@
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
 - [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
-- [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
+- [phasehq/console](https://github.com/phasehq/console) - Secrets management for teams and AI agents.
 - [PierreBeucher/novops](https://github.com/PierreBeucher/novops) - Cross-platform secret & config manager for development and CI environments
 - [hoophq/hoop](https://github.com/hoophq/hoop) - One gateway in front of every protocol. Same policy across MCP, LLMs, databases and containers. Wire-level enforcement at under 5ms.
 - [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git
@@ -15340,7 +15343,7 @@
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [mcp-shark/mcp-shark](https://github.com/mcp-shark/mcp-shark) - Wireshark-like forensic analysis for Model Context Protocol communications  Capture, inspect, and investigate all HTTP requests and responses between your IDE and MCP servers
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
-- [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
+- [phasehq/console](https://github.com/phasehq/console) - Secrets management for teams and AI agents.
 - [PierreBeucher/novops](https://github.com/PierreBeucher/novops) - Cross-platform secret & config manager for development and CI environments
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup massive amounts of org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
@@ -15928,7 +15931,7 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) - GitHub Action for advanced repository traffic analysis and reporting
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
 - [juan-leon/lowcharts](https://github.com/juan-leon/lowcharts) - Tool to draw low-resolution graphs in terminal
 - [scale8/scale8-tag-manager-and-analytics](https://github.com/scale8/scale8-tag-manager-and-analytics) - Website analytics, JavaScript error tracking + analytics, tag manager, data ingest endpoint creation (tracking pixels). GDPR + CCPA compliant.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
@@ -16232,6 +16235,7 @@
 
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
+- [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery. Just vanilla JS
 
@@ -16254,6 +16258,7 @@
 
 ## terminal 
 
+- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.
@@ -16441,7 +16446,7 @@
 
 ## terraform 
 
-- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
+- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [pgplex/pgschema](https://github.com/pgplex/pgschema) - Terraform-style, declarative Postgres schema migration. Agent friendly.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
@@ -16476,7 +16481,7 @@
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [oblador/sovra](https://github.com/oblador/sovra) - 🤏 Rust-based Test Decider for JavaScript using Oxc
 - [baz-scm/baz-cli](https://github.com/baz-scm/baz-cli) - CLI for AI-assisted manual code review
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and headless API.
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding, CLI and headless API.
 - [vitalets/playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner
 - [gurvinder-dhillon/auto-browse-ts](https://github.com/gurvinder-dhillon/auto-browse-ts) - Auto-Browse: AI Enabled Browser Automation
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
@@ -16577,6 +16582,7 @@
 
 ## tui 
 
+- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.
@@ -16605,7 +16611,7 @@
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
 - [danimelchor/todui](https://github.com/danimelchor/todui) - A TUI for your todos built in Rust with full CLI support.
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and headless API.
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding, CLI and headless API.
 - [markmarkoh/lt](https://github.com/markmarkoh/lt) - An unofficial TUI application to view & interact with Linear.app issues
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
@@ -16687,13 +16693,13 @@
 ## twitter 
 
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+- [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [lipp/login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery. Just vanilla JS
 
 ## typescript 
 
 - [saiashirwad/effect-grammar](https://github.com/saiashirwad/effect-grammar) - Effect Schema, but for text formats
-- [joeychilson/difftree](https://github.com/joeychilson/difftree) - A desktop app for reviewing code and changes made by coding agents.
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [crbnos/carbon](https://github.com/crbnos/carbon) - Carbon is an open source ERP, MES and QMS for manufacturing. Perfect for complex assembly, contract manufacturing, and configure to order manufacturing.
 - [HugoRCD/evlog](https://github.com/HugoRCD/evlog) - Digging through logs is not observability. It's hope — wide events, structured errors, TypeScript-first, every runtime.
@@ -16710,7 +16716,7 @@
 - [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
-- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client.
 - [photon-hq/spectrum-ts](https://github.com/photon-hq/spectrum-ts) - Bring agents to any interfaces
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
@@ -16758,7 +16764,6 @@
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
 - [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes) - 📱 A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
-- [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
 - [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - A peer-to-peer database that spans devices. For apps and agents that work everywhere.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
@@ -17783,7 +17788,7 @@
 
 ## windows 
 
-- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
 - [ShaftUI/Shaft](https://github.com/ShaftUI/Shaft) - A cross-platform GUI framework for Swift, built for demanding workloads and developer ergonomics
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
@@ -17927,6 +17932,7 @@
 - [mxpv/podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist) - Easily take an entire YouTube playlist and turn it into high quality transcripts using Whisper.
+- [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
 
 ## zig 
