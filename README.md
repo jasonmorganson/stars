@@ -641,6 +641,7 @@
 
 ## Go 
 
+- [canyonroad/agentsh](https://github.com/canyonroad/agentsh) - Execution-Layer Security (ELS) for AI agents — policy-enforced shell with audit.
 - [Effect-TS/tsgo](https://github.com/Effect-TS/tsgo) - TypeScript-go enhanced with the Effect LSP experience
 - [devsy-org/devsy](https://github.com/devsy-org/devsy) - Deploy devcontainers onto any cloud provider, Kubernetes cluster, and docker.
 - [davesavic/pgsavvy](https://github.com/davesavic/pgsavvy) - The lazygit for PostgreSQL. A vim-style terminal UI for browsing, querying, and editing  your database without leaving the keyboard.
@@ -910,7 +911,7 @@
 - [sideshow/apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
 - [mactat/framed](https://github.com/mactat/framed) - Architect your project with Framed: effortless files and directories management
 - [groundcover-com/cli](https://github.com/groundcover-com/cli) - groundcover's official CLI tool.  Level up your K8s observability game with eBPF.
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+- [wader/fq](https://github.com/wader/fq) - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 - [hickford/git-credential-oauth](https://github.com/hickford/git-credential-oauth) - A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth.
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [ariga/atlas](https://github.com/ariga/atlas) - Declarative schema migrations with schema-as-code workflows
@@ -2827,7 +2828,7 @@
 - [oncode/handorgel](https://github.com/oncode/handorgel) - Accessible W3C conform accordion written in ES6.
 - [jdobosz/testcafe-browser-provider-puppeteer](https://github.com/jdobosz/testcafe-browser-provider-puppeteer) - This is the puppeteer browser provider plugin for testcafe
 - [scleveland/google-form-to-slack](https://github.com/scleveland/google-form-to-slack) - Post to Slack on google form submission
-- [headmelted/codebuilds](https://github.com/headmelted/codebuilds) - Community builds of Visual Studio Code for Chromebooks and Raspberry Pi
+- [coderbants/codebuilds](https://github.com/coderbants/codebuilds) - Community builds of Visual Studio Code for Chromebooks and Raspberry Pi
 - [sematext/logagent-js](https://github.com/sematext/logagent-js) - Extensible log shipper with input/output plugins, buffering, parsing, data masking, and small memory/CPU footprint
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [HVF/franchise](https://github.com/HVF/franchise) - 🍟 a notebook sql client. what you get when have a lot of sequels.
@@ -4646,6 +4647,7 @@
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
+- [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
@@ -5145,6 +5147,7 @@
 
 ## Rust 
 
+- [CodSpeedHQ/codspeed](https://github.com/CodSpeedHQ/codspeed) - CodSpeed is the all-in-one performance testing toolkit. Optimize code performance and catch regressions early.
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [tothalex/drift](https://github.com/tothalex/drift) - Review your working changes like a pull request — in the terminal. Block-scoped live diffs, GitHub/GitLab PR review, and send-to-AI-agent.
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
@@ -5164,7 +5167,7 @@
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX & HTML to image, SVG or PDF. 170+ CSS properties supported. Drop-in next/og replacement.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render OG images and paged PDFs from JSX, HTML, and CSS. No headless browser. Runs on Node.js, Cloudflare Workers, browsers, and Rust.
 - [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 - [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - Feature-packed TUI note management app inspired by Obsidian
 - [emilien-jegou/oyui](https://github.com/emilien-jegou/oyui) - Modern TUI merge tool and interactive diff editor for Jujutsu (jj) and Git
@@ -6458,6 +6461,8 @@
 
 ## TypeScript 
 
+- [caiopizzol/moor](https://github.com/caiopizzol/moor) - Self-hosted Docker management - like Coolify, but simpler
+- [mac-monet/effect-domain](https://github.com/mac-monet/effect-domain) - Effect-native single source of truth for your API
 - [gajus/zod-compiler](https://github.com/gajus/zod-compiler) - Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack, esbuild, Rollup, etc
 - [vercel-labs/github-tools](https://github.com/vercel-labs/github-tools) - GitHub tools and agents for the Vercel AI SDK, wrap GitHub's API as AI SDK tools ready to plug into any agent
 - [saiashirwad/effect-grammar](https://github.com/saiashirwad/effect-grammar) - Effect Schema, but for text formats
@@ -7040,7 +7045,6 @@
 - [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs
 - [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Convert your data to Markdown files you can use in Obsidian. Works with Apple Notes, OneNote, Evernote, Notion, Google Keep, and many other formats.
 - [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
-- [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 - [react-figma/react-figma](https://github.com/react-figma/react-figma) - ⚛️ A React renderer for Figma
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
