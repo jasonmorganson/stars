@@ -4589,6 +4589,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [NVIDIA/NeMo-Retriever](https://github.com/NVIDIA/NeMo-Retriever) - NeMo Retriever Library is a scalable, performance-oriented document content and metadata extraction microservice. NeMo Retriever Library uses specialized NVIDIA NIM microservices to find, contextualiz
 - [nottelabs/notte](https://github.com/nottelabs/notte) - Best cloud browser infrastructure and web automation platform for your AI (Coding) agents!
+- [ungoogled-software/ungoogled-chromium-macos](https://github.com/ungoogled-software/ungoogled-chromium-macos) - macOS packaging for ungoogled-chromium
 - [nhtlongcs/StarListify](https://github.com/nhtlongcs/StarListify) - StarListify is a Python package that classifies GitHub stars history into organized category lists based on user-defined criteria.
 - [ryanwithawhy/melchi](https://github.com/ryanwithawhy/melchi) - 
 - [duckdb/dbt-duckdb](https://github.com/duckdb/dbt-duckdb) - dbt adapter for DuckDB
@@ -5144,7 +5145,8 @@
 
 ## Rust 
 
-- [automic-vault/automic-vault](https://github.com/automic-vault/automic-vault) - Your secrets manager should know what the secrets *do*.
+- [andyhmltn/critter](https://github.com/andyhmltn/critter) - 🐛 A TUI for reviewing via github
+- [automic-vault/automic-vault](https://github.com/automic-vault/automic-vault) - Your secrets manager should know what the secrets *do*
 - [lukeed/lane](https://github.com/lukeed/lane) - Copy-on-write worktrees with memory that survives them
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [pgrundev/pgterm](https://github.com/pgrundev/pgterm) - Postgres Terminal
@@ -5994,10 +5996,9 @@
 - [release-lab/install](https://github.com/release-lab/install) - install script for any command line tools
 - [dmayboroda/unreal-git-hook](https://github.com/dmayboroda/unreal-git-hook) - Mix of git-hook and Unreal Tournament announcer
 - [sdf-labs/sdf-cli](https://github.com/sdf-labs/sdf-cli) - This is the main repository for SDF documentation found at docs.sdf.com, as well as public schemas, benchmarks, and examples
-- [ungoogled-software/ungoogled-chromium-macos](https://github.com/ungoogled-software/ungoogled-chromium-macos) - macOS packaging for ungoogled-chromium
 - [apache/openserverless](https://github.com/apache/openserverless) - Apache OpenServerless (incubating)
 - [cozystack/cozystack](https://github.com/cozystack/cozystack) - Cozystack: Free Cloud Platform based on Kubernetes
-- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
+- [omacom/omakub](https://github.com/omacom/omakub) - Retired — the story lives at https://omarchy.org/omakub, the thread continues at https://omabuntu.omakasui.org
 - [syncliteio/SyncLite](https://github.com/syncliteio/SyncLite) - SyncLite : Build Anything Sync Anywhere
 - [vercel/opentelemetry-collector-dev-setup](https://github.com/vercel/opentelemetry-collector-dev-setup) - 
 - [simonthum/git-sync](https://github.com/simonthum/git-sync) - Safe and simple one-script git synchronization
@@ -6026,7 +6027,7 @@
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [santiago-mooser/yubikey-provisioning-scripts](https://github.com/santiago-mooser/yubikey-provisioning-scripts) - A set of scripts to automatically set up your yubikey's openPGP applet.
 - [n8n-io/bash-dash](https://github.com/n8n-io/bash-dash) - (Slash)Dash-Commands for the terminal
-- [z-shell/zi](https://github.com/z-shell/zi) - ✨ A Swiss Army Knife for Zsh - Unix Shell
+- [z-shell/zi](https://github.com/z-shell/zi) - ✨ A high-performance plugin manager and toolkit for Zsh.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [fulll/github](https://github.com/fulll/github) - An (unofficial) Github command line client (based on Api V3) :octocat:
 - [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
@@ -6059,7 +6060,7 @@
 - [calogica/dbt-date](https://github.com/calogica/dbt-date) - Date-related macros for dbt
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [mjirv/dbt-datamocktool](https://github.com/mjirv/dbt-datamocktool) - A dbt package for unit testing your SQL analytics models
-- [client9/shlib](https://github.com/client9/shlib) - generate `curl | sh` installers, and portable shell functions
+- [client9/shlib](https://github.com/client9/shlib) - generate a `curl | sh` installer for 30+ target platforms
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [denvaar/pgdiff](https://github.com/denvaar/pgdiff) - Compare what data changed between two points in time
@@ -6272,7 +6273,7 @@
 
 ## Swift 
 
-- [andrew-waters/orchard](https://github.com/andrew-waters/orchard) - A GUI for Apple Containers, (o)MLX and k8s, written in swift as a replacement for docker desktop
+- [andrew-waters/orchard](https://github.com/andrew-waters/orchard) - A UI for Apple Containers, (o)MLX and k8s, written in swift as a replacement for docker desktop
 - [nmrtn/nanopm](https://github.com/nmrtn/nanopm) - Autonomous product management. Always-on, adversarial, doesn't sugarcoat.
 - [TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer) - Player for your DRM-free audiobooks
 - [mxcl/package-manager-manager](https://github.com/mxcl/package-manager-manager) - How many Packages would a Package Manager manage if a Package Manager could manage Package Managers?
@@ -6470,6 +6471,10 @@
 
 ## TypeScript 
 
+- [mswjs/data](https://github.com/mswjs/data) - Data querying library for testing JavaScript applications.
+- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
+- [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
+- [humanlayer/effect-machine](https://github.com/humanlayer/effect-machine) - Schema-first state machines for Effect. Define once, derive everywhere, break nothing.
 - [TeamSpringbird/effect-temporal](https://github.com/TeamSpringbird/effect-temporal) - Author workflows with Effect — schemas, typed errors, composition — and run them on Temporal's retries, timers, signals, and history.
 - [tellahq/opensession](https://github.com/tellahq/opensession) - 
 - [Marve10s/awesome-effect](https://github.com/Marve10s/awesome-effect) - Libraries, tools, apps, and learning material for Effect, the TypeScript library
