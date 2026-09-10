@@ -155,7 +155,7 @@
 - [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [moonlight-stream/moonlight-ios](https://github.com/moonlight-stream/moonlight-ios) - GameStream client for iOS/tvOS
-- [powersync-ja/powersync-sqlite-core](https://github.com/powersync-ja/powersync-sqlite-core) - PowerSync SQLite Extension
+- [powersync-ja/powersync-sqlite-core](https://github.com/powersync-ja/powersync-sqlite-core) - PowerSync SQLite core extension
 - [deadbeefsociety/sshfs](https://github.com/deadbeefsociety/sshfs) - A network filesystem client to connect to SSH servers
 - [plv8/pljs](https://github.com/plv8/pljs) - PLJS - Javascript Language Plugin for PostgreSQL
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
@@ -671,7 +671,7 @@
 - [micasa-dev/micasa](https://github.com/micasa-dev/micasa) - A modal TUI for tracking home projects, maintenance schedules, appliances, and vendor quotes.
 - [trzsz/tsshd](https://github.com/trzsz/tsshd) - tsshd is a UDP-based SSH server built for unreliable networks. It supports seamless roaming across networks and IP changes, and works well on high-latency links such as cellular connections and unstab
 - [apache/casbin](https://github.com/apache/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC.
-- [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git mergetool vim-like workflow
+- [chojs23/ec](https://github.com/chojs23/ec) - Terminal-native 3-way git mergetool and diff viewer
 - [knowns-dev/knowns](https://github.com/knowns-dev/knowns) - The memory layer for AI-native development - giving AI persistent understanding of your software projects.
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB
@@ -3258,7 +3258,7 @@
 - [alexisvincent/systemjs-hot-reloader](https://github.com/alexisvincent/systemjs-hot-reloader) - reloads your modules as needed so that you can have satisfyingly fast feedback loop when developing your app
 - [ekosz/redux-falcor](https://github.com/ekosz/redux-falcor) - Connect your redux front-end to your falcor back-end
 - [WebReflection/url-search-params](https://github.com/WebReflection/url-search-params) - Simple polyfill for URLSearchParams standard
-- [royalicing/flambeau](https://github.com/royalicing/flambeau) - Opinionated Redux additions: declarative, pleasant action creators, reducer encapsulation, async support
+- [patrickgwsmith/flambeau](https://github.com/patrickgwsmith/flambeau) - Opinionated Redux additions: declarative, pleasant action creators, reducer encapsulation, async support
 - [samccone/The-cost-of-transpiling-es2015-in-2016](https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016) - Investigating the overhead cost of compiled es2015
 - [SpoonX/aurelia-orm](https://github.com/SpoonX/aurelia-orm) - Makes working with entities and calling your Rest API simple.
 - [Idnan/furnish-js](https://github.com/Idnan/furnish-js) - Let the classes on DOM elements generate the CSS for you.
@@ -4014,7 +4014,7 @@
 ## Jupyter Notebook 
 
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
-- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
+- [metainternal/llama-cookbook](https://github.com/metainternal/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 - [buremba/universql](https://github.com/buremba/universql) - Pushdown compute from Snowflake to DuckDB running on your infrastructure
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
@@ -6480,6 +6480,7 @@
 
 ## TypeScript 
 
+- [bidyut10/opensourceui](https://github.com/bidyut10/opensourceui) - Opensource UI: Free, open-source, and production-ready components for React and Next.js. Powered by TypeScript, Tailwind CSS, and lucide icons
 - [d3lm/pr-stats](https://github.com/d3lm/pr-stats) - An interactive terminal UI, built with OpenTUI and React, that shows statistics for a GitHub user, e.g., time to review, size of authored PRs, comments, and more.
 - [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations,
 - [julia-script/silk](https://github.com/julia-script/silk) - 
@@ -6990,7 +6991,7 @@
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
-- [powersync-ja/powersync-js](https://github.com/powersync-ja/powersync-js) - SDK that enables local-first and real-time reactive apps with embedded SQLite for JavaScript clients, including React Native and Web
+- [powersync-ja/powersync-js](https://github.com/powersync-ja/powersync-js) - PowerSync client SDKs for JavaScript clients
 - [microsoft/griffel](https://github.com/microsoft/griffel) - CSS-in-JS with ahead-of-time compilation ⚡️
 - [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
