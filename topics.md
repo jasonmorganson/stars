@@ -424,7 +424,7 @@
 - [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Python wrapper for the Codegen API - run code agents at scale
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [mattt/emcee](https://github.com/mattt/emcee) - MCP generator for OpenAPIs 🫳🎤💥
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
@@ -538,7 +538,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [inferablehq/inferable](https://github.com/inferablehq/inferable) - Build reliable AI Workflows and Agents with humans in the loop, structured outputs and durable execution.
 - [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [nottelabs/notte](https://github.com/nottelabs/notte) - Cloud browser infrastructure and web automation platform for your AI and coding agents
@@ -564,7 +564,7 @@
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) - The agent framework where every run is durable, replayable, and resumable by default.
@@ -702,6 +702,7 @@
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - Agenta is a workspace where you and your team build agents and automations.
 - [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - The Context Layer for unstructured data: typed, versioned datasets over S3, GCS, Azure
 - [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
@@ -709,7 +710,7 @@
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [metaskills/experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
 - [SugarAI-HQ/CopilotOne](https://github.com/SugarAI-HQ/CopilotOne) - Add Siri like Native AI Agents in you App.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -1059,6 +1060,7 @@
 - [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent
 - [gurvinder-dhillon/auto-browse-ts](https://github.com/gurvinder-dhillon/auto-browse-ts) - Auto-Browse: AI Enabled Browser Automation
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [nottelabs/notte](https://github.com/nottelabs/notte) - Cloud browser infrastructure and web automation platform for your AI and coding agents
 - [rohanarun/Open-Agent-Studio](https://github.com/rohanarun/Open-Agent-Studio) - 
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
@@ -2608,7 +2610,7 @@
 
 - [lightfeed/extractor](https://github.com/lightfeed/extractor) - Use LLMs to robustly extract web data
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [fooock/robots.txt](https://github.com/fooock/robots.txt) - :robot: robots.txt as a service. Crawls robots.txt files, downloads and parses them to check rules through an API
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -4032,7 +4034,6 @@
 
 - [explodingcamera/tinywasm](https://github.com/explodingcamera/tinywasm) - A tiny WebAssembly runtime written in safe Rust
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
-- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - Efficient and versatile WebAssembly interpreter for embedded systems.
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
@@ -4384,6 +4385,7 @@
 ## game-engine 
 
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - WebAssembly (Wasm) Interpreter - An efficient, lightweight, and deterministic WebAssembly interpreter for embedded systems and plug-in runtimes.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 
@@ -7775,6 +7777,7 @@
 - [inferablehq/inferable](https://github.com/inferablehq/inferable) - Build reliable AI Workflows and Agents with humans in the loop, structured outputs and durable execution.
 - [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [nottelabs/notte](https://github.com/nottelabs/notte) - Cloud browser infrastructure and web automation platform for your AI and coding agents
 - [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
@@ -7787,7 +7790,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) - The agent framework where every run is durable, replayable, and resumable by default.
@@ -8226,7 +8229,7 @@
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
 - [TimoKats/mdrss](https://github.com/TimoKats/mdrss) - Convert markdown files to RSS feed using GO.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Convert your data to Markdown files you can use in Obsidian. Works with Apple Notes, OneNote, Evernote, Notion, Google Keep, and many other formats.
@@ -9919,7 +9922,7 @@
 - [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
 - [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
 - [rwx-cloud/rwx](https://github.com/rwx-cloud/rwx) - RWX is an agent-native cloud platform, powered by a new container runtime
-- [xcode-actions/swift-sh](https://github.com/xcode-actions/swift-sh) - Easily script with third-party Swift dependencies.
+- [swift-things/swift-sh](https://github.com/swift-things/swift-sh) - Easily script with third-party Swift dependencies.
 - [nkuntz1934/matrix-workers](https://github.com/nkuntz1934/matrix-workers) - 
 - [cori-do/cori-store](https://github.com/cori-do/cori-store) - Cori Kernel — the safe way for AI agents to do real things
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
@@ -13672,6 +13675,7 @@
 - [stvnksslr/uv-migrator](https://github.com/stvnksslr/uv-migrator) - tool for migrating to the uv package manager
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - The LLM Anti-Framework
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
 - [Oxen-AI/Oxen](https://github.com/Oxen-AI/Oxen) - Lightning fast data version control system for large repositories of data. Feels like git, pushes and pulls like oxen.
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
@@ -15058,7 +15062,6 @@
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [dzfrias/projectable](https://github.com/dzfrias/projectable) - :dizzy: A TUI file manager built for projects
 - [nexxeln/license-generator](https://github.com/nexxeln/license-generator) - Create licenses for your projects right from your terminal!
-- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - Efficient and versatile WebAssembly interpreter for embedded systems.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [containerd/runwasi](https://github.com/containerd/runwasi) - Facilitates running Wasm / WASI workloads managed by containerd
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an open source, unified infrastructure observability platform built in Rust on a data lake architecture. It tracks logs, metrics, traces, and events across apps, agents, and systems, redu
@@ -16913,6 +16916,7 @@
 - [dockview/dockview](https://github.com/dockview/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
 - [tommyjepsen/twblocks](https://github.com/tommyjepsen/twblocks) - Website blocks to copy/paste - based on shadcn & Radix using Tailwind and NextJS
 - [next-safe-action/next-safe-action](https://github.com/next-safe-action/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [loglayer/loglayer](https://github.com/loglayer/loglayer) - A modern logging library for Javascript / Typescript that routes logs to various logging libraries, cloud providers, files, StatsD, and OpenTelemetry while providing a fluent API for specifying log me
 - [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - The missing middleware for your configuration and secrets.
 - [WebLegions/typescript-fsm](https://github.com/WebLegions/typescript-fsm) - TS-FSM is a strongly typed finite state machine for TypeScript that is using async operations. Library uses generics to take the user states and events. Zero dependencies!
