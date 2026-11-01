@@ -393,6 +393,7 @@
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [tsonglew/dutis](https://github.com/tsonglew/dutis) - macOS default app manager for files and URL schemes, with a CLI, MCP server, and agent skills
+- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI Local (v2) is a CLI-based UI component library that copies components directly into your project. Works with AI tools, agent-driven UIs, and prompt-ready workflows.
@@ -7253,6 +7254,7 @@
 
 ## kubernetes 
 
+- [attune-io/attune](https://github.com/attune-io/attune) - Safe, in-place Kubernetes pod resource right-sizing. VPA done right.
 - [devsy-org/devsy](https://github.com/devsy-org/devsy) - Deploy secure local and cloud environments for developers and agents
 - [Augani/dory](https://github.com/Augani/dory) - Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes.
 - [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
@@ -9872,6 +9874,7 @@
 
 ## others 
 
+- [joeblau/subvox](https://github.com/joeblau/subvox) - 
 - [tanishqkancharla/diffmap](https://github.com/tanishqkancharla/diffmap) - big diff energy
 - [Fimil-dev/trust-center](https://github.com/Fimil-dev/trust-center) - Open-source, config-driven Trust Center for SaaS companies
 - [yielded-dev/auth](https://github.com/yielded-dev/auth) - Composable authentication, sessions, and identity workflows for Effect.
@@ -10058,7 +10061,7 @@
 - [joshka/tui-markdown](https://github.com/joshka/tui-markdown) - 
 - [taf2/mdvi](https://github.com/taf2/mdvi) - cli based Markdown viewer
 - [ZStud/reef](https://github.com/ZStud/reef) - Paste bash into fish. It just works.
-- [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents) - An open-source background agents coding system
+- [open-inspect/background-agents](https://github.com/open-inspect/background-agents) - An open-source background agents coding system
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [thenativeweb/eventsourcingdb-client-javascript](https://github.com/thenativeweb/eventsourcingdb-client-javascript) - The official JavaScript client SDK for EventSourcingDB.
