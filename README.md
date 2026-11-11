@@ -132,6 +132,7 @@
 
 ## C 
 
+- [Leviidev/Henge](https://github.com/Leviidev/Henge) - Emulate macOS on iOS and iPadOS
 - [glovebox-vr/glovebox](https://github.com/glovebox-vr/glovebox) - Play your own copy of Half-Life: Alyx on Apple Vision Pro, built on your Mac
 - [sqliteai/sqlite-multiwriter](https://github.com/sqliteai/sqlite-multiwriter) - Concurrent SQLite writes across threads and processes without modifying SQLite. No forks, no schema changes, up to 5.7x faster writes.
 - [silk-lang/silk](https://github.com/silk-lang/silk) - 
@@ -332,7 +333,7 @@
 - [janhq/cortex.cpp](https://github.com/janhq/cortex.cpp) - Local AI API Platform
 - [hmenyus/node-calls-python](https://github.com/hmenyus/node-calls-python) - Call Python from NodeJS directly in-process without spawning processes
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
@@ -596,7 +597,7 @@
 ## Elixir 
 
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
-- [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
+- [tuist/tuist](https://github.com/tuist/tuist) - Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.
 - [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - All-in-one delivery platform for AI-driven development.
 - [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people!
 - [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams, queues, and search indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more
@@ -697,7 +698,7 @@
 - [eminwux/sbsh](https://github.com/eminwux/sbsh) - 🚂 sbsh brings Terminal-as-Code to your workflow, making terminal environments reproducible, persistent, and safe to share across your team.
 - [mxpv/podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 - [pluqqy/pluqqy-terminal](https://github.com/pluqqy/pluqqy-terminal) - Terminal-based context management for AI driven development
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP, GraphQL, gRPC, WebSocket and SSE. Plain .http files you can diff and version, with scripted tests, workflows, mocks, recorder, and a CLI runner for CI.
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP, GraphQL, gRPC, WebSocket and SSE. Plain .http files you can diff and version, with scripted tests, workflows, mocks, recorder, and a CLI runner.
 - [TimoKats/emmer](https://github.com/TimoKats/emmer) - Self-hosted API for creating and querying JSON data on different storage providers.
 - [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - An exabyte-scale, multi-region distributed file system
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language.
@@ -784,7 +785,6 @@
 - [coder/aicommit](https://github.com/coder/aicommit) - become the world's laziest committer
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [peterldowns/localias](https://github.com/peterldowns/localias) - custom local domain aliases for local dev servers
-- [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs
 - [TimoKats/mdrss](https://github.com/TimoKats/mdrss) - Convert markdown files to RSS feed using GO.
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI, Arazzo, AsyncAPI & JSON Schema linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rul
 - [zuplo/zuplo](https://github.com/zuplo/zuplo) - API Management built for developers
@@ -841,6 +841,7 @@
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [gatewayd-io/gatewayd](https://github.com/gatewayd-io/gatewayd) - database gateway for building data-driven applications
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [iOliverNguyen/git-pr](https://github.com/iOliverNguyen/git-pr) - 
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup massive amounts of org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
@@ -1962,7 +1963,7 @@
 - [enhance-dev/enhance.dev](https://github.com/enhance-dev/enhance.dev) - Docs website for Enhance!
 - [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator) - Simple tool to generate HIDUTIL key remapping configurations for MacOS
 - [traceloop/jest-opentelemetry](https://github.com/traceloop/jest-opentelemetry) - Easily run integration tests for your backends
-- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail + Mailchimp + Sendgrid.
+- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Open-source, privacy-focused email service for custom domains. Free email forwarding, encrypted mailboxes (IMAP/POP3), SMTP sending, calendars and contacts (CalDAV/CardDAV), webhooks, and an email API
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 - [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
@@ -4517,7 +4518,7 @@
 - [cloud-in-a-bottle/cloud-in-a-bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle) - Deploy, use, and share web apps on a server you control. Your apps, data, and infrastructure stay yours.
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-- [HKUDS/AutoSwarm](https://github.com/HKUDS/AutoSwarm) - AutoSwarm: Unify Your Agents. Unify Your Context (Codex · Claude Code · DeepSeek Harness · Muse · Grok · WorkBuddy· nanobot · and more)
+- [HKUDS/AutoSwarm](https://github.com/HKUDS/AutoSwarm) - AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You.
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open-source and AI-powered cybersecurity tools for offensive security, vulnerability management, and autonomous pentesting. Built by hackers in Latin America, used worldwide.
 - [apache/ossie](https://github.com/apache/ossie) - Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic
 - [microsoft/CUAWright](https://github.com/microsoft/CUAWright) - A simple SWE-style browser+desktop agent framework that achieves SOTA results on long-horizon CUA tasks
@@ -5131,6 +5132,7 @@
 
 ## Rust 
 
+- [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
 - [gotempsh/temps](https://github.com/gotempsh/temps) - AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCode — deployments, analytics, session rep
 - [dialohq/swell](https://github.com/dialohq/swell) - Statically-typed inline Postgres queries for TypeScript
 - [colinhacks/reylo](https://github.com/colinhacks/reylo) - Import .sql files into TypeScript with full type inference and zero codegen.
@@ -5140,7 +5142,6 @@
 - [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) - An experimental Rust port of the TypeScript 7 compiler (tsc)
 - [pimalaya/himalaya-tui](https://github.com/pimalaya/himalaya-tui) - TUI to manage emails
 - [jdx/packslip](https://github.com/jdx/packslip) - A signed release manifest for vendor binaries
-- [ryuzcorp/noite](https://github.com/ryuzcorp/noite) - Tiny self-hostable PaaS for celld: Enjoy most of Cloudflare Worker APIs on your potato VPS.
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [thepartly/gatehouse](https://github.com/thepartly/gatehouse) - A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies.
 - [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally
@@ -6314,7 +6315,7 @@
 - [Cocoanetics/SwiftBash](https://github.com/Cocoanetics/SwiftBash) - Pure-Swift sandboxed bash interpreter — embeddable in Mac/iOS apps. No Process/fork/exec; commands are Swift types; sandbox-by-default for FS, network, processes, and identity.
 - [rlxone/Equinox](https://github.com/rlxone/Equinox) - 🌇 🌃  Create dynamic wallpapers for macOS.
 - [watzon/pindrop](https://github.com/watzon/pindrop) - Discontinued. Replaced by Sayso (https://justsayso.app). A native macOS menu bar dictation app using local speech-to-text with WhisperKit
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [Lcharvol/MacSift](https://github.com/Lcharvol/MacSift) - Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe.
 - [kamjin3086/AppUninstaller](https://github.com/kamjin3086/AppUninstaller) - A lightweight, native macOS app uninstaller with drag-and-drop support. Built with Swift and SwiftUI.
@@ -6490,6 +6491,8 @@
 
 ## TypeScript 
 
+- [NYLLON-SOFTWARE/ember-cloudflare](https://github.com/NYLLON-SOFTWARE/ember-cloudflare) - Open Source Slack and Campfire inspired chat with one click deploy to Cloudflare.
+- [ds-spec/detent-ui](https://github.com/ds-spec/detent-ui) - Premium React components you install with shadcn. Styled by your theme, yours to change. Free and open source.
 - [0sec-labs/0](https://github.com/0sec-labs/0) - The open-source AI security harness. Includes a web interface for code analysis, pentesting, vulnerability research, reverse engineering, verification, and fixing + CLI and MCP for agents.
 - [doeixd/foldkit-plus](https://github.com/doeixd/foldkit-plus) - Foldkit Plus: packages for Foldkit apps. Server data (Remote), local-first sync, routing (Site), SSR, forms, CRUD, a CMS, rich text, a page builder, and AI agents over MCP and WebMCP.
 - [callstack/agent-device](https://github.com/callstack/agent-device) - Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.
@@ -6512,7 +6515,8 @@
 - [personalagentproxy/proxy](https://github.com/personalagentproxy/proxy) - Personal Agent Proxy is an open-source, self-hostable access layer that lets you connect your services once, give each AI agent granular permissions, and audit its activity; without copying the conten
 - [appflare/appflare](https://github.com/appflare/appflare) - An app store for your Cloudflare account: install and update apps in your own account
 - [julia-script/effect-harness](https://github.com/julia-script/effect-harness) - 
-- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
+- [ryuzcorp/noite](https://github.com/ryuzcorp/noite) - Tiny self-hostable PaaS: Enjoy most of Cloudflare Worker APIs on your potato VPS.
+- [e2e-inc/e2e](https://github.com/e2e-inc/e2e) - Next generation e2e testing framework for web and mobile apps.
 - [supermemoryai/company-brain](https://github.com/supermemoryai/company-brain) - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.
 - [openai/mcp-extensions](https://github.com/openai/mcp-extensions) - Build plugins that feel like native, first-class features of ChatGPT.
 - [Vytral/harly](https://github.com/Vytral/harly) - Open-source, self-hosted Applicant Tracking System (ATS) — an alternative to Ashby, Greenhouse, and Workable.
@@ -7041,7 +7045,7 @@
 - [hexclave/hexclave](https://github.com/hexclave/hexclave) - The user infrastructure platform. You choose the frontend, backend, and database. Hexclave handles everything else.
 - [akash-joshi/rocketrpc](https://github.com/akash-joshi/rocketrpc) - A typesafe framework to destroy client-server barriers.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [opral/inlang](https://github.com/opral/inlang) - Git-based translation management system
+- [generaltranslation/inlang](https://github.com/generaltranslation/inlang) - Git-based translation management system
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [craigmichaelmartin/pure-orm](https://github.com/craigmichaelmartin/pure-orm) - A pure ORM for writing native SQL queries yielding pure business objects
 - [howerest/sdkzer](https://github.com/howerest/sdkzer) - Build a Javascript SDK for your REST api as if it was an ORM
@@ -7112,7 +7116,6 @@
 - [suites-dev/unit](https://github.com/suites-dev/unit) - A unit testing framework for TypeScript backends working with inversion of control and dependency injection
 - [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [jasonwilliams/vscode-helix](https://github.com/jasonwilliams/vscode-helix) - 
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [vlcn-io/materialite](https://github.com/vlcn-io/materialite) - Differential Dataflow & Incremental View Maintenance for JavaScript
 - [vlcn-io/typed-sql](https://github.com/vlcn-io/typed-sql) - 
 - [braintrustdata/braintrust-proxy](https://github.com/braintrustdata/braintrust-proxy) - 
@@ -7668,7 +7671,7 @@
 - [tgdwyer/WebCola](https://github.com/tgdwyer/WebCola) - Javascript constraint-based graph layout
 - [uber/react-view](https://github.com/uber/react-view) - React View is an interactive playground, documentation and code generator for your components.
 - [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated i
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules 📦, artifacts, caches and dev leftovers 🧹
 - [halfnelson/svelte-native](https://github.com/halfnelson/svelte-native) - Svelte controlling native components via Nativescript
 - [microsoft/react-native-tscodegen](https://github.com/microsoft/react-native-tscodegen) - Generate react-native turbo modules using TypeScript
 - [zilch/type-route](https://github.com/zilch/type-route) - The flexible, type safe routing library.
